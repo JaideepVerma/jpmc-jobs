@@ -14,41 +14,8 @@
 </head>
 <body>
     <h1>Latest Job Openings</h1>
-    <table>
-        <tr>
-            <th>Company</th>
-            <th>Role</th>
-            <th>Description</th>
-            <th>Responsibilities</th>
-            <th>Qualifications</th>
-            <th>Location</th>
-            <th>Posting Date</th>
-            <th>Posting Time</th>
-            <th>Job Family</th>
-            <th>Job Function</th>
-            <th>Apply Link</th>
-            <th>Loaded at</th>
-        </tr>
-        {% for job in jobs %}
-        <tr>
-            <td>{{ job[0] }}</td>
-            <td>{{ job[1] }}</td>
-            <td>{{ job[2] }}</td>
-            <td>{{ job[3] }}</td>
-            <td>{{ job[4] }}</td>
-            <td>{{ job[5] }}</td>
-            <td>{{ job[6] }}</td>
-            <td>{{ job[7] }}</td>
-            <td>{{ job[8] }}</td>
-            <td>{{ job[9] }}</td>
-            <td><a href="{{ job[10] }}" target="_blank">Apply</a></td>
-            <td>{{ job[11] }}</td>
-        </tr>
-        {% endfor %}
-    </table>
-</body>
-</html>
-
+     <div id="jobs">Loading jobs...</div>
+    
 <script>
   // Fetch the JSON file
   fetch("data.json")
@@ -81,3 +48,40 @@
       console.error("Error loading data:", err);
     });
 </script>
+    <!-- <table>
+        <tr>
+            <th>Company</th>
+            <th>Role</th>
+            <th>Description</th>
+            <th>Responsibilities</th>
+            <th>Qualifications</th>
+            <th>Location</th>
+            <th>Posting Date</th>
+            <th>Posting Time</th>
+            <th>Job Family</th>
+            <th>Job Function</th>
+            <th>Apply Link</th>
+            <th>Loaded at</th>
+        </tr>
+        {% for job in jobs %}
+       
+         <tr>
+            <td>{{ job[0] }}</td>
+            <td>{{ job[1] }}</td>
+            <td>{{ job[2] }}</td>
+            <td>{{ job[3] }}</td>
+            <td>{{ job[4] }}</td>
+            <td>{{ job[5] }}</td>
+            <td>{{ job[6] }}</td>
+            <td>{{ job[7] }}</td>
+            <td>{{ job[8] }}</td>
+            <td>{{ job[9] }}</td>
+            <td><a href="{{ job[10] }}" target="_blank">Apply</a></td>
+            <td>{{ job[11] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    -->
+</body>
+</html>
+
