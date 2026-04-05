@@ -1,0 +1,66 @@
+name: Scheduled Jobs
+
+on:
+  schedule:
+    # Run daily at 2:00 AM UTC (adjust as needed)
+    - cron: '0 2 * * *'
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+
+jobs:
+  run-jobs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run JPMCscrapejobs.py
+        run: python JPMCscrapejobs.py
+      
+      - name: Run JPMCdbsetup.py
+        run: python JPMCdbsetup.py
+      
+      - name: Generate static site
+        run: python JPMCapp.py --generate-static
+      
+      - name: Upload results
+        uses: actions/upload-artifact@v3
+        with:
+          name: job-results
+          path: output/
+          retention-days: 30
+
+  deploy-to-pages:
+    needs: run-jobs
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download results
+        uses: actions/download-artifact@v3
+        with:
+          name: job-results
+          path: output/
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
