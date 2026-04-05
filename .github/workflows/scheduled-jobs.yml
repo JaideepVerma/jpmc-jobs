@@ -24,12 +24,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      
-      - name: Run JPMCscrape_jobs.py
-        run: python JPMCscrape_jobs.py
-      
+          
       - name: Run JPMCdbsetup.py
         run: python JPMCdbsetup.py
+        
+      - name: Run JPMCscrape_jobs.py
+        run: python JPMCscrape_jobs.py
       
       - name: Generate static site
         run: python JPMCapp.py --generate-static
