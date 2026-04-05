@@ -1,5 +1,6 @@
 import json
 import os
+import flask
 current_dir = os.getcwd()
 dbpath = os.path.join(current_dir, 'JPMCjobs.db')
 # Connect to the DB created by your scraping script
