@@ -25,8 +25,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Run JPMCscrapejobs.py
-        run: python JPMCscrapejobs.py
+      - name: Run JPMCscrape_jobs.py
+        run: python JPMCscrape_jobs.py
       
       - name: Run JPMCdbsetup.py
         run: python JPMCdbsetup.py
