@@ -14,7 +14,8 @@
 </head>
 <body>
     <h1>Latest Job Openings</h1>
-    <div id="lastReload"></div>
+    <div id="lastReload" style="float:right; font-size:14px; color:#555;"></div>
+    <!-- <div id="lastReload"></div> -->
      <div id="jobs">Loading jobs...</div>
     
 <script>
@@ -26,13 +27,7 @@
         document.getElementById("lastReload").textContent = "Last reload: " + formatted;
       }
       */
-     // ✅ Show last loaded timestamp from JSON
-      const lastReloadDiv = document.getElementById("lastReload");
-      if (lastReloadDiv) {
-        // Use the most recent "loaded_at" field
-        const lastLoaded = data[data.length - 1].loaded_at;
-        lastReloadDiv.textContent = "Last job load: " + lastLoaded;
-      }
+     
   // Fetch the JSON file
 
       fetch("data.json")
@@ -68,7 +63,13 @@
           updateReloadTime();
         })
         .catch(err => console.error("Error loading data:", err));
-   
+   // ✅ Show last loaded timestamp from JSON
+      const lastReloadDiv = document.getElementById("lastReload");
+      if (lastReloadDiv) {
+        // Use the most recent "loaded_at" field
+        const lastLoaded = data[data.length - 1].loaded_at;
+        lastReloadDiv.textContent = "Last job load: " + lastLoaded;
+      }
 </script>
     <!-- <table>
         <tr>
