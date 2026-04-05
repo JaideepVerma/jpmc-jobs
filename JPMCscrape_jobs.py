@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import sqlite3
 from datetime import datetime
+import os
 
 
 from datetime import datetime, timezone, timedelta
@@ -53,7 +54,10 @@ def scrape_jpmc():
 
 
 def save_jobs(jobs):
-    dbpath = f'C:/Users/jdver/OneDrive/Desktop/py/JPMCjobs.db'
+    # Get current directory
+    current_dir = os.getcwd()
+    dbpath = os.path.join(current_dir, 'JPMCjobs.db')
+    #dbpath = f'C:/Users/jdver/OneDrive/Desktop/py/JPMCjobs.db'
     conn = sqlite3.connect(dbpath)
     c = conn.cursor()
     for job in jobs:
