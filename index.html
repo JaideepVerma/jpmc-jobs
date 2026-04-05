@@ -19,10 +19,19 @@
     
 <script>
      // Show last reload timestamp
-      function updateReloadTime() {
+    /*
+        function updateReloadTime() {
         const now = new Date();
         const formatted = now.toLocaleString(); // e.g. "4/5/2026, 7:31:00 PM"
         document.getElementById("lastReload").textContent = "Last reload: " + formatted;
+      }
+      */
+     // ✅ Show last loaded timestamp from JSON
+      const lastReloadDiv = document.getElementById("lastReload");
+      if (lastReloadDiv) {
+        // Use the most recent "loaded_at" field
+        const lastLoaded = data[data.length - 1].loaded_at;
+        lastReloadDiv.textContent = "Last job load: " + lastLoaded;
       }
   // Fetch the JSON file
 
