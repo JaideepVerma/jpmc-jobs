@@ -18,35 +18,39 @@
     
 <script>
   // Fetch the JSON file
-  fetch("data.json")
-    .then(response => response.json())
-    .then(data => {
-      // Find the container where you want to show data
-      const container = document.getElementById("jobs");
 
-      // Build a simple table
-      let html = "<table border='1'><tr>";
-      // Add headers
-      Object.keys(data[0]).forEach(key => {
-        html += `<th>${key}</th>`;
-      });
-      html += "</tr>";
+      fetch("data.json")
+        .then(response => response.json())
+        .then(data => {
+          const container = document.getElementById("jobs");
+          if (!container) return;
 
-      // Add rows
-      data.forEach(row => {
-        html += "<tr>";
-        Object.values(row).forEach(value => {
-          html += `<td>${value}</td>`;
-        });
-        html += "</tr>";
-      });
+          let html = "<table><tr>";
+          // Add headers
+          Object.keys(data[0]).forEach(key => {
+            html += `<th>${key}</th>`;
+          });
+          html += "</tr>";
 
-      html += "</table>";
-      container.innerHTML = html;
-    })
-    .catch(err => {
-      console.error("Error loading data:", err);
-    });
+          // Add rows
+          data.forEach(row => {
+            html += "<tr>";
+            Object.values(row).forEach(value => {
+              // Special case: apply_link should be clickable
+              if (String(value).startsWith("http")) {
+                html += `<td><a href="${value}" target="_blank">Apply</a></td>`;
+              } else {
+                html += `<td>${value ?? ""}</td>`;
+              }
+            });
+            html += "</tr>";
+          });
+
+          html += "</table>";
+          container.innerHTML = html;
+        })
+        .catch(err => console.error("Error loading data:", err));
+   
 </script>
     <!-- <table>
         <tr>
