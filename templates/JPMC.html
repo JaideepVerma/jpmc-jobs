@@ -17,6 +17,12 @@
      <div id="jobs">Loading jobs...</div>
     
 <script>
+     // Show last reload timestamp
+      function updateReloadTime() {
+        const now = new Date();
+        const formatted = now.toLocaleString(); // e.g. "4/5/2026, 7:31:00 PM"
+        document.getElementById("lastReload").textContent = "Last reload: " + formatted;
+      }
   // Fetch the JSON file
 
       fetch("data.json")
