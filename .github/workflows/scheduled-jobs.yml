@@ -3,7 +3,7 @@ name: Scheduled Jobs
 on:
   schedule:
     # Run daily at 2:00 AM UTC (adjust as needed)
-    - cron: '0 2 * * *'
+    - cron: '0 10-19 * * *'
   # Allow manual trigger from GitHub UI
   workflow_dispatch:
 
