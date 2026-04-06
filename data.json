@@ -12,8 +12,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689089",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
     "id": 2,
@@ -28,8 +28,8 @@
     "job_family": "Architecture",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702810",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
     "id": 3,
@@ -44,11 +44,27 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716069",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
     "id": 4,
+    "company": "JPMC",
+    "job_id": "210726026",
+    "role": "Client Tax Analyst",
+    "description": "IPB Tax team is responsible to perform US withholding tax and generating 1042s and 1099 reports to be filed with US Tax authority.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-06",
+    "job_family": "Client Tax",
+    "job_function": "Operations",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726026",
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
+  },
+  {
+    "id": 5,
     "company": "JPMC",
     "job_id": "210728479",
     "role": "Associate - Alternatives Client Account Management",
@@ -60,11 +76,11 @@
     "job_family": "Sales Support",
     "job_function": "Client Management",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728479",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "JPMC",
     "job_id": "210729363",
     "role": "Securities Services P&A Associate",
@@ -76,11 +92,11 @@
     "job_family": "Financial Analysis",
     "job_function": "Finance",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729363",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "JPMC",
     "job_id": "210729984",
     "role": "Lead Software Engineer - Salesforce",
@@ -92,11 +108,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729984",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "JPMC",
     "job_id": "210730889",
     "role": "Loan Servicing Associate",
@@ -108,11 +124,11 @@
     "job_family": "Lending Services",
     "job_function": "Operations",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730889",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "JPMC",
     "job_id": "210731267",
     "role": "Product Controller- Associate",
@@ -124,11 +140,11 @@
     "job_family": "Controller",
     "job_function": "Finance",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731267",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "JPMC",
     "job_id": "210731462",
     "role": "Counterparty Credit Risk Analyst/Associate",
@@ -140,11 +156,11 @@
     "job_family": "Associates",
     "job_function": "Program Analysts & Associate",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731462",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "JPMC",
     "job_id": "210731862",
     "role": "Client Data Product Associate",
@@ -156,11 +172,11 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731862",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "JPMC",
     "job_id": "210730254",
     "role": "Data Engineer III",
@@ -172,11 +188,11 @@
     "job_family": "Data Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730254",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "JPMC",
     "job_id": "210721262",
     "role": "Fund Servicing Manager - Vice President",
@@ -188,11 +204,11 @@
     "job_family": "Fund Servicing",
     "job_function": "Operations",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721262",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "JPMC",
     "job_id": "210706684",
     "role": "Lead Software Engineer",
@@ -204,11 +220,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706684",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "JPMC",
     "job_id": "210713538",
     "role": "Software Engineer II (Python, AI, ML)",
@@ -220,11 +236,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713538",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "JPMC",
     "job_id": "210713540",
     "role": "Software Engineer II (Python, AI, ML)",
@@ -236,11 +252,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713540",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "JPMC",
     "job_id": "210719088",
     "role": "Software Engineer II - .Net",
@@ -252,11 +268,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719088",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "JPMC",
     "job_id": "210731298",
     "role": "Portfolio Management Group - Trade Implementation Analyst",
@@ -268,11 +284,11 @@
     "job_family": "Portfolio Management",
     "job_function": "Product/Investment Mgmt",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731298",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "JPMC",
     "job_id": "210698950",
     "role": "Lead Software Engineer",
@@ -284,11 +300,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698950",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "JPMC",
     "job_id": "210707807",
     "role": "Software Engineer III-SRE",
@@ -300,11 +316,11 @@
     "job_family": "Infrastructure Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707807",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 20,
+    "id": 21,
     "company": "JPMC",
     "job_id": "210713050",
     "role": "Lead Infrastructure Engineer- DMZ Perimeter",
@@ -316,11 +332,11 @@
     "job_family": "Infrastructure Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713050",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 21,
+    "id": 22,
     "company": "JPMC",
     "job_id": "210713814",
     "role": "Lead Technical Program Manager - Process Engineering",
@@ -332,11 +348,11 @@
     "job_family": "Technical Program Delivery",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713814",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "JPMC",
     "job_id": "210716049",
     "role": "Software Engineer III",
@@ -348,11 +364,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716049",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "JPMC",
     "job_id": "210716050",
     "role": "Lead Software Engineer",
@@ -364,11 +380,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716050",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "JPMC",
     "job_id": "210716131",
     "role": "Security Engineer II - Java ,React Full Stack Developer",
@@ -380,23 +396,7 @@
     "job_family": "Security Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716131",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
-  },
-  {
-    "id": 25,
-    "company": "JPMC",
-    "job_id": "210718353",
-    "role": "Trade Support Analyst",
-    "description": "Join our team to support trade execution, process improvement, and risk management with precision and enthusiasm.\u202f ",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-02",
-    "job_family": "Trading Services",
-    "job_function": "Operations",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718353",
-    "posted_at": "2026-04-06 05:59:04",
-    "loaded_at": "2026-04-06 11:29:04"
+    "posted_at": "2026-04-06 06:20:25",
+    "loaded_at": "2026-04-06 11:50:25"
   }
 ]
