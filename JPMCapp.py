@@ -37,7 +37,7 @@ def generate_static_site():
     print(f"📊 Found {len(jobs)} jobs in database")
     
     # Read your template
-    with open('templates/JPMC.html', 'r') as f:
+    with open('templates/JPMC_1.html', 'r') as f:
         template_str = f.read()
     
     # Replace template variables with actual data
