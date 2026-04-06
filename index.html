@@ -373,7 +373,7 @@
     // ============================================================
     
     const TOPICS_CONFIG = [
-      { key: "jobs", name: "Job Listings", file: "data.json" }
+      { key: "jobs", name: "Job Listings", file: "data/jobs.json" }
       // Add more topics here:
       // { key: "products", name: "Products", file: "data/products.json" },
       // { key: "orders", name: "Orders", file: "data/orders.json" },
@@ -403,7 +403,6 @@
     const tableBody = document.getElementById('tableBody');
 
     // Load JSON file
-    filePath = "data.json" 
     async function loadJSON(filePath) {
       try {
         const response = await fetch(filePath);
