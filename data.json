@@ -12,8 +12,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689089",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 2,
@@ -28,8 +28,8 @@
     "job_family": "Architecture",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702810",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 3,
@@ -44,8 +44,8 @@
     "job_family": "Architecture",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707417",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 4,
@@ -60,8 +60,8 @@
     "job_family": "Trading Services",
     "job_function": "Operations",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710598",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 5,
@@ -76,8 +76,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711765",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 6,
@@ -92,8 +92,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711817",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 7,
@@ -108,8 +108,8 @@
     "job_family": "Operating Risk & Control Mgt",
     "job_function": "General Services",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210714331",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 8,
@@ -124,27 +124,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716069",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 9,
-    "company": "JPMC",
-    "job_id": "210718905",
-    "role": "Payment - Client Service Analyst",
-    "description": "Join us to elevate your career as a Payment Client Service Analyst, driving client success and innovation.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-06",
-    "job_family": "Client Service Delivery",
-    "job_function": "Operations",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718905",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
-  },
-  {
-    "id": 10,
     "company": "JPMC",
     "job_id": "210722565",
     "role": "Strategic Analytics - Associate",
@@ -156,11 +140,11 @@
     "job_family": "Risk Analytics/Modeling",
     "job_function": "Risk",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722565",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "JPMC",
     "job_id": "210723061",
     "role": "Software Engineer III - Java",
@@ -172,11 +156,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723061",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "JPMC",
     "job_id": "210726026",
     "role": "Client Tax Analyst",
@@ -188,11 +172,11 @@
     "job_family": "Client Tax",
     "job_function": "Operations",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726026",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "JPMC",
     "job_id": "210728142",
     "role": "Lead Software Engineer - Java, AWS",
@@ -204,11 +188,11 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728142",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "JPMC",
     "job_id": "210728479",
     "role": "Associate - Alternatives Client Account Management",
@@ -220,8 +204,24 @@
     "job_family": "Sales Support",
     "job_function": "Client Management",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728479",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
+  },
+  {
+    "id": 14,
+    "company": "JPMC",
+    "job_id": "210728800",
+    "role": "Software Engineer III - Java FullStack",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-06",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728800",
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 15,
@@ -236,11 +236,27 @@
     "job_family": "Payments Lifecycle",
     "job_function": "Operations",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728827",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
     "id": 16,
+    "company": "JPMC",
+    "job_id": "210728959",
+    "role": "Lead Cybersecurity Architect",
+    "description": "Shape and lead the strategic vision for technology risk and controls, driving excellence and innovation at a global scale.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-06",
+    "job_family": "Architecture",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728959",
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
+  },
+  {
+    "id": 17,
     "company": "JPMC",
     "job_id": "210729363",
     "role": "Securities Services P&A Associate",
@@ -252,11 +268,11 @@
     "job_family": "Financial Analysis",
     "job_function": "Finance",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729363",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "JPMC",
     "job_id": "210729845",
     "role": "Centralized Research Group - Security & Resiliency Initiative Associate",
@@ -268,11 +284,11 @@
     "job_family": "Research",
     "job_function": "Product/Investment Mgmt",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729845",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "JPMC",
     "job_id": "210729984",
     "role": "Lead Software Engineer - Salesforce",
@@ -284,11 +300,27 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729984",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 19,
+    "id": 20,
+    "company": "JPMC",
+    "job_id": "210729988",
+    "role": "Payments Utilities - Business Governance and Project Management lead",
+    "description": "Lead innovation and drive success as our Program Manager, shaping strategic visions into impactful realities at our dynamic firm.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-06",
+    "job_family": "Program & Project Management",
+    "job_function": "Project & Process Mgmt",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729988",
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
+  },
+  {
+    "id": 21,
     "company": "JPMC",
     "job_id": "210730266",
     "role": "Centralized Research Group - Security & Resiliency Initiative Senior Associate",
@@ -300,11 +332,27 @@
     "job_family": "Research",
     "job_function": "Product/Investment Mgmt",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730266",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 20,
+    "id": 22,
+    "company": "JPMC",
+    "job_id": "210730416",
+    "role": "Lead Software Engineer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-06",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730416",
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
+  },
+  {
+    "id": 23,
     "company": "JPMC",
     "job_id": "210730793",
     "role": "Payment Lifecycle Associate II",
@@ -316,11 +364,11 @@
     "job_family": "Payments Lifecycle",
     "job_function": "Operations",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730793",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 21,
+    "id": 24,
     "company": "JPMC",
     "job_id": "210730889",
     "role": "Loan Servicing Associate",
@@ -332,11 +380,11 @@
     "job_family": "Lending Services",
     "job_function": "Operations",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730889",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   },
   {
-    "id": 22,
+    "id": 25,
     "company": "JPMC",
     "job_id": "210731267",
     "role": "Product Controller- Associate",
@@ -348,55 +396,7 @@
     "job_family": "Controller",
     "job_function": "Finance",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731267",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
-  },
-  {
-    "id": 23,
-    "company": "JPMC",
-    "job_id": "210731364",
-    "role": "Trading Services Analyst",
-    "description": "Join JPMorganChase as a Trade Lifecycle Analyst to manage cash movements, funding, and drive process improvements across assets.\u202f ",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-06",
-    "job_family": "Trade Lifecycle",
-    "job_function": "Operations",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731364",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
-  },
-  {
-    "id": 24,
-    "company": "JPMC",
-    "job_id": "210731462",
-    "role": "Counterparty Credit Risk Analyst/Associate",
-    "description": "Counterparty Credit Risk (CCR) team, part of Wholesale Credit Risk, is responsible for measuring counterparty exposures, conducting ad-hoc risk investigations and analyses in partnership with credit officers, assessing and negotiating CSA terms, determining initial margin requirements, and maintaining all credit exposure metrics. The team also leads regulatory and capital stress testing exercises (CCAR, EBA, ICAAP), monitors exposures at the JPM legal entity level, evaluates collateral pools for emerging risk themes, and provides credit coverage for clearing house counterparties, including regulatory advocacy.\nAs a member of the CCR EMEA Capital team, the Analyst/Associate will support CCR risk management, ICAAP execution, regulatory CCR stress testing with a focus on legal entities in EMEA.\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-06",
-    "job_family": "Associates",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731462",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
-  },
-  {
-    "id": 25,
-    "company": "JPMC",
-    "job_id": "210731847",
-    "role": "Fund Servicing Associate",
-    "description": "Join the operations team that is driving the success of both the client and stakeholders in the Fund Services organization.\u202f",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-06",
-    "job_family": "Fund Servicing",
-    "job_function": "Operations",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731847",
-    "posted_at": "2026-04-06 08:12:44",
-    "loaded_at": "2026-04-06 13:42:44"
+    "posted_at": "2026-04-06 09:51:43",
+    "loaded_at": "2026-04-06 15:21:43"
   }
 ]
