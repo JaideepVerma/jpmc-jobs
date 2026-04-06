@@ -58,8 +58,8 @@
     }
 
     .header-content {
-      max-width: none;   
-      margin: 0 ;
+      max-width: none;
+      margin: 0;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -133,7 +133,7 @@
 
     main {
       max-width: none;
-      margin: 0 ;
+      margin: 0;
       padding: 1.5rem 0.5rem;
     }
 
@@ -167,10 +167,10 @@
 
     table {
       width: 100%;
-      border-collapse: collapse;
-      font-size: 0.875rem;
       min-width: 100%;
       table-layout: auto;
+      border-collapse: collapse;
+      font-size: 0.875rem;
     }
 
     thead {
@@ -190,10 +190,8 @@
       padding: 0.75rem 1rem;
       border-bottom: 1px solid var(--border);
       color: var(--foreground);
-      max-width: 200px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
+      vertical-align: top;
+      max-width: 300px;
     }
 
     td.link-cell a {
@@ -202,6 +200,38 @@
     }
 
     td.link-cell a:hover {
+      text-decoration: underline;
+    }
+
+    .cell-content {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+    }
+
+    .cell-content.collapsed {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .cell-content.expanded {
+      display: block;
+    }
+
+    .expand-btn {
+      background: none;
+      border: none;
+      color: #3b82f6;
+      cursor: pointer;
+      font-size: 0.75rem;
+      padding: 0.25rem 0;
+      margin-top: 0.25rem;
+      display: inline-block;
+    }
+
+    .expand-btn:hover {
       text-decoration: underline;
     }
 
@@ -442,6 +472,38 @@
       return typeof str === 'string' && (str.startsWith('http://') || str.startsWith('https://'));
     }
 
+    // Character limit for expand/collapse
+    const CHAR_LIMIT = 200;
+
+    // Render cell content with expand/collapse for long text
+    function renderCellContent(cellStr, rowIndex, colIndex) {
+      if (cellStr.length > CHAR_LIMIT) {
+        const cellId = `cell-${rowIndex}-${colIndex}`;
+        return `
+          <div class="cell-content collapsed" id="${cellId}">${cellStr}</div>
+          <button class="expand-btn" onclick="toggleCell('${cellId}', this)">Show more</button>
+        `;
+      }
+      return `<div class="cell-content">${cellStr}</div>`;
+    }
+
+    // Toggle expand/collapse
+    function toggleCell(cellId, btn) {
+      const cell = document.getElementById(cellId);
+      if (cell.classList.contains('collapsed')) {
+        cell.classList.remove('collapsed');
+        cell.classList.add('expanded');
+        btn.textContent = 'Show less';
+      } else {
+        cell.classList.remove('expanded');
+        cell.classList.add('collapsed');
+        btn.textContent = 'Show more';
+      }
+    }
+
+    // Make toggleCell available globally
+    window.toggleCell = toggleCell;
+
     // Render table
     function renderTable() {
       if (rawData.length === 0) {
@@ -482,16 +544,16 @@
           </tr>
         `;
       } else {
-        tableBody.innerHTML = filteredData.map(row => `
+        tableBody.innerHTML = filteredData.map((row, rowIndex) => `
           <tr>
-            ${columns.map(col => {
+            ${columns.map((col, colIndex) => {
               const cellValue = row[col];
               const cellStr = cellValue === null || cellValue === undefined ? '' : String(cellValue);
               
               if (isUrl(cellStr)) {
                 return `<td class="link-cell"><a href="${cellStr}" target="_blank" rel="noopener noreferrer">Apply</a></td>`;
               }
-              return `<td title="${cellStr}">${cellStr}</td>`;
+              return `<td>${renderCellContent(cellStr, rowIndex, colIndex)}</td>`;
             }).join('')}
           </tr>
         `).join('');
