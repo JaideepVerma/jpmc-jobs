@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Viewer</title>
+  <style>
+    :root {
+      --background: #ffffff;
+      --foreground: #0a0a0a;
+      --card: #ffffff;
+      --card-foreground: #0a0a0a;
+      --border: #e5e5e5;
+      --input: #e5e5e5;
+      --primary: #171717;
+      --primary-foreground: #fafafa;
+      --muted: #f5f5f5;
+      --muted-foreground: #737373;
+      --accent: #f5f5f5;
+      --radius: 8px;
+    }
+
+    [data-theme="dark"] {
+      --background: #0a0a0a;
+      --foreground: #fafafa;
+      --card: #0a0a0a;
+      --card-foreground: #fafafa;
+      --border: #262626;
+      --input: #262626;
+      --primary: #fafafa;
+      --primary-foreground: #171717;
+      --muted: #262626;
+      --muted-foreground: #a3a3a3;
+      --accent: #262626;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background-color: var(--background);
+      color: var(--foreground);
+      min-height: 100vh;
+      transition: background-color 0.2s, color 0.2s;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background-color: var(--background);
+      border-bottom: 1px solid var(--border);
+      padding: 0 1rem;
+    }
+
+    .header-content {
+      max-width: 1280px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+      gap: 1rem;
+    }
+
+    .dropdown-container {
+      position: relative;
+    }
+
+    .dropdown-button {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      background-color: var(--background);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--foreground);
+      font-size: 0.875rem;
+      cursor: pointer;
+      min-width: 140px;
+      justify-content: space-between;
+    }
+
+    .dropdown-button:hover {
+      background-color: var(--accent);
+    }
+
+    .dropdown-menu {
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      min-width: 160px;
+      background-color: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+      display: none;
+      z-index: 100;
+    }
+
+    .dropdown-menu.open {
+      display: block;
+    }
+
+    .dropdown-item {
+      padding: 0.625rem 1rem;
+      cursor: pointer;
+      font-size: 0.875rem;
+      color: var(--foreground);
+    }
+
+    .dropdown-item:hover {
+      background-color: var(--accent);
+    }
+
+    .dropdown-item:first-child {
+      border-radius: var(--radius) var(--radius) 0 0;
+    }
+
+    .dropdown-item:last-child {
+      border-radius: 0 0 var(--radius) var(--radius);
+    }
+
+    .search-container {
+      position: relative;
+      flex: 1;
+      max-width: 400px;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--muted-foreground);
+      width: 16px;
+      height: 16px;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.5rem 1rem 0.5rem 2.5rem;
+      background-color: var(--background);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--foreground);
+      font-size: 0.875rem;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    .search-input::placeholder {
+      color: var(--muted-foreground);
+    }
+
+    .theme-toggle {
+      padding: 0.5rem;
+      background: transparent;
+      border: none;
+      border-radius: var(--radius);
+      cursor: pointer;
+      color: var(--foreground);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .theme-toggle:hover {
+      background-color: var(--accent);
+    }
+
+    .theme-toggle svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    .page-header {
+      margin-bottom: 1.5rem;
+    }
+
+    .page-title {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--foreground);
+    }
+
+    .page-subtitle {
+      font-size: 0.875rem;
+      color: var(--muted-foreground);
+      margin-top: 0.25rem;
+    }
+
+    .table-container {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    .table-scroll {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.875rem;
+    }
+
+    thead {
+      background-color: var(--muted);
+    }
+
+    th {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      font-weight: 500;
+      color: var(--muted-foreground);
+      white-space: nowrap;
+      border-bottom: 1px solid var(--border);
+    }
+
+    td {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid var(--border);
+      color: var(--foreground);
+      max-width: 200px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    td.link-cell a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+
+    td.link-cell a:hover {
+      text-decoration: underline;
+    }
+
+    tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    tbody tr:hover {
+      background-color: var(--muted);
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted-foreground);
+    }
+
+    .empty-state svg {
+      width: 48px;
+      height: 48px;
+      margin: 0 auto 1rem;
+      opacity: 0.5;
+    }
+
+    .loading-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted-foreground);
+    }
+
+    @media (max-width: 640px) {
+      .header-content {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 0.75rem 0;
+        gap: 0.75rem;
+      }
+
+      .search-container {
+        order: 3;
+        max-width: 100%;
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="dropdown-container">
+        <button class="dropdown-button" id="topicDropdown">
+          <span id="selectedTopicLabel">Select Topic</span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="m6 9 6 6 6-6"/>
+          </svg>
+        </button>
+        <div class="dropdown-menu" id="topicMenu"></div>
+      </div>
+
+      <div class="search-container">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"/>
+          <path d="m21 21-4.3-4.3"/>
+        </svg>
+        <input type="search" class="search-input" id="searchInput" placeholder="Search across all columns...">
+      </div>
+
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+        <svg id="sunIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
+          <circle cx="12" cy="12" r="4"/>
+          <path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/>
+          <path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/>
+          <path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>
+        </svg>
+        <svg id="moonIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <div class="page-header">
+      <h1 class="page-title" id="pageTitle">Data Viewer</h1>
+      <p class="page-subtitle" id="pageSubtitle">Select a topic to view data</p>
+    </div>
+
+    <div class="table-container">
+      <div class="table-scroll">
+        <table>
+          <thead id="tableHead"></thead>
+          <tbody id="tableBody">
+            <tr>
+              <td colspan="12">
+                <div class="loading-state">Loading data...</div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // ============================================================
+    // CONFIGURATION - Add your JSON files here
+    // ============================================================
+    // Each topic needs:
+    //   - key: unique identifier (used internally)
+    //   - name: display name shown in dropdown
+    //   - file: path to JSON file
+    //
+    // Your JSON file should have this structure:
+    // {
+    //   "name": "Topic Name",
+    //   "columns": ["Column1", "Column2", ...],
+    //   "data": [
+    //     { "column1_key": "value1", "column2_key": "value2", ... },
+    //     ...
+    //   ]
+    // }
+    // ============================================================
+    
+    const TOPICS_CONFIG = [
+      { key: "jobs", name: "Job Listings", file: "data/jobs.json" }
+      // Add more topics here:
+      // { key: "products", name: "Products", file: "data/products.json" },
+      // { key: "orders", name: "Orders", file: "data/orders.json" },
+    ];
+
+    // ============================================================
+    // APPLICATION CODE - No need to modify below this line
+    // ============================================================
+
+    // State
+    let topicsData = {};
+    let currentTopic = null;
+    let searchQuery = '';
+    let isDarkMode = false;
+
+    // DOM Elements
+    const topicDropdown = document.getElementById('topicDropdown');
+    const topicMenu = document.getElementById('topicMenu');
+    const selectedTopicLabel = document.getElementById('selectedTopicLabel');
+    const searchInput = document.getElementById('searchInput');
+    const themeToggle = document.getElementById('themeToggle');
+    const sunIcon = document.getElementById('sunIcon');
+    const moonIcon = document.getElementById('moonIcon');
+    const pageTitle = document.getElementById('pageTitle');
+    const pageSubtitle = document.getElementById('pageSubtitle');
+    const tableHead = document.getElementById('tableHead');
+    const tableBody = document.getElementById('tableBody');
+
+    // Load JSON file
+    async function loadJSON(filePath) {
+      try {
+        const response = await fetch(filePath);
+        if (!response.ok) {
+          throw new Error(`Failed to load ${filePath}`);
+        }
+        return await response.json();
+      } catch (error) {
+        console.error(`Error loading ${filePath}:`, error);
+        return null;
+      }
+    }
+
+    // Initialize all topics from config
+    async function initializeTopics() {
+      for (const topic of TOPICS_CONFIG) {
+        const data = await loadJSON(topic.file);
+        if (data) {
+          topicsData[topic.key] = {
+            name: data.name || topic.name,
+            columns: data.columns,
+            data: data.data
+          };
+        }
+      }
+
+      // Set first topic as default
+      const firstKey = Object.keys(topicsData)[0];
+      if (firstKey) {
+        currentTopic = firstKey;
+        selectedTopicLabel.textContent = topicsData[firstKey].name;
+      }
+
+      initDropdown();
+      renderTable();
+    }
+
+    // Convert object row to array based on columns
+    function rowToArray(row, columns) {
+      // If data is already an array, return as-is
+      if (Array.isArray(row)) {
+        return row;
+      }
+      
+      // If data is an object, extract values in column order
+      // Map column names to likely object keys
+      const keyMap = {
+        'ID': 'id',
+        'Company': 'company',
+        'Job ID': 'job_id',
+        'Role': 'role',
+        'Description': 'description',
+        'Responsibilities': 'responsibilities',
+        'Qualifications': 'qualifications',
+        'Location': 'location',
+        'Posting Date': 'posting_date',
+        'Job Family': 'job_family',
+        'Apply Link': 'apply_link',
+        'Loaded At': 'loaded_at'
+      };
+
+      return columns.map(col => {
+        const key = keyMap[col] || col.toLowerCase().replace(/ /g, '_');
+        return row[key] || row[col] || '';
+      });
+    }
+
+    // Initialize dropdown menu
+    function initDropdown() {
+      topicMenu.innerHTML = '';
+      Object.entries(topicsData).forEach(([key, value]) => {
+        const item = document.createElement('div');
+        item.className = 'dropdown-item';
+        item.textContent = value.name;
+        item.addEventListener('click', () => {
+          currentTopic = key;
+          selectedTopicLabel.textContent = value.name;
+          topicMenu.classList.remove('open');
+          searchQuery = '';
+          searchInput.value = '';
+          renderTable();
+        });
+        topicMenu.appendChild(item);
+      });
+    }
+
+    // Toggle dropdown
+    topicDropdown.addEventListener('click', (e) => {
+      e.stopPropagation();
+      topicMenu.classList.toggle('open');
+    });
+
+    document.addEventListener('click', () => {
+      topicMenu.classList.remove('open');
+    });
+
+    // Search functionality
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = e.target.value.toLowerCase();
+      renderTable();
+    });
+
+    // Theme toggle
+    function updateThemeIcons() {
+      if (isDarkMode) {
+        sunIcon.style.display = 'block';
+        moonIcon.style.display = 'none';
+      } else {
+        sunIcon.style.display = 'none';
+        moonIcon.style.display = 'block';
+      }
+    }
+
+    themeToggle.addEventListener('click', () => {
+      isDarkMode = !isDarkMode;
+      document.documentElement.setAttribute('data-theme', isDarkMode ? 'dark' : 'light');
+      localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+      updateThemeIcons();
+    });
+
+    function loadTheme() {
+      const savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        isDarkMode = true;
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+      updateThemeIcons();
+    }
+
+    // Check if a string looks like a URL
+    function isUrl(str) {
+      return typeof str === 'string' && (str.startsWith('http://') || str.startsWith('https://'));
+    }
+
+    // Render table
+    function renderTable() {
+      if (!currentTopic || !topicsData[currentTopic]) {
+        tableBody.innerHTML = `
+          <tr>
+            <td colspan="12">
+              <div class="empty-state">
+                <p>No data loaded. Check your JSON file paths.</p>
+              </div>
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      const topic = topicsData[currentTopic];
+      const columns = topic.columns;
+      
+      // Convert data rows to arrays if they're objects
+      const normalizedData = topic.data.map(row => rowToArray(row, columns));
+      
+      // Filter data based on search query
+      const filteredData = searchQuery
+        ? normalizedData.filter(row => 
+            row.some(cell => String(cell).toLowerCase().includes(searchQuery))
+          )
+        : normalizedData;
+
+      // Update header
+      pageTitle.textContent = topic.name;
+      pageSubtitle.textContent = `Showing ${filteredData.length} of ${normalizedData.length} records`;
+
+      // Render table header
+      tableHead.innerHTML = `
+        <tr>
+          ${columns.map(col => `<th>${col}</th>`).join('')}
+        </tr>
+      `;
+
+      // Render table body
+      if (filteredData.length === 0) {
+        tableBody.innerHTML = `
+          <tr>
+            <td colspan="${columns.length}">
+              <div class="empty-state">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="11" cy="11" r="8"/>
+                  <path d="m21 21-4.3-4.3"/>
+                </svg>
+                <p>No results found for "${searchQuery}"</p>
+              </div>
+            </td>
+          </tr>
+        `;
+      } else {
+        tableBody.innerHTML = filteredData.map(row => `
+          <tr>
+            ${row.map(cell => {
+              const cellStr = String(cell);
+              if (isUrl(cellStr)) {
+                return `<td class="link-cell"><a href="${cellStr}" target="_blank" rel="noopener noreferrer">Apply</a></td>`;
+              }
+              return `<td title="${cellStr}">${cellStr}</td>`;
+            }).join('')}
+          </tr>
+        `).join('');
+      }
+    }
+
+    // Initialize
+    loadTheme();
+    initializeTopics();
+  </script>
+</body>
+</html>
