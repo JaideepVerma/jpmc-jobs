@@ -67,69 +67,17 @@
       gap: 1rem;
     }
 
-    .dropdown-container {
-      position: relative;
-    }
-
-    .dropdown-button {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      padding: 0.5rem 1rem;
-      background-color: var(--background);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
+    .site-title {
+      font-size: 1.125rem;
+      font-weight: 600;
       color: var(--foreground);
-      font-size: 0.875rem;
-      cursor: pointer;
-      min-width: 140px;
-      justify-content: space-between;
-    }
-
-    .dropdown-button:hover {
-      background-color: var(--accent);
-    }
-
-    .dropdown-menu {
-      position: absolute;
-      top: calc(100% + 4px);
-      left: 0;
-      min-width: 160px;
-      background-color: var(--card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-      display: none;
-      z-index: 100;
-    }
-
-    .dropdown-menu.open {
-      display: block;
-    }
-
-    .dropdown-item {
-      padding: 0.625rem 1rem;
-      cursor: pointer;
-      font-size: 0.875rem;
-      color: var(--foreground);
-    }
-
-    .dropdown-item:hover {
-      background-color: var(--accent);
-    }
-
-    .dropdown-item:first-child {
-      border-radius: var(--radius) var(--radius) 0 0;
-    }
-
-    .dropdown-item:last-child {
-      border-radius: 0 0 var(--radius) var(--radius);
+      white-space: nowrap;
     }
 
     .search-container {
       position: relative;
       flex: 1;
-      max-width: 400px;
+      max-width: 500px;
     }
 
     .search-icon {
@@ -279,6 +227,12 @@
       color: var(--muted-foreground);
     }
 
+    .error-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: #dc2626;
+    }
+
     @media (max-width: 640px) {
       .header-content {
         flex-wrap: wrap;
@@ -298,15 +252,7 @@
 <body>
   <header>
     <div class="header-content">
-      <div class="dropdown-container">
-        <button class="dropdown-button" id="topicDropdown">
-          <span id="selectedTopicLabel">Select Topic</span>
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="m6 9 6 6 6-6"/>
-          </svg>
-        </button>
-        <div class="dropdown-menu" id="topicMenu"></div>
-      </div>
+      <div class="site-title" id="siteTitle">Data Viewer</div>
 
       <div class="search-container">
         <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -333,7 +279,7 @@
   <main>
     <div class="page-header">
       <h1 class="page-title" id="pageTitle">Data Viewer</h1>
-      <p class="page-subtitle" id="pageSubtitle">Select a topic to view data</p>
+      <p class="page-subtitle" id="pageSubtitle">Loading data...</p>
     </div>
 
     <div class="table-container">
@@ -342,7 +288,7 @@
           <thead id="tableHead"></thead>
           <tbody id="tableBody">
             <tr>
-              <td colspan="12">
+              <td colspan="15">
                 <div class="loading-state">Loading data...</div>
               </td>
             </tr>
@@ -354,150 +300,104 @@
 
   <script>
     // ============================================================
-    // CONFIGURATION - Add your JSON files here
+    // CONFIGURATION - Set your JSON file path here
     // ============================================================
-    // Each topic needs:
-    //   - key: unique identifier (used internally)
-    //   - name: display name shown in dropdown
-    //   - file: path to JSON file
-    //
-    // Your JSON file should have this structure:
-    // {
-    //   "name": "Topic Name",
-    //   "columns": ["Column1", "Column2", ...],
-    //   "data": [
-    //     { "column1_key": "value1", "column2_key": "value2", ... },
-    //     ...
-    //   ]
-    // }
-    // ============================================================
+    const DATA_FILE = "data.json";
+    const PAGE_TITLE = "Job Listings"; // Change this to your preferred title
     
-    const TOPICS_CONFIG = [
-      { key: "jobs", name: "Job Listings", file: "data/jobs.json" }
-      // Add more topics here:
-      // { key: "products", name: "Products", file: "data/products.json" },
-      // { key: "orders", name: "Orders", file: "data/orders.json" },
-    ];
-
-    // ============================================================
-    // APPLICATION CODE - No need to modify below this line
+    // Your JSON should be a simple array of objects like:
+    // [
+    //   {
+    //     "id": 1,
+    //     "company": "JPMC",
+    //     "job_id": "210731393",
+    //     "role": "Data Owner Lead",
+    //     "description": "...",
+    //     "responsibilities": null,
+    //     "qualifications": null,
+    //     "location": "Bengaluru",
+    //     "posting_date": "2026-04-06",
+    //     "job_family": "Analytics",
+    //     "job_function": "Data & Analytics",
+    //     "apply_link": "https://...",
+    //     "posted_at": "2026-04-06 17:40:27",
+    //     "loaded_at": "2026-04-06 23:10:27"
+    //   }
+    // ]
     // ============================================================
 
     // State
-    let topicsData = {};
-    let currentTopic = null;
+    let rawData = [];
+    let columns = [];
     let searchQuery = '';
     let isDarkMode = false;
 
     // DOM Elements
-    const topicDropdown = document.getElementById('topicDropdown');
-    const topicMenu = document.getElementById('topicMenu');
-    const selectedTopicLabel = document.getElementById('selectedTopicLabel');
     const searchInput = document.getElementById('searchInput');
     const themeToggle = document.getElementById('themeToggle');
     const sunIcon = document.getElementById('sunIcon');
     const moonIcon = document.getElementById('moonIcon');
+    const siteTitle = document.getElementById('siteTitle');
     const pageTitle = document.getElementById('pageTitle');
     const pageSubtitle = document.getElementById('pageSubtitle');
     const tableHead = document.getElementById('tableHead');
     const tableBody = document.getElementById('tableBody');
 
+    // Format column names (snake_case to Title Case)
+    function formatColumnName(key) {
+      return key
+        .split('_')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+    }
+
     // Load JSON file
-    async function loadJSON(filePath) {
+    async function loadJSON() {
       try {
-        const response = await fetch(filePath);
+        const response = await fetch(DATA_FILE);
         if (!response.ok) {
-          throw new Error(`Failed to load ${filePath}`);
+          throw new Error(`Failed to load ${DATA_FILE} (Status: ${response.status})`);
         }
-        return await response.json();
+        const data = await response.json();
+        
+        // Handle flat array format (your format)
+        if (Array.isArray(data)) {
+          rawData = data;
+          // Extract columns from first object's keys
+          if (data.length > 0) {
+            columns = Object.keys(data[0]);
+          }
+        } 
+        // Also support nested format for flexibility
+        else if (data.data && Array.isArray(data.data)) {
+          rawData = data.data;
+          columns = data.columns || (data.data.length > 0 ? Object.keys(data.data[0]) : []);
+        }
+
+        siteTitle.textContent = PAGE_TITLE;
+        pageTitle.textContent = PAGE_TITLE;
+        document.title = PAGE_TITLE;
+        
+        renderTable();
       } catch (error) {
-        console.error(`Error loading ${filePath}:`, error);
-        return null;
+        console.error("Error loading JSON:", error);
+        tableBody.innerHTML = `
+          <tr>
+            <td colspan="15">
+              <div class="error-state">
+                <p><strong>Error loading data</strong></p>
+                <p style="margin-top: 0.5rem; font-size: 0.8rem;">${error.message}</p>
+                <p style="margin-top: 1rem; font-size: 0.8rem; color: var(--muted-foreground);">
+                  Make sure "${DATA_FILE}" exists in the same folder as this HTML file.<br>
+                  If running locally, use a server (e.g., <code>python -m http.server 8000</code>)
+                </p>
+              </div>
+            </td>
+          </tr>
+        `;
+        pageSubtitle.textContent = "Failed to load data";
       }
     }
-
-    // Initialize all topics from config
-    async function initializeTopics() {
-      for (const topic of TOPICS_CONFIG) {
-        const data = await loadJSON(topic.file);
-        if (data) {
-          topicsData[topic.key] = {
-            name: data.name || topic.name,
-            columns: data.columns,
-            data: data.data
-          };
-        }
-      }
-
-      // Set first topic as default
-      const firstKey = Object.keys(topicsData)[0];
-      if (firstKey) {
-        currentTopic = firstKey;
-        selectedTopicLabel.textContent = topicsData[firstKey].name;
-      }
-
-      initDropdown();
-      renderTable();
-    }
-
-    // Convert object row to array based on columns
-    function rowToArray(row, columns) {
-      // If data is already an array, return as-is
-      if (Array.isArray(row)) {
-        return row;
-      }
-      
-      // If data is an object, extract values in column order
-      // Map column names to likely object keys
-      const keyMap = {
-        'ID': 'id',
-        'Company': 'company',
-        'Job ID': 'job_id',
-        'Role': 'role',
-        'Description': 'description',
-        'Responsibilities': 'responsibilities',
-        'Qualifications': 'qualifications',
-        'Location': 'location',
-        'Posting Date': 'posting_date',
-        'Job Family': 'job_family',
-        'Apply Link': 'apply_link',
-        'Loaded At': 'loaded_at'
-      };
-
-      return columns.map(col => {
-        const key = keyMap[col] || col.toLowerCase().replace(/ /g, '_');
-        return row[key] || row[col] || '';
-      });
-    }
-
-    // Initialize dropdown menu
-    function initDropdown() {
-      topicMenu.innerHTML = '';
-      Object.entries(topicsData).forEach(([key, value]) => {
-        const item = document.createElement('div');
-        item.className = 'dropdown-item';
-        item.textContent = value.name;
-        item.addEventListener('click', () => {
-          currentTopic = key;
-          selectedTopicLabel.textContent = value.name;
-          topicMenu.classList.remove('open');
-          searchQuery = '';
-          searchInput.value = '';
-          renderTable();
-        });
-        topicMenu.appendChild(item);
-      });
-    }
-
-    // Toggle dropdown
-    topicDropdown.addEventListener('click', (e) => {
-      e.stopPropagation();
-      topicMenu.classList.toggle('open');
-    });
-
-    document.addEventListener('click', () => {
-      topicMenu.classList.remove('open');
-    });
 
     // Search functionality
     searchInput.addEventListener('input', (e) => {
@@ -539,40 +439,25 @@
 
     // Render table
     function renderTable() {
-      if (!currentTopic || !topicsData[currentTopic]) {
-        tableBody.innerHTML = `
-          <tr>
-            <td colspan="12">
-              <div class="empty-state">
-                <p>No data loaded. Check your JSON file paths.</p>
-              </div>
-            </td>
-          </tr>
-        `;
+      if (rawData.length === 0) {
+        pageSubtitle.textContent = "No data found";
         return;
       }
 
-      const topic = topicsData[currentTopic];
-      const columns = topic.columns;
-      
-      // Convert data rows to arrays if they're objects
-      const normalizedData = topic.data.map(row => rowToArray(row, columns));
-      
       // Filter data based on search query
       const filteredData = searchQuery
-        ? normalizedData.filter(row => 
-            row.some(cell => String(cell).toLowerCase().includes(searchQuery))
+        ? rawData.filter(row => 
+            columns.some(col => String(row[col] || '').toLowerCase().includes(searchQuery))
           )
-        : normalizedData;
+        : rawData;
 
-      // Update header
-      pageTitle.textContent = topic.name;
-      pageSubtitle.textContent = `Showing ${filteredData.length} of ${normalizedData.length} records`;
+      // Update subtitle
+      pageSubtitle.textContent = `Showing ${filteredData.length} of ${rawData.length} records`;
 
       // Render table header
       tableHead.innerHTML = `
         <tr>
-          ${columns.map(col => `<th>${col}</th>`).join('')}
+          ${columns.map(col => `<th>${formatColumnName(col)}</th>`).join('')}
         </tr>
       `;
 
@@ -594,8 +479,10 @@
       } else {
         tableBody.innerHTML = filteredData.map(row => `
           <tr>
-            ${row.map(cell => {
-              const cellStr = String(cell);
+            ${columns.map(col => {
+              const cellValue = row[col];
+              const cellStr = cellValue === null || cellValue === undefined ? '' : String(cellValue);
+              
               if (isUrl(cellStr)) {
                 return `<td class="link-cell"><a href="${cellStr}" target="_blank" rel="noopener noreferrer">Apply</a></td>`;
               }
@@ -608,7 +495,7 @@
 
     // Initialize
     loadTheme();
-    initializeTopics();
+    loadJSON();
   </script>
 </body>
 </html>
