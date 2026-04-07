@@ -5,7 +5,9 @@ import sqlite3
 
 os.makedirs("output", exist_ok=True)
 current_dir = os.getcwd()
+print('current_dir: ',current_dir)
 dbpath = os.path.join(current_dir, 'JPMCjobs.db')
+print('dbpath: ',dbpath)
 # Connect to the DB created by your scraping script
 conn = sqlite3.connect("JPMCjobs.db")
 cursor = conn.cursor()
@@ -20,6 +22,8 @@ data = [dict(zip(columns, row)) for row in rows]
 
 # Save as JSON inside output folder
 with open("output/data.json", "w") as f:
+    json.dump(data, f, indent=2)
+with open("output/test.json", "w") as f:
     json.dump(data, f, indent=2)
 
 conn.close()
