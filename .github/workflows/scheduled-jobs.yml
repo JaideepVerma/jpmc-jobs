@@ -30,6 +30,9 @@ jobs:
         
       - name: Run JPMCscrape_jobs.py
         run: python JPMCscrape_jobs.py
+
+      - name: Run AMZPagination.py
+        run: python AMZPagination.py
       
       - name: Export DB to JSON
         run: python export_to_json.py
