@@ -180,10 +180,11 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
 
     created_iso, created_epoch = epoch_to_iso_and_int(simple.get("createdDate"))
     updated_iso, updated_epoch = epoch_to_iso_and_int(simple.get("updatedDate"))
-
+    dt_index_end = created_iso.find("T")
+    updated_dt_index_end = updated_iso.find("T")
     record = {
         "company": 'AMAZON',
-        "job_id": simple.get("artJobId") or simple.get("icimsJobId") or simple.get("jobCode"),
+        "job_id": simple.get("icimsJobId"),# simple.get("artJobId") or simple.get("icimsJobId") or simple.get("jobCode"),
         "role": simple.get("title"),
        
         "job_family": simple.get("jobFamily"),
@@ -194,13 +195,16 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
         "description": strip_html(simple.get("description")),
         "responsibilities": 'responsibilities',
         "qualifications": strip_html(simple.get("basicQualifications")),
-       
-        "posting_date": created_iso + 'Updated at: ' + updated_iso,
+        
+        "posting_date": created_iso[:dt_index_end] ,
+        
+        "Updated_at" : updated_iso[:updated_dt_index_end],
         #"updated_at_iso": updated_iso,
         #"updated_at_epoch": updated_epoch,
         #"locations_raw": json.dumps(loc_parsed) if loc_parsed else None,
         "apply_link" : 'https://amazon.jobs/en/jobs/' + simple.get("icimsJobId")
     }
+    #print(created_iso[:dt_index_end] , '-',updated_iso[:updated_dt_index_end])
  # https://amazon.jobs/en/jobs/3206932/
     # Normalize empty strings to None
     for k, v in list(record.items()):
@@ -232,7 +236,7 @@ CREATE TABLE IF NOT EXISTS jobs (
     job_family TEXT,
     job_function TEXT,
     apply_link TEXT,
-    posted_at TEXT,
+    Updated_at TEXT,
     loaded_at TEXT 
 );
 """
@@ -247,11 +251,11 @@ INSERT_SQL = """
 INSERT OR REPLACE INTO jobs (
     job_id, role, company,  job_family,  
     location,description,responsibilities,qualifications,
-    job_function,posting_date,apply_link
+    job_function,posting_date,Updated_at,apply_link
 ) VALUES (
     :job_id, :role, :company, :job_family, 
     :location,:description, :responsibilities, :qualifications,
-    :job_function, :posting_date, 
+    :job_function, :posting_date, :Updated_at,
     :apply_link 
 );
 """
