@@ -69,9 +69,9 @@ def save_jobs(jobs):
                   (job["company"], job["job_id"]))
         if not c.fetchone():
             c.execute("""INSERT INTO jobs 
-                         (company, job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function, apply_link, posted_at,loaded_at) 
-                         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, datetime('now'),?)""",
-                      (job["company"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"], job["apply_link"], get_ist_timestamp()))
+                         (company, job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function, apply_link) 
+                         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                      (job["company"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"])
     conn.commit()
     conn.close()
 
