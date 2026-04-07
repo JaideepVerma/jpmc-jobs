@@ -187,7 +187,7 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
         "role": simple.get("title"),
        
         "job_family": simple.get("jobFamily"),
-        "JobFunction" : 'JobFunction',
+        "job_function" : 'Job-Function',
        
         "location": simple.get("normalizedLocation") or simple.get("location"),
       
@@ -247,11 +247,11 @@ INSERT_SQL = """
 INSERT OR REPLACE INTO jobs (
     job_id, role, company,  job_family,  
     location,description,responsibilities,qualifications,
-    job_function,posted_at,apply_link
+    job_function,posting_date,apply_link
 ) VALUES (
     :job_id, :role, :company, :job_family, 
     :location,:description, :responsibilities, :qualifications,
-    :job_function, :posted_at, 
+    :job_function, :posting_date, 
     :apply_link 
 );
 """
