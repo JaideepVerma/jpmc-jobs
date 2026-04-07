@@ -182,7 +182,7 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
     updated_iso, updated_epoch = epoch_to_iso_and_int(simple.get("updatedDate"))
 
     record = {
-        "company": 'AMAZON', #simple.get("companyName"),
+        "company": 'AMAZON', #simple.get("companyName"), #
         "job_id": simple.get("artJobId") or simple.get("icimsJobId") or simple.get("jobCode"),
         "role": simple.get("title"),
         #"team": simple.get("teamCategory") or simple.get("primarySearchLabel"),
