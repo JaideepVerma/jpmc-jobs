@@ -268,6 +268,123 @@
       color: #dc2626;
     }
 
+    /* Company Filter Styles */
+    .filter-section {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-label {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--foreground);
+    }
+
+    .filter-dropdown {
+      position: relative;
+    }
+
+    .filter-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      background-color: var(--background);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      cursor: pointer;
+      font-size: 0.875rem;
+      color: var(--foreground);
+      min-width: 200px;
+      justify-content: space-between;
+    }
+
+    .filter-toggle:hover {
+      background-color: var(--muted);
+    }
+
+    .filter-toggle svg {
+      width: 16px;
+      height: 16px;
+      transition: transform 0.2s;
+    }
+
+    .filter-toggle.open svg {
+      transform: rotate(180deg);
+    }
+
+    .filter-menu {
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      min-width: 250px;
+      max-height: 300px;
+      overflow-y: auto;
+      background-color: var(--background);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      z-index: 100;
+      display: none;
+    }
+
+    .filter-menu.open {
+      display: block;
+    }
+
+    .filter-option {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      font-size: 0.875rem;
+      color: var(--foreground);
+      transition: background-color 0.15s;
+    }
+
+    .filter-option:hover {
+      background-color: var(--muted);
+    }
+
+    .filter-option input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      cursor: pointer;
+      accent-color: var(--primary);
+    }
+
+    .filter-option.all-option {
+      border-bottom: 1px solid var(--border);
+      font-weight: 500;
+    }
+
+    .selected-count {
+      background-color: var(--primary);
+      color: var(--primary-foreground);
+      font-size: 0.75rem;
+      padding: 0.125rem 0.5rem;
+      border-radius: 9999px;
+    }
+
+    .clear-filter {
+      padding: 0.25rem 0.5rem;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      cursor: pointer;
+      font-size: 0.75rem;
+      color: var(--muted-foreground);
+    }
+
+    .clear-filter:hover {
+      background-color: var(--muted);
+      color: var(--foreground);
+    }
+
     @media (max-width: 640px) {
       .header-content {
         flex-wrap: wrap;
@@ -315,6 +432,20 @@
     <div class="page-header">
       <h1 class="page-title" id="pageTitle">Data Viewer</h1>
       <p class="page-subtitle" id="pageSubtitle">Loading data...</p>
+    </div>
+
+    <div class="filter-section" id="filterSection" style="display: none;">
+      <span class="filter-label">Filter by Company:</span>
+      <div class="filter-dropdown">
+        <button class="filter-toggle" id="filterToggle">
+          <span id="filterText">All Companies</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="m6 9 6 6 6-6"/>
+          </svg>
+        </button>
+        <div class="filter-menu" id="filterMenu"></div>
+      </div>
+      <button class="clear-filter" id="clearFilter" style="display: none;">Clear filter</button>
     </div>
 
     <div class="table-container">
@@ -366,6 +497,9 @@
     let columns = [];
     let searchQuery = '';
     let isDarkMode = false;
+    let allCompanies = [];
+    let selectedCompanies = new Set(); // Empty means "All"
+    let isFilterOpen = false;
 
     // DOM Elements
     const searchInput = document.getElementById('searchInput');
@@ -377,6 +511,11 @@
     const pageSubtitle = document.getElementById('pageSubtitle');
     const tableHead = document.getElementById('tableHead');
     const tableBody = document.getElementById('tableBody');
+    const filterSection = document.getElementById('filterSection');
+    const filterToggle = document.getElementById('filterToggle');
+    const filterMenu = document.getElementById('filterMenu');
+    const filterText = document.getElementById('filterText');
+    const clearFilter = document.getElementById('clearFilter');
 
     // Format column names (snake_case to Title Case)
     function formatColumnName(key) {
@@ -413,6 +552,7 @@
         pageTitle.textContent = PAGE_TITLE;
         document.title = PAGE_TITLE;
         
+        renderCompanyFilter();
         renderTable();
       } catch (error) {
         console.error("Error loading JSON:", error);
@@ -472,6 +612,131 @@
       return typeof str === 'string' && (str.startsWith('http://') || str.startsWith('https://'));
     }
 
+    // ============================================================
+    // COMPANY FILTER FUNCTIONALITY
+    // ============================================================
+    
+    // Detect company column (checks common variations)
+    function getCompanyColumn() {
+      const companyVariants = ['company', 'Company', 'COMPANY', 'company_name', 'companyName'];
+      return columns.find(col => companyVariants.includes(col)) || 
+             columns.find(col => col.toLowerCase().includes('company'));
+    }
+
+    // Extract unique companies from data
+    function extractCompanies() {
+      const companyCol = getCompanyColumn();
+      if (!companyCol) return [];
+      
+      const companies = new Set();
+      rawData.forEach(row => {
+        const company = row[companyCol];
+        if (company && company !== null && company !== '') {
+          companies.add(String(company));
+        }
+      });
+      return Array.from(companies).sort();
+    }
+
+    // Render company filter dropdown
+    function renderCompanyFilter() {
+      allCompanies = extractCompanies();
+      
+      if (allCompanies.length === 0) {
+        filterSection.style.display = 'none';
+        return;
+      }
+      
+      filterSection.style.display = 'flex';
+      
+      const allChecked = selectedCompanies.size === 0;
+      
+      filterMenu.innerHTML = `
+        <label class="filter-option all-option">
+          <input type="checkbox" id="filterAll" ${allChecked ? 'checked' : ''}>
+          <span>All Companies (${allCompanies.length})</span>
+        </label>
+        ${allCompanies.map(company => `
+          <label class="filter-option">
+            <input type="checkbox" value="${company}" class="company-checkbox" ${selectedCompanies.has(company) ? 'checked' : ''}>
+            <span>${company}</span>
+          </label>
+        `).join('')}
+      `;
+      
+      updateFilterText();
+      setupFilterListeners();
+    }
+
+    // Update filter button text
+    function updateFilterText() {
+      if (selectedCompanies.size === 0) {
+        filterText.innerHTML = 'All Companies';
+        clearFilter.style.display = 'none';
+      } else if (selectedCompanies.size === 1) {
+        filterText.innerHTML = Array.from(selectedCompanies)[0];
+        clearFilter.style.display = 'inline-block';
+      } else {
+        filterText.innerHTML = `<span class="selected-count">${selectedCompanies.size}</span> Companies selected`;
+        clearFilter.style.display = 'inline-block';
+      }
+    }
+
+    // Setup filter event listeners
+    function setupFilterListeners() {
+      const allCheckbox = document.getElementById('filterAll');
+      const companyCheckboxes = document.querySelectorAll('.company-checkbox');
+      
+      allCheckbox.addEventListener('change', (e) => {
+        if (e.target.checked) {
+          selectedCompanies.clear();
+          companyCheckboxes.forEach(cb => cb.checked = false);
+          updateFilterText();
+          renderTable();
+        }
+      });
+      
+      companyCheckboxes.forEach(cb => {
+        cb.addEventListener('change', (e) => {
+          if (e.target.checked) {
+            selectedCompanies.add(e.target.value);
+          } else {
+            selectedCompanies.delete(e.target.value);
+          }
+          
+          // Update "All" checkbox
+          allCheckbox.checked = selectedCompanies.size === 0;
+          
+          updateFilterText();
+          renderTable();
+        });
+      });
+    }
+
+    // Toggle filter dropdown
+    filterToggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      isFilterOpen = !isFilterOpen;
+      filterMenu.classList.toggle('open', isFilterOpen);
+      filterToggle.classList.toggle('open', isFilterOpen);
+    });
+
+    // Close filter on outside click
+    document.addEventListener('click', (e) => {
+      if (!filterToggle.contains(e.target) && !filterMenu.contains(e.target)) {
+        isFilterOpen = false;
+        filterMenu.classList.remove('open');
+        filterToggle.classList.remove('open');
+      }
+    });
+
+    // Clear filter button
+    clearFilter.addEventListener('click', () => {
+      selectedCompanies.clear();
+      renderCompanyFilter();
+      renderTable();
+    });
+
     // Character limit for expand/collapse
     const CHAR_LIMIT = 200;
 
@@ -511,12 +776,24 @@
         return;
       }
 
-      // Filter data based on search query
-      const filteredData = searchQuery
-        ? rawData.filter(row => 
-            columns.some(col => String(row[col] || '').toLowerCase().includes(searchQuery))
-          )
-        : rawData;
+      const companyCol = getCompanyColumn();
+
+      // Filter data based on company selection and search query
+      let filteredData = rawData;
+      
+      // Apply company filter
+      if (selectedCompanies.size > 0 && companyCol) {
+        filteredData = filteredData.filter(row => 
+          selectedCompanies.has(String(row[companyCol] || ''))
+        );
+      }
+      
+      // Apply search filter
+      if (searchQuery) {
+        filteredData = filteredData.filter(row => 
+          columns.some(col => String(row[col] || '').toLowerCase().includes(searchQuery))
+        );
+      }
 
       // Update subtitle
       pageSubtitle.textContent = `Showing ${filteredData.length} of ${rawData.length} records`;
