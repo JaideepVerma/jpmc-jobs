@@ -37,7 +37,7 @@ def scrape_zs():
         jobs = data.get("jobs", [])
 
         for item in jobs:
-            print(item)
+            #print(item)
             if item is None:
                 break
             job_data = item.get("data", {})
@@ -46,7 +46,7 @@ def scrape_zs():
             #description = job_data.get("description")
             qualificationsRAW = job_data.get("qualifications")
             responsibilities = job_data.get("responsibilities")
-            print(req_id)
+            #print(req_id)
             if (responsibilities) :
                 responsibilities_index2 = responsibilities.find("What you’ll bring")
                 #print(responsibilities)
