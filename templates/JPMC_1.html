@@ -384,7 +384,40 @@
       background-color: var(--muted);
       color: var(--foreground);
     }
+    .filter-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
 
+    .filter-left {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .last-reload {
+      font-size: 0.75rem;
+      color: var(--muted-foreground);
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+
+    .last-reload svg {
+      width: 14px;
+      height: 14px;
+    }
+
+    .last-reload-time {
+      font-weight: 500;
+      color: var(--foreground);
+    }
+    
     @media (max-width: 640px) {
       .header-content {
         flex-wrap: wrap;
@@ -433,19 +466,30 @@
       <h1 class="page-title" id="pageTitle">Data Viewer</h1>
       <p class="page-subtitle" id="pageSubtitle">Loading data...</p>
     </div>
-
-    <div class="filter-section" id="filterSection" style="display: none;">
-      <span class="filter-label">Filter by Company:</span>
-      <div class="filter-dropdown">
-        <button class="filter-toggle" id="filterToggle">
-          <span id="filterText">All Companies</span>
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="m6 9 6 6 6-6"/>
-          </svg>
-        </button>
-        <div class="filter-menu" id="filterMenu"></div>
+    <div class="filter-row">
+      <div class="filter-left" id="filterSection" style="display: none;">
+        <span class="filter-label">Filter by Company:</span>
+        <div class="filter-dropdown">
+          <button class="filter-toggle" id="filterToggle">
+            <span id="filterText">All Companies</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="m6 9 6 6 6-6"/>
+            </svg>
+          </button>
+          <div class="filter-menu" id="filterMenu"></div>
+        </div>
+        <button class="clear-filter" id="clearFilter" style="display: none;">Clear filter</button>
       </div>
-      <button class="clear-filter" id="clearFilter" style="display: none;">Clear filter</button>
+      <div class="last-reload" id="lastReload" style="display: none;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/>
+          <polyline points="12 6 12 12 16 14"/>
+        </svg>
+        <span>Last Reload:</span>
+        <span class="last-reload-time" id="lastReloadTime">--</span>
+
+      </div>
+     
     </div>
 
     <div class="table-container">
@@ -516,6 +560,8 @@
     const filterMenu = document.getElementById('filterMenu');
     const filterText = document.getElementById('filterText');
     const clearFilter = document.getElementById('clearFilter');
+    const lastReload = document.getElementById('lastReload');
+    const lastReloadTime = document.getElementById('lastReloadTime');
 
     // Format column names (snake_case to Title Case)
     function formatColumnName(key) {
@@ -524,6 +570,17 @@
         .map(word => word.charAt(0).toUpperCase() + word.slice(1))
         .join(' ');
     }
+    // Format date for display
+    function formatDateTime(date) {
+      const options = {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+      };
+      return date.toLocaleDateString('en-US', options);
+    }
 
     // Load JSON file
     async function loadJSON() {
@@ -531,6 +588,18 @@
         const response = await fetch(DATA_FILE);
         if (!response.ok) {
           throw new Error(`Failed to load ${DATA_FILE} (Status: ${response.status})`);
+        }
+        
+        // Get last modified time from headers
+        const lastModified = response.headers.get('Last-Modified');
+        if (lastModified) {
+          const lastModifiedDate = new Date(lastModified);
+          lastReloadTime.textContent = formatDateTime(lastModifiedDate);
+          lastReload.style.display = 'flex';
+        } else {
+          // If no Last-Modified header, show current time as fallback
+          lastReloadTime.textContent = formatDateTime(new Date());
+          lastReload.style.display = 'flex';
         }
         const data = await response.json();
         
