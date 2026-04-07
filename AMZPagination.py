@@ -192,7 +192,7 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
         "location": simple.get("normalizedLocation") or simple.get("location"),
       
         "description": strip_html(simple.get("description")),
-        "responsibilities": 'responsibilities'
+        "responsibilities": 'responsibilities',
         "qualifications": strip_html(simple.get("basicQualifications")),
        
         "posting_date": created_iso + 'Updated at: ' + updated_iso,
