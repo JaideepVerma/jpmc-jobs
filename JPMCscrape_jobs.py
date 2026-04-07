@@ -71,7 +71,7 @@ def save_jobs(jobs):
             c.execute("""INSERT INTO jobs 
                          (company, job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function, apply_link) 
                          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
-                      (job["company"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"])) ##
+                      (job["company"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"]),job["apply_link"]) ##
     conn.commit()
     conn.close()
 
