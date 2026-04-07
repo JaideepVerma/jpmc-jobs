@@ -182,30 +182,19 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
     updated_iso, updated_epoch = epoch_to_iso_and_int(simple.get("updatedDate"))
 
     record = {
-        "company": 'AMAZON', #simple.get("companyName"), #
+        "company": 'AMAZON',
         "job_id": simple.get("artJobId") or simple.get("icimsJobId") or simple.get("jobCode"),
         "role": simple.get("title"),
-        #"team": simple.get("teamCategory") or simple.get("primarySearchLabel"),
+       
         "job_family": simple.get("jobFamily"),
         "JobFunction" : 'JobFunction',
-        #"job_role": simple.get("jobRole"),
-        #"employment_type": simple.get("employeeClass") or simple.get("scheduleTypeId"),
-        #"is_tech": int(simple.get("isTech")) if simple.get("isTech") is not None else None,
-        #"is_intern": int(simple.get("isIntern")) if simple.get("isIntern") is not None else None,
-        #"city": simple.get("city") or loc_parsed.get("city") or simple.get("normalizedCityName"),
-        #"state": simple.get("normalizedStateName") or loc_parsed.get("normalizedStateName"),
-        #"country": simple.get("normalizedCountryCode") or loc_parsed.get("normalizedCountryCode") or loc_parsed.get("countryIso2a"),
+       
         "location": simple.get("normalizedLocation") or simple.get("location"),
-        #"short_description": strip_html(simple.get("shortDescription")),
-        #"description_text": strip_html(simple.get("description")),
+      
         "description": strip_html(simple.get("description")),
         "responsibilities": 'responsibilities'
         "qualifications": strip_html(simple.get("basicQualifications")),
-        #"preferred_qualifications": strip_html(simple.get("preferredQualifications")),
-        #"category": simple.get("category") or simple.get("businessCategory"),
-        #"apply_url": simple.get("urlNextStep") or simple.get("applyUrl"),
-        #"created_at_iso": created_iso,
-        #"created_at_epoch": created_epoch,
+       
         "posting_date": created_iso + 'Updated at: ' + updated_iso,
         #"updated_at_iso": updated_iso,
         #"updated_at_epoch": updated_epoch,
