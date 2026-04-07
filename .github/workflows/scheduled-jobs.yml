@@ -33,6 +33,9 @@ jobs:
 
       - name: Run AMZPagination.py
         run: python AMZPagination.py
+        
+      - name: Run ZSscrape.py
+        run: python ZSscrape.py
       
       - name: Export DB to JSON
         run: python export_to_json.py
