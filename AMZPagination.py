@@ -245,17 +245,14 @@ CREATE_INDEXES_SQL = [
 
 INSERT_SQL = """
 INSERT OR REPLACE INTO jobs (
-    job_id, title, company, team, job_family, job_role, employment_type,
-    is_tech, is_intern, city, state, country, location_display,
-    short_description, description_text, basic_qualifications, preferred_qualifications,
-    category, apply_url, created_at_iso, created_at_epoch, updated_at_iso, updated_at_epoch,
-    locations_raw,icimsJobId, loaded_at_iso
+    job_id, role, company,  job_family,  
+    location,description,responsibilities,qualifications,
+    ,job_function,posted_at,apply_link
 ) VALUES (
-    :job_id, :title, :company, :team, :job_family, :job_role, :employment_type,
-    :is_tech, :is_intern, :city, :state, :country, :location_display,
-    :short_description, :description_text, :basic_qualifications, :preferred_qualifications,
-    :category, :apply_url, :created_at_iso, :created_at_epoch, :updated_at_iso, :updated_at_epoch,
-    :locations_raw, :icimsJobId , :loaded_at_iso
+    :job_id, :role, :company, :job_family, 
+    :location,:description, :responsibilities, :qualifications,
+    :job_function, :posted_at, 
+    :apply_link 
 );
 """
 
@@ -263,8 +260,8 @@ def create_db(db_file: str = DB_FILE):
     conn = sqlite3.connect(db_file)
     cur = conn.cursor()
     cur.executescript(CREATE_TABLE_SQL)
-    for idx_sql in CREATE_INDEXES_SQL:
-        cur.execute(idx_sql)
+    #for idx_sql in CREATE_INDEXES_SQL:
+    #    cur.execute(idx_sql)
     conn.commit()
     conn.close()
 
