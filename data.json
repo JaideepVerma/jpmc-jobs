@@ -25,7 +25,7 @@
     "updated_at_epoch": 1775448713,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10383644",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "26fc3375-bb69-4eed-9299-efb87a0de3ce",
@@ -53,7 +53,7 @@
     "updated_at_epoch": 1774969390,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR13\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10380168",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "e3fa94f1-7dd5-48a5-ae4d-1197a57edc60",
@@ -81,7 +81,7 @@
     "updated_at_epoch": 1774594114,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR26\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10377874",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "42cff53d-9655-4e30-b20d-a85a9f302f8f",
@@ -109,7 +109,7 @@
     "updated_at_epoch": 1774593937,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR37\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10377873",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "e7baa76e-ba37-45ea-b631-90e9e104fe78",
@@ -137,7 +137,7 @@
     "updated_at_epoch": 1775172172,
     "locations_raw": "{\"normalizedStateName\": \"Telangana\", \"normalizedCountryCode\": \"IND\", \"city\": \"Hyderabad\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, TS, Hyderabad\", \"coordinates\": \"17.3949,78.47081\", \"normalizedCountyName\": \"Hyderabad\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Hyderabad, Telangana, IND\", \"location\": \"IN, TS, Hyderabad\", \"region\": \"TS\", \"buildingCodeList\": [\"HYD20\"], \"normalizedCityName\": \"Hyderabad\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10379521",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "8529f06c-29ec-4da7-be22-246737328d9e",
@@ -165,7 +165,7 @@
     "updated_at_epoch": 1774630165,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"PNNT\", \"TBL5\", \"BLR23\", \"TBI4\", \"BLR37\", \"BLR2\", \"TBA5\", \"UBL94\", \"KSZ6\", \"TBC4\", \"TBK1\", \"UBEB\", \"UBLH\", \"PNB8\", \"KSRF\", \"PBLC\", \"PMMZ\", \"TBI6\", \"TBQ1\", \"TBA7\", \"TBL3\", \"BLR264\", \"BLR21\", \"PMYH\", \"TBU8\", \"PBLL\", \"UBL4\", \"TBT4\", \"HBB93\", \"TBF3\", \"UBL92\", \"UBRH\", \"HKR5\", \"TBH2\", \"TBA9\", \"PBLJ\", \"TBH9\", \"TBQ5\", \"PMOJ\", \"BLR56\", \"UBLF\", \"KSRH\", \"HBRA\", \"TBI2\", \"TBF7\", \"SBLY\", \"PMQG\", \"TBV8\", \"TBF1\", \"TBI8\", \"PKHU\", \"BLX6\", \"HKR3\", \"UMYH\", \"IRDS\", \"PMYL\", \"TBN6\", \"IPCU\", \"TBU6\", \"PMYF\", \"HBL8\", \"PNB6\", \"TBC2\", \"BLR18\", \"TBL1\", \"PNBE\", \"TBJ8\", \"BLR252\", \"TBL7\", \"TBA3\", \"TBU1\", \"IRDF\", \"TBK7\", \"BLT5\", \"TBV6\", \"TBH6\", \"TBM4\", \"PNB3\", \"LBL1\", \"PNJ1\", \"UMYI\", \"PMQC\", \"IRXG\", \"TBH7\", \"BLR14\", \"IRDE\", \"TBJ1\", \"LKA2\", \"PNSJ\", \"PMMW\", \"PISK\", \"TBK5\", \"BLR13\", \"PMYK\", \"TBH8\", \"TBU2\", \"PMQA\", \"PBL2\", \"TBF9\", \"TBC9\", \"UMYJ\", \"KERO\", \"TBW1\", \"IPCV\", \"TBI7\", \"UBRN\", \"TBI1\", \"TBN4\", \"HKR4\", \"HBL9\", \"BLR39\", \"TBA4\", \"TBJ6\", \"UBRM\", \"TBN5\", \"PICL\", \"TBS8\", \"PMYJ\", \"PNBG\", \"BLR1\", \"TBF8\", \"TBV7\", \"PMQB\", \"PNBS\", \"PBA2\", \"TBH1\", \"UBL91\", \"TBV1\", \"TBF2\", \"TBQ3\", \"KSRG\", \"PMOI\", \"TBK6\", \"TBT8\", \"PNBY\", \"BLR260\", \"TBA6\", \"TBC3\", \"PMTV\", \"BLR22\", \"TBF4\", \"TBJ9\", \"PMYG\", \"TBQ2\", \"TBI5\", \"UBEC\", \"TBU7\", \"BLR253\", \"PNBD\", \"TBC1\", \"TBI3\", \"TBQ4\", \"TBL6\", \"TBK2\", \"PMOK\", \"TBJ7\", \"KSZ5\", \"UBL1\", \"TBU5\", \"TBF6\", \"BLR38\", \"TBH3\", \"BLR34\", \"PBLD\", \"TBV9\", \"PMQL\", \"TBM1\", \"WBLA\", \"BNG91\", \"PMMR\", \"TBV2\", \"TBK4\", \"KSRI\", \"MBL1\", \"IPCI\", \"UBRO\", \"TBW2\", \"PNNU\", \"PMYI\", \"TBU3\", \"PNB9\", \"BLR255\", \"TBC5\", \"TBJ5\", \"TBU9\", \"BLR12\", \"TBL4\", \"BLR31\", \"TBM3\", \"TBN7\", \"LKA1\", \"TBJ2\", \"UBO8\", \"UBL40\", \"SBLU\", \"HNR1\", \"HKR1\", \"TBC8\", \"PNBK\", \"PMNZ\", \"HKA2\", \"TBA1\", \"TBJ3\", \"TBV5\", \"TBJ4\", \"TBK8\", \"BLR27\", \"PMML\", \"KJM45\", \"TBA2\", \"TBI9\", \"TBH5\", \"TBV3\", \"HKR2\", \"PNO2\", \"UMYG\", \"QRRA\", \"TBL2\", \"TBP1\", \"YAM91\", \"BLR254\", \"BLR26\", \"TBC6\", \"BLRS\", \"IRDN\", \"TBL8\", \"UMYF\", \"HBE4\", \"BLR11\", \"UMYL\", \"TBH4\", \"TBL9\", \"PNB7\", \"TBA8\", \"TBU4\", \"TBV4\", \"BLR55\", \"TBF5\", \"TBQ6\", \"PBLB\", \"PBLH\", \"TBK3\", \"PMSD\", \"TBM2\", \"TBK9\", \"BNG92\", \"UBLG\", \"HKA3\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10376105",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "b4645269-7b93-42a1-b361-0e7b89bda277",
@@ -193,7 +193,7 @@
     "updated_at_epoch": 1774510599,
     "locations_raw": null,
     "icimsJobId": "https://amazon.jobs/en/jobs/10376764",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "f6595841-a0e0-4d3c-ae61-906baf9dd313",
@@ -221,7 +221,7 @@
     "updated_at_epoch": 1774268515,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR18\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10373343",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "ea589a7d-9cae-41fe-b703-fee7a031bf4d",
@@ -249,7 +249,7 @@
     "updated_at_epoch": 1774268523,
     "locations_raw": "{\"normalizedStateName\": \"Haryana\", \"normalizedCountryCode\": \"IND\", \"city\": \"Gurugram\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, HR, Gurugram\", \"coordinates\": \"28.47716,77.06847\", \"normalizedCountyName\": \"Gurugram\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Gurugram, Haryana, IND\", \"location\": \"IN, HR, Gurugram\", \"region\": \"HR\", \"buildingCodeList\": [\"DEL24\"], \"normalizedCityName\": \"Gurugram\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10373344",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "8d6161ad-9957-4ed8-9db6-fd27a710d8f2",
@@ -277,7 +277,7 @@
     "updated_at_epoch": 1774589631,
     "locations_raw": "{\"normalizedStateName\": \"Telangana\", \"normalizedCountryCode\": \"IND\", \"city\": \"Hyderabad\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, TS, Hyderabad\", \"coordinates\": \"17.3949,78.47081\", \"normalizedCountyName\": \"Hyderabad\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Hyderabad, Telangana, IND\", \"location\": \"IN, TS, Hyderabad\", \"region\": \"TS\", \"buildingCodeList\": [\"HYD13\"], \"normalizedCityName\": \"Hyderabad\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10377858",
-    "loaded_at_iso": "2026-04-07 18:33:09"
+    "loaded_at_iso": "2026-04-07 18:54:35"
   },
   {
     "job_id": "5db1450c-59ae-4af8-a8b7-ea44f5f91c65",
@@ -305,7 +305,7 @@
     "updated_at_epoch": 1775145876,
     "locations_raw": "{\"normalizedStateName\": \"Telangana\", \"normalizedCountryCode\": \"IND\", \"city\": \"Hyderabad\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, TS, Hyderabad\", \"coordinates\": \"17.3949,78.47081\", \"normalizedCountyName\": \"Hyderabad\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Hyderabad, Telangana, IND\", \"location\": \"IN, TS, Hyderabad\", \"region\": \"TS\", \"buildingCodeList\": [\"HYD13\"], \"normalizedCityName\": \"Hyderabad\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3204092",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "114c7335-3a7a-4d18-9dad-92a0cd0f57a0",
@@ -333,7 +333,7 @@
     "updated_at_epoch": 1773754258,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3206545",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "5dc2abe2-699e-4f62-a574-b76173038190",
@@ -361,7 +361,7 @@
     "updated_at_epoch": 1773754255,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3206546",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "5b9df178-e1e3-4937-8bf3-324caf5c4493",
@@ -389,7 +389,7 @@
     "updated_at_epoch": 1775125978,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR26\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3207578",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "d1a8a8c1-1479-4a82-a39d-b72357226bbb",
@@ -417,7 +417,7 @@
     "updated_at_epoch": 1775118790,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR26\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3207585",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "8da7c9e4-d963-48db-be09-5562b20609ed",
@@ -445,7 +445,7 @@
     "updated_at_epoch": 1774858417,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR26\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3207580",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "0cdddfe3-c8d7-402c-8533-c3d31ba55f78",
@@ -473,7 +473,7 @@
     "updated_at_epoch": 1773822882,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR26\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3207573",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "8149650b-447f-44bf-916f-23e127d43cef",
@@ -501,7 +501,7 @@
     "updated_at_epoch": 1773294914,
     "locations_raw": "{\"normalizedStateName\": \"Telangana\", \"normalizedCountryCode\": \"IND\", \"city\": \"Hyderabad\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, TS, Hyderabad\", \"coordinates\": \"17.3949,78.47081\", \"normalizedCountyName\": \"Hyderabad\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Hyderabad, Telangana, IND\", \"location\": \"IN, TS, Hyderabad\", \"region\": \"TS\", \"buildingCodeList\": [\"HYD13\"], \"normalizedCityName\": \"Hyderabad\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3203026",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "a90a07a7-71ed-4aa3-9a85-f33fe348fe1f",
@@ -529,7 +529,7 @@
     "updated_at_epoch": 1773395378,
     "locations_raw": "{\"normalizedStateName\": \"Telangana\", \"normalizedCountryCode\": \"IND\", \"city\": \"Hyderabad\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, TS, Hyderabad\", \"coordinates\": \"17.3949,78.47081\", \"normalizedCountyName\": \"Hyderabad\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Hyderabad, Telangana, IND\", \"location\": \"IN, TS, Hyderabad\", \"region\": \"TS\", \"buildingCodeList\": [\"HYD13\"], \"normalizedCityName\": \"Hyderabad\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3204165",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "5b897921-5ab7-4010-9b52-14519fe6fd72",
@@ -557,7 +557,7 @@
     "updated_at_epoch": 1773389833,
     "locations_raw": "{\"normalizedStateName\": \"Telangana\", \"normalizedCountryCode\": \"IND\", \"city\": \"Hyderabad\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, TS, Hyderabad\", \"coordinates\": \"17.3949,78.47081\", \"normalizedCountyName\": \"Hyderabad\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Hyderabad, Telangana, IND\", \"location\": \"IN, TS, Hyderabad\", \"region\": \"TS\", \"buildingCodeList\": [\"HYD13\"], \"normalizedCityName\": \"Hyderabad\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3204138",
-    "loaded_at_iso": "2026-04-07 18:33:10"
+    "loaded_at_iso": "2026-04-07 18:54:36"
   },
   {
     "job_id": "ca1802e9-8617-417f-bf0f-c35f5b3e0700",
@@ -585,7 +585,7 @@
     "updated_at_epoch": 1772813190,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR18\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3198336",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "130364b1-1cdf-45f3-92eb-4f2456c1a827",
@@ -613,7 +613,7 @@
     "updated_at_epoch": 1775499074,
     "locations_raw": "{\"normalizedStateName\": \"Telangana\", \"normalizedCountryCode\": \"IND\", \"city\": \"Hyderabad\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, TS, Hyderabad\", \"coordinates\": \"17.3949,78.47081\", \"normalizedCountyName\": \"Hyderabad\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Hyderabad, Telangana, IND\", \"location\": \"IN, TS, Hyderabad\", \"region\": \"TS\", \"buildingCodeList\": [\"HYD13\"], \"normalizedCityName\": \"Hyderabad\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10384219",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "462d55a3-2aff-4b6d-98b2-b243b75995ce",
@@ -641,7 +641,7 @@
     "updated_at_epoch": 1773944692,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/10371573",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "9f7c655d-c97f-4e25-afd1-e51a275f38fb",
@@ -669,7 +669,7 @@
     "updated_at_epoch": 1773769022,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR27\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3206932",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "0e4257c7-ff6a-4c8c-a729-8734d3d14a1c",
@@ -697,7 +697,7 @@
     "updated_at_epoch": 1772746482,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3197743",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "539b1080-f794-4b32-b469-72db1f4e01cd",
@@ -725,7 +725,7 @@
     "updated_at_epoch": 1773140193,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3197748",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "1bc2d6fd-23e6-448f-aff8-3c7ce42de945",
@@ -753,7 +753,7 @@
     "updated_at_epoch": 1773079685,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3199754",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "36f15fa5-bcf9-4c53-990f-baab41268109",
@@ -781,7 +781,7 @@
     "updated_at_epoch": 1773256446,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3202511",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "95b68911-714f-4764-ad03-1ec343def80d",
@@ -809,7 +809,7 @@
     "updated_at_epoch": 1773076762,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR26\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3199686",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "job_id": "cf0220bd-8a6a-41c1-bd1e-493600398b89",
@@ -837,7 +837,7 @@
     "updated_at_epoch": 1772528121,
     "locations_raw": "{\"normalizedStateName\": \"Karnataka\", \"normalizedCountryCode\": \"IND\", \"city\": \"Bengaluru\", \"countryIso3a\": \"IND\", \"countryIso2a\": \"IN\", \"locationNonStemming\": \"India, KA, Bengaluru\", \"coordinates\": \"12.96617,77.58692\", \"normalizedCountyName\": \"Bengaluru\", \"type\": \"ONSITE\", \"normalizedCountryName\": \"India\", \"normalizedLocation\": \"Bengaluru, Karnataka, IND\", \"location\": \"IN, KA, Bengaluru\", \"region\": \"KA\", \"buildingCodeList\": [\"BLR14\"], \"normalizedCityName\": \"Bengaluru\"}",
     "icimsJobId": "https://amazon.jobs/en/jobs/3193049",
-    "loaded_at_iso": "2026-04-07 18:33:11"
+    "loaded_at_iso": "2026-04-07 18:54:37"
   },
   {
     "id": 1,
@@ -852,8 +852,8 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723853",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 2,
@@ -868,8 +868,8 @@
     "job_family": "Analysts",
     "job_function": "Program Analysts & Associate",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721310",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 3,
@@ -884,8 +884,8 @@
     "job_family": "Analysts",
     "job_function": "Program Analysts & Associate",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732810",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 4,
@@ -900,8 +900,8 @@
     "job_family": "Analysts",
     "job_function": "Program Analysts & Associate",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732818",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 5,
@@ -916,8 +916,8 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711990",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 6,
@@ -932,8 +932,8 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720787",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 7,
@@ -948,8 +948,8 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725351",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 8,
@@ -964,8 +964,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680354",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 9,
@@ -980,8 +980,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706835",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 10,
@@ -996,8 +996,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707798",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 11,
@@ -1012,8 +1012,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710188",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 12,
@@ -1028,8 +1028,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716069",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 13,
@@ -1044,8 +1044,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716341",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 14,
@@ -1060,8 +1060,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716637",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 15,
@@ -1076,8 +1076,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717865",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 16,
@@ -1092,8 +1092,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719610",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 17,
@@ -1108,8 +1108,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726978",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 18,
@@ -1124,8 +1124,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727553",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 19,
@@ -1140,8 +1140,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727572",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 20,
@@ -1156,8 +1156,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728768",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 21,
@@ -1172,8 +1172,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728797",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 22,
@@ -1188,8 +1188,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729392",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 23,
@@ -1204,8 +1204,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729396",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 24,
@@ -1220,8 +1220,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730499",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 25,
@@ -1236,8 +1236,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730759",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 26,
@@ -1252,8 +1252,8 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731393",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 27,
@@ -1268,8 +1268,8 @@
     "job_family": "Analysts",
     "job_function": "Program Analysts & Associate",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721329",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 28,
@@ -1284,8 +1284,8 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731862",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 29,
@@ -1300,8 +1300,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689089",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 30,
@@ -1316,8 +1316,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210693734",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 31,
@@ -1332,8 +1332,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707680",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 32,
@@ -1348,8 +1348,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711765",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 33,
@@ -1364,8 +1364,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711841",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 34,
@@ -1380,8 +1380,8 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711817",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   },
   {
     "id": 35,
@@ -1396,7 +1396,7 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724399",
-    "posted_at": "2026-04-07 13:03:09",
-    "loaded_at": "2026-04-07 18:33:09"
+    "posted_at": "2026-04-07 13:24:34",
+    "loaded_at": "2026-04-07 18:54:34"
   }
 ]
