@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Viewer</title>
+  <style>
+    :root {
+      --background: #ffffff;
+      --foreground: #0a0a0a;
+      --card: #ffffff;
+      --card-foreground: #0a0a0a;
+      --border: #e5e5e5;
+      --input: #e5e5e5;
+      --primary: #171717;
+      --primary-foreground: #fafafa;
+      --muted: #f5f5f5;
+      --muted-foreground: #737373;
+      --accent: #f5f5f5;
+      --radius: 8px;
+    }
+
+    [data-theme="dark"] {
+      --background: #0a0a0a;
+      --foreground: #fafafa;
+      --card: #0a0a0a;
+      --card-foreground: #fafafa;
+      --border: #262626;
+      --input: #262626;
+      --primary: #fafafa;
+      --primary-foreground: #171717;
+      --muted: #262626;
+      --muted-foreground: #a3a3a3;
+      --accent: #262626;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background-color: var(--background);
+      color: var(--foreground);
+      min-height: 100vh;
+      transition: background-color 0.2s, color 0.2s;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background-color: var(--background);
+      border-bottom: 1px solid var(--border);
+      padding: 0 1rem;
+    }
+
+    .header-content {
+      max-width: none;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+      gap: 1rem;
+      padding: 0 0.5rem;
+    }
+
+    .site-title {
+      font-size: 1.125rem;
+      font-weight: 600;
+      color: var(--foreground);
+      white-space: nowrap;
+    }
+
+    .search-container {
+      position: relative;
+      flex: 1;
+      max-width: 500px;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--muted-foreground);
+      width: 16px;
+      height: 16px;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.5rem 1rem 0.5rem 2.5rem;
+      background-color: var(--background);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--foreground);
+      font-size: 0.875rem;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    .search-input::placeholder {
+      color: var(--muted-foreground);
+    }
+
+    .theme-toggle {
+      padding: 0.5rem;
+      background: transparent;
+      border: none;
+      border-radius: var(--radius);
+      cursor: pointer;
+      color: var(--foreground);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .theme-toggle:hover {
+      background-color: var(--accent);
+    }
+
+    .theme-toggle svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    main {
+      max-width: none;
+      margin: 0;
+      padding: 1.5rem 0.5rem;
+    }
+
+    .page-header {
+      margin-bottom: 1.5rem;
+    }
+
+    .page-title {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--foreground);
+    }
+
+    .page-subtitle {
+      font-size: 0.875rem;
+      color: var(--muted-foreground);
+      margin-top: 0.25rem;
+    }
+
+    .table-container {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      width: 100%;
+    }
+
+    .table-scroll {
+      overflow-x: auto;
+      width: 100%;
+    }
+
+    table {
+      width: 100%;
+      min-width: 100%;
+      table-layout: auto;
+      border-collapse: collapse;
+      font-size: 0.875rem;
+    }
+
+    thead {
+      background-color: var(--muted);
+    }
+
+    th {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      font-weight: 500;
+      color: var(--muted-foreground);
+      white-space: nowrap;
+      border-bottom: 1px solid var(--border);
+    }
+
+    td {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid var(--border);
+      color: var(--foreground);
+      vertical-align: top;
+      max-width: 300px;
+    }
+
+    td.link-cell a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+
+    td.link-cell a:hover {
+      text-decoration: underline;
+    }
+
+    .cell-content {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+    }
+
+    .cell-content.collapsed {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .cell-content.expanded {
+      display: block;
+    }
+
+    .expand-btn {
+      background: none;
+      border: none;
+      color: #3b82f6;
+      cursor: pointer;
+      font-size: 0.75rem;
+      padding: 0.25rem 0;
+      margin-top: 0.25rem;
+      display: inline-block;
+    }
+
+    .expand-btn:hover {
+      text-decoration: underline;
+    }
+
+    tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    tbody tr:hover {
+      background-color: var(--muted);
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted-foreground);
+    }
+
+    .empty-state svg {
+      width: 48px;
+      height: 48px;
+      margin: 0 auto 1rem;
+      opacity: 0.5;
+    }
+
+    .loading-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted-foreground);
+    }
+
+    .error-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: #dc2626;
+    }
+
+    /* Company Filter Styles */
+    .filter-section {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-label {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--foreground);
+    }
+
+    .filter-dropdown {
+      position: relative;
+    }
+
+    .filter-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      background-color: var(--background);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      cursor: pointer;
+      font-size: 0.875rem;
+      color: var(--foreground);
+      min-width: 200px;
+      justify-content: space-between;
+    }
+
+    .filter-toggle:hover {
+      background-color: var(--muted);
+    }
+
+    .filter-toggle svg {
+      width: 16px;
+      height: 16px;
+      transition: transform 0.2s;
+    }
+
+    .filter-toggle.open svg {
+      transform: rotate(180deg);
+    }
+
+    .filter-menu {
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      min-width: 250px;
+      max-height: 300px;
+      overflow-y: auto;
+      background-color: var(--background);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      z-index: 100;
+      display: none;
+    }
+
+    .filter-menu.open {
+      display: block;
+    }
+
+    .filter-option {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      font-size: 0.875rem;
+      color: var(--foreground);
+      transition: background-color 0.15s;
+    }
+
+    .filter-option:hover {
+      background-color: var(--muted);
+    }
+
+    .filter-option input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      cursor: pointer;
+      accent-color: var(--primary);
+    }
+
+    .filter-option.all-option {
+      border-bottom: 1px solid var(--border);
+      font-weight: 500;
+    }
+
+    .selected-count {
+      background-color: var(--primary);
+      color: var(--primary-foreground);
+      font-size: 0.75rem;
+      padding: 0.125rem 0.5rem;
+      border-radius: 9999px;
+    }
+
+    .clear-filter {
+      padding: 0.25rem 0.5rem;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      cursor: pointer;
+      font-size: 0.75rem;
+      color: var(--muted-foreground);
+    }
+
+    .clear-filter:hover {
+      background-color: var(--muted);
+      color: var(--foreground);
+    }
+
+    .filter-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .filter-left {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .last-reload {
+      font-size: 0.75rem;
+      color: var(--muted-foreground);
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+
+    .last-reload svg {
+      width: 14px;
+      height: 14px;
+    }
+
+    .last-reload-time {
+      font-weight: 500;
+      color: var(--foreground);
+    }
+
+    /* Column Selector Styles */
+    .column-selector {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      padding: 0.75rem 1rem;
+      background-color: var(--muted);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 1rem;
+    }
+
+    .column-selector-label {
+      font-size: 0.8rem;
+      font-weight: 500;
+      color: var(--muted-foreground);
+      margin-right: 0.5rem;
+    }
+
+    .column-checkbox-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+      padding: 0.25rem 0.625rem;
+      background-color: var(--background);
+      border: 1px solid var(--border);
+      border-radius: calc(var(--radius) - 2px);
+      cursor: pointer;
+      font-size: 0.8rem;
+      color: var(--foreground);
+      transition: all 0.15s;
+      user-select: none;
+    }
+
+    .column-checkbox-wrapper:hover {
+      border-color: var(--primary);
+    }
+
+    .column-checkbox-wrapper.checked {
+      background-color: var(--primary);
+      color: var(--primary-foreground);
+      border-color: var(--primary);
+    }
+
+    .column-checkbox-wrapper input[type="checkbox"] {
+      display: none;
+    }
+
+    .column-check-icon {
+      width: 14px;
+      height: 14px;
+      display: none;
+    }
+
+    .column-checkbox-wrapper.checked .column-check-icon {
+      display: inline-block;
+    }
+
+    @media (max-width: 640px) {
+      .header-content {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 0.75rem 0;
+        gap: 0.75rem;
+      }
+
+      .search-container {
+        order: 3;
+        max-width: 100%;
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="site-title" id="siteTitle">Data Viewer</div>
+
+      <div class="search-container">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"/>
+          <path d="m21 21-4.3-4.3"/>
+        </svg>
+        <input type="search" class="search-input" id="searchInput" placeholder="Search across all columns...">
+      </div>
+
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+        <svg id="sunIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
+          <circle cx="12" cy="12" r="4"/>
+          <path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/>
+          <path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/>
+          <path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>
+        </svg>
+        <svg id="moonIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <div class="page-header">
+      <h1 class="page-title" id="pageTitle">Data Viewer</h1>
+      <p class="page-subtitle" id="pageSubtitle">Loading data...</p>
+    </div>
+
+    <div class="filter-row">
+      <div class="filter-left" id="filterSection" style="display: none;">
+        <span class="filter-label">Filter by Company:</span>
+        <div class="filter-dropdown">
+          <button class="filter-toggle" id="filterToggle">
+            <span id="filterText">All Companies</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="m6 9 6 6 6-6"/>
+            </svg>
+          </button>
+          <div class="filter-menu" id="filterMenu"></div>
+        </div>
+        <button class="clear-filter" id="clearFilter" style="display: none;">Clear filter</button>
+      </div>
+      <div class="last-reload" id="lastReload" style="display: none;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/>
+          <polyline points="12 6 12 12 16 14"/>
+        </svg>
+        <span>Last Reload:</span>
+        <span class="last-reload-time" id="lastReloadTime">--</span>
+      </div>
+    </div>
+
+    <div class="table-container">
+      <div class="table-scroll">
+        <table>
+          <thead id="tableHead"></thead>
+          <tbody id="tableBody">
+            <tr>
+              <td colspan="15">
+                <div class="loading-state">Loading data...</div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // ============================================================
+    // CONFIGURATION - Set your JSON file path here
+    // ============================================================
+    const DATA_FILE = "data.json";
+    const PAGE_TITLE = "Job Listings"; // Change this to your preferred title
+    
+    // Your JSON should be a simple array of objects like:
+    // [
+    //   {
+    //     "id": 1,
+    //     "company": "JPMC",
+    //     "job_id": "210731393",
+    //     "role": "Data Owner Lead",
+    //     "description": "...",
+    //     "responsibilities": null,
+    //     "qualifications": null,
+    //     "location": "Bengaluru",
+    //     "posting_date": "2026-04-06",
+    //     "job_family": "Analytics",
+    //     "job_function": "Data & Analytics",
+    //     "apply_link": "https://...",
+    //     "posted_at": "2026-04-06 17:40:27",
+    //     "loaded_at": "2026-04-06 23:10:27"
+    //   }
+    // ]
+    // ============================================================
+
+    // State
+    let rawData = [];
+    let columns = [];
+    let searchQuery = '';
+    let isDarkMode = false;
+    let allCompanies = [];
+    let selectedCompanies = new Set(); // Empty means "All"
+    let isFilterOpen = false;
+
+    // DOM Elements
+    const searchInput = document.getElementById('searchInput');
+    const themeToggle = document.getElementById('themeToggle');
+    const sunIcon = document.getElementById('sunIcon');
+    const moonIcon = document.getElementById('moonIcon');
+    const siteTitle = document.getElementById('siteTitle');
+    const pageTitle = document.getElementById('pageTitle');
+    const pageSubtitle = document.getElementById('pageSubtitle');
+    const tableHead = document.getElementById('tableHead');
+    const tableBody = document.getElementById('tableBody');
+    const filterSection = document.getElementById('filterSection');
+    const filterToggle = document.getElementById('filterToggle');
+    const filterMenu = document.getElementById('filterMenu');
+    const filterText = document.getElementById('filterText');
+    const clearFilter = document.getElementById('clearFilter');
+    const lastReload = document.getElementById('lastReload');
+    const lastReloadTime = document.getElementById('lastReloadTime');
+
+    // Format column names (snake_case to Title Case)
+    function formatColumnName(key) {
+      return key
+        .split('_')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+    }
+
+    // Format date for display
+    function formatDateTime(date) {
+      const options = {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+      };
+      return date.toLocaleDateString('en-US', options);
+    }
+
+    // Load JSON file
+    async function loadJSON() {
+      try {
+        const response = await fetch(DATA_FILE);
+        if (!response.ok) {
+          throw new Error(`Failed to load ${DATA_FILE} (Status: ${response.status})`);
+        }
+
+        // Get last modified time from headers
+        const lastModified = response.headers.get('Last-Modified');
+        if (lastModified) {
+          const lastModifiedDate = new Date(lastModified);
+          lastReloadTime.textContent = formatDateTime(lastModifiedDate);
+          lastReload.style.display = 'flex';
+        } else {
+          // If no Last-Modified header, show current time as fallback
+          lastReloadTime.textContent = formatDateTime(new Date());
+          lastReload.style.display = 'flex';
+        }
+
+        const data = await response.json();
+        
+        // Handle flat array format (your format)
+        if (Array.isArray(data)) {
+          rawData = data;
+          // Extract columns from first object's keys
+          if (data.length > 0) {
+            columns = Object.keys(data[0]);
+          }
+        } 
+        // Also support nested format for flexibility
+        else if (data.data && Array.isArray(data.data)) {
+          rawData = data.data;
+          columns = data.columns || (data.data.length > 0 ? Object.keys(data.data[0]) : []);
+        }
+
+        siteTitle.textContent = PAGE_TITLE;
+        pageTitle.textContent = PAGE_TITLE;
+        document.title = PAGE_TITLE;
+        
+        renderCompanyFilter();
+        renderTable();
+      } catch (error) {
+        console.error("Error loading JSON:", error);
+        tableBody.innerHTML = `
+          <tr>
+            <td colspan="15">
+              <div class="error-state">
+                <p><strong>Error loading data</strong></p>
+                <p style="margin-top: 0.5rem; font-size: 0.8rem;">${error.message}</p>
+                <p style="margin-top: 1rem; font-size: 0.8rem; color: var(--muted-foreground);">
+                  Make sure "${DATA_FILE}" exists in the same folder as this HTML file.<br>
+                  If running locally, use a server (e.g., <code>python -m http.server 8000</code>)
+                </p>
+              </div>
+            </td>
+          </tr>
+        `;
+        pageSubtitle.textContent = "Failed to load data";
+      }
+    }
+
+    // Search functionality
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = e.target.value.toLowerCase();
+      renderTable();
+    });
+
+    // Theme toggle
+    function updateThemeIcons() {
+      if (isDarkMode) {
+        sunIcon.style.display = 'block';
+        moonIcon.style.display = 'none';
+      } else {
+        sunIcon.style.display = 'none';
+        moonIcon.style.display = 'block';
+      }
+    }
+
+    themeToggle.addEventListener('click', () => {
+      isDarkMode = !isDarkMode;
+      document.documentElement.setAttribute('data-theme', isDarkMode ? 'dark' : 'light');
+      localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+      updateThemeIcons();
+    });
+
+    function loadTheme() {
+      const savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        isDarkMode = true;
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+      updateThemeIcons();
+    }
+
+    // Check if a string looks like a URL
+    function isUrl(str) {
+      return typeof str === 'string' && (str.startsWith('http://') || str.startsWith('https://'));
+    }
+
+    // ============================================================
+    // COMPANY FILTER FUNCTIONALITY
+    // ============================================================
+    
+    // Detect company column (checks common variations)
+    function getCompanyColumn() {
+      const companyVariants = ['company', 'Company', 'COMPANY', 'company_name', 'companyName'];
+      return columns.find(col => companyVariants.includes(col)) || 
+             columns.find(col => col.toLowerCase().includes('company'));
+    }
+
+    // Extract unique companies from data
+    function extractCompanies() {
+      const companyCol = getCompanyColumn();
+      if (!companyCol) return [];
+      
+      const companies = new Set();
+      rawData.forEach(row => {
+        const company = row[companyCol];
+        if (company && company !== null && company !== '') {
+          companies.add(String(company));
+        }
+      });
+      return Array.from(companies).sort();
+    }
+
+    // Render company filter dropdown
+    function renderCompanyFilter() {
+      allCompanies = extractCompanies();
+      
+      if (allCompanies.length === 0) {
+        filterSection.style.display = 'none';
+        return;
+      }
+      
+      filterSection.style.display = 'flex';
+      
+      const allChecked = selectedCompanies.size === 0;
+      
+      filterMenu.innerHTML = `
+        <label class="filter-option all-option">
+          <input type="checkbox" id="filterAll" ${allChecked ? 'checked' : ''}>
+          <span>All Companies (${allCompanies.length})</span>
+        </label>
+        ${allCompanies.map(company => `
+          <label class="filter-option">
+            <input type="checkbox" value="${company}" class="company-checkbox" ${selectedCompanies.has(company) ? 'checked' : ''}>
+            <span>${company}</span>
+          </label>
+        `).join('')}
+      `;
+      
+      updateFilterText();
+      setupFilterListeners();
+    }
+
+    // Update filter button text
+    function updateFilterText() {
+      if (selectedCompanies.size === 0) {
+        filterText.innerHTML = 'All Companies';
+        clearFilter.style.display = 'none';
+      } else if (selectedCompanies.size === 1) {
+        filterText.innerHTML = Array.from(selectedCompanies)[0];
+        clearFilter.style.display = 'inline-block';
+      } else {
+        filterText.innerHTML = `<span class="selected-count">${selectedCompanies.size}</span> Companies selected`;
+        clearFilter.style.display = 'inline-block';
+      }
+    }
+
+    // Setup filter event listeners
+    function setupFilterListeners() {
+      const allCheckbox = document.getElementById('filterAll');
+      const companyCheckboxes = document.querySelectorAll('.company-checkbox');
+      
+      allCheckbox.addEventListener('change', (e) => {
+        if (e.target.checked) {
+          selectedCompanies.clear();
+          companyCheckboxes.forEach(cb => cb.checked = false);
+          updateFilterText();
+          renderTable();
+        }
+      });
+      
+      companyCheckboxes.forEach(cb => {
+        cb.addEventListener('change', (e) => {
+          if (e.target.checked) {
+            selectedCompanies.add(e.target.value);
+          } else {
+            selectedCompanies.delete(e.target.value);
+          }
+          
+          // Update "All" checkbox
+          allCheckbox.checked = selectedCompanies.size === 0;
+          
+          updateFilterText();
+          renderTable();
+        });
+      });
+    }
+
+    // Toggle filter dropdown
+    filterToggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      isFilterOpen = !isFilterOpen;
+      filterMenu.classList.toggle('open', isFilterOpen);
+      filterToggle.classList.toggle('open', isFilterOpen);
+    });
+
+    // Close filter on outside click
+    document.addEventListener('click', (e) => {
+      if (!filterToggle.contains(e.target) && !filterMenu.contains(e.target)) {
+        isFilterOpen = false;
+        filterMenu.classList.remove('open');
+        filterToggle.classList.remove('open');
+      }
+    });
+
+    // Clear filter button
+    clearFilter.addEventListener('click', () => {
+      selectedCompanies.clear();
+      renderCompanyFilter();
+      renderTable();
+    });
+
+    // Character limit for expand/collapse
+    const CHAR_LIMIT = 200;
+
+    // Render cell content with expand/collapse for long text
+    function renderCellContent(cellStr, rowIndex, colIndex) {
+      if (cellStr.length > CHAR_LIMIT) {
+        const cellId = `cell-${rowIndex}-${colIndex}`;
+        return `
+          <div class="cell-content collapsed" id="${cellId}">${cellStr}</div>
+          <button class="expand-btn" onclick="toggleCell('${cellId}', this)">Show more</button>
+        `;
+      }
+      return `<div class="cell-content">${cellStr}</div>`;
+    }
+
+    // Toggle expand/collapse
+    function toggleCell(cellId, btn) {
+      const cell = document.getElementById(cellId);
+      if (cell.classList.contains('collapsed')) {
+        cell.classList.remove('collapsed');
+        cell.classList.add('expanded');
+        btn.textContent = 'Show less';
+      } else {
+        cell.classList.remove('expanded');
+        cell.classList.add('collapsed');
+        btn.textContent = 'Show more';
+      }
+    }
+
+    // Make toggleCell available globally
+    window.toggleCell = toggleCell;
+
+    // Render table
+    function renderTable() {
+      if (rawData.length === 0) {
+        pageSubtitle.textContent = "No data found";
+        return;
+      }
+
+      const companyCol = getCompanyColumn();
+
+      // Filter data based on company selection and search query
+      let filteredData = rawData;
+      
+      // Apply company filter
+      if (selectedCompanies.size > 0 && companyCol) {
+        filteredData = filteredData.filter(row => 
+          selectedCompanies.has(String(row[companyCol] || ''))
+        );
+      }
+      
+      // Apply search filter
+      if (searchQuery) {
+        filteredData = filteredData.filter(row => 
+          columns.some(col => String(row[col] || '').toLowerCase().includes(searchQuery))
+        );
+      }
+
+      // Update subtitle
+      pageSubtitle.textContent = `Showing ${filteredData.length} of ${rawData.length} records`;
+
+      // Render table header
+      tableHead.innerHTML = `
+        <tr>
+          ${columns.map(col => `<th>${formatColumnName(col)}</th>`).join('')}
+        </tr>
+      `;
+
+      // Render table body
+      if (filteredData.length === 0) {
+        tableBody.innerHTML = `
+          <tr>
+            <td colspan="${columns.length}">
+              <div class="empty-state">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="11" cy="11" r="8"/>
+                  <path d="m21 21-4.3-4.3"/>
+                </svg>
+                <p>No results found for "${searchQuery}"</p>
+              </div>
+            </td>
+          </tr>
+        `;
+      } else {
+        tableBody.innerHTML = filteredData.map((row, rowIndex) => `
+          <tr>
+            ${columns.map((col, colIndex) => {
+              const cellValue = row[col];
+              const cellStr = cellValue === null || cellValue === undefined ? '' : String(cellValue);
+              
+              if (isUrl(cellStr)) {
+                return `<td class="link-cell"><a href="${cellStr}" target="_blank" rel="noopener noreferrer">Apply</a></td>`;
+              }
+              return `<td>${renderCellContent(cellStr, rowIndex, colIndex)}</td>`;
+            }).join('')}
+          </tr>
+        `).join('');
+      }
+    }
+
+    // Initialize
+    loadTheme();
+    loadJSON();
+  </script>
+</body>
+</html>
