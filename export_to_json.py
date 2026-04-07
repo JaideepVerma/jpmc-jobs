@@ -5,7 +5,7 @@ import sqlite3
 import glob
 os.makedirs("output", exist_ok=True)
 
-# Find all DB files ending with jobs.db
+# Find all DB files ending with jobs.db #
 db_files = glob.glob("*jobs.db")
 print("Found DB files:", db_files)
 
