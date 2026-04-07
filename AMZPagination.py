@@ -204,7 +204,7 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
         #"locations_raw": json.dumps(loc_parsed) if loc_parsed else None,
         "apply_link" : 'https://amazon.jobs/en/jobs/' + simple.get("icimsJobId")
     }
-    print(created_iso[:dt_index_end] , '-',updated_iso[:updated_dt_index_end])
+    print(created_iso[:dt_index_end] , '-',updated_iso[:updated_dt_index_end]) ### 
  # https://amazon.jobs/en/jobs/3206932/
     # Normalize empty strings to None
     for k, v in list(record.items()):
