@@ -6,7 +6,7 @@ import sqlite3
 os.makedirs("output", exist_ok=True)
 current_dir = os.getcwd()
 print('current_dir: ',current_dir)
-dbpath = os.path.join(current_dir, '*jobs.db')'JPMCjobs.db'
+dbpath = os.path.join(current_dir, '*jobs.db')#'JPMCjobs.db'
 print('dbpath: ',dbpath)
 # Connect to the DB created by your scraping script
 conn = sqlite3.connect("*jobs.db") #'JPMCjobs.db'
