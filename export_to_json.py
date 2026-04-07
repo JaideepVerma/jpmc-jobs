@@ -24,7 +24,9 @@ for db_file in db_files:
 
     # If you know the table is always called 'jobs'
     try:
-        cursor.execute("SELECT * FROM jobs")
+        cursor.execute("SELECT company, role, description, responsibilities, qualifications, \
+               location, posting_date,posted_at, job_family, job_function, apply_link , loaded_at \
+        FROM jobs ORDER BY posting_date DESC")
         rows = cursor.fetchall()
         columns = [desc[0] for desc in cursor.description]
         data = [dict(zip(columns, row)) for row in rows]
