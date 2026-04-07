@@ -247,7 +247,7 @@ INSERT_SQL = """
 INSERT OR REPLACE INTO jobs (
     job_id, role, company,  job_family,  
     location,description,responsibilities,qualifications,
-    ,job_function,posted_at,apply_link
+    job_function,posted_at,apply_link
 ) VALUES (
     :job_id, :role, :company, :job_family, 
     :location,:description, :responsibilities, :qualifications,
