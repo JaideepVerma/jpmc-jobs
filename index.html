@@ -541,20 +541,7 @@
         </div>
         <button class="clear-filter" id="clearFilter" style="display: none;">Clear filter</button>
       </div>
-    <div id="column-selector">
-  <label><input type="checkbox" data-column="0" checked> Id</label>
-  <label><input type="checkbox" data-column="1" checked> Company</label>
-  <label><input type="checkbox" data-column="2" checked> Job Id</label>
-  <label><input type="checkbox" data-column="3" checked> Role</label>
-  <label><input type="checkbox" data-column="4" checked> Description</label>
-  <label><input type="checkbox" data-column="5" checked> Responsibilities</label>
-  <label><input type="checkbox" data-column="6" checked> Qualifications</label>
-  <label><input type="checkbox" data-column="7" checked> Location</label>
-  <label><input type="checkbox" data-column="8" checked> Posting Date</label>
-  <label><input type="checkbox" data-column="9" checked> Job Family</label>
-  <label><input type="checkbox" data-column="10" checked> Job Function</label>
-</div>
-
+    <div id="column-selector"> </div>
       
       <div class="last-reload" id="lastReload" style="display: none;">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -581,7 +568,6 @@
       </div>
     </div>
   </main>
-
   <script>
     // ============================================================
     // CONFIGURATION - Set your JSON file path here
@@ -637,6 +623,40 @@
     const lastReload = document.getElementById('lastReload');
     const lastReloadTime = document.getElementById('lastReloadTime');
 
+
+    function renderColumnSelector() {
+  const selector = document.getElementById('column-selector');
+  selector.innerHTML = ''; // clear old content
+
+  columns.forEach((col, index) => {
+    const label = document.createElement('label');
+    label.style.marginRight = '10px';
+
+    const checkbox = document.createElement('input');
+    checkbox.type = 'checkbox';
+    checkbox.checked = true; // default visible
+    checkbox.dataset.column = index;
+
+    checkbox.addEventListener('change', function() {
+      toggleColumn(index, this.checked);
+    });
+
+    label.appendChild(checkbox);
+    label.appendChild(document.createTextNode(' ' + formatColumnName(col)));
+    selector.appendChild(label);
+  });
+}
+    function toggleColumn(colIndex, isVisible) {
+  const table = document.getElementById('jobs-table');
+  const rows = table.querySelectorAll('tr');
+
+  rows.forEach(row => {
+    const cells = row.querySelectorAll('th, td');
+    if (cells[colIndex]) {
+      cells[colIndex].style.display = isVisible ? '' : 'none';
+    }
+  });
+}
     // Format column names (snake_case to Title Case)
     function formatColumnName(key) {
       return key
@@ -881,7 +901,7 @@
       renderCompanyFilter();
       renderTable();
     });
-
+    renderColumnSelector();
     // Character limit for expand/collapse
     const CHAR_LIMIT = 200;
 
