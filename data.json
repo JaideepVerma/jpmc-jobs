@@ -15,6 +15,34 @@
   },
   {
     "company": "JPMC",
+    "role": "Vice President - Product Manager - Agility Coach Mobilization",
+    "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-08",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704950",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Senior Product Associate",
+    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-08",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705720",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Senior Product Associate",
     "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
     "responsibilities": null,
@@ -81,6 +109,62 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716028",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Java AWS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Pune, Maharashtra, India",
+    "posting_date": "2026-04-08",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720046",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III -  Full Stack- Java, React, Kubernetes/ Docker/ AWS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-08",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727049",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III",
+    "description": "Propel AI and technology innovation as a key engineer, crafting secure, scalable, top-tier products in a dynamic team environment.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Pune, Maharashtra, India",
+    "posting_date": "2026-04-08",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728143",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-08",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728968",
     "loaded_at": null
   },
   {
@@ -406,90 +490,6 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java & AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727553",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer II - Java Fullstack + React + Python(AI/ML)",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727572",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer",
-    "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. \n\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728132",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Director of Software Engineering",
-    "description": "Deliver production-ready generative solutions that transform how advisors and operations teams serve clients across wealth management",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728768",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Applied AI ML Lead - Global Banking",
-    "description": "Exciting and rewarding opportunity for you to take your software engineering career to the next level.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728797",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java/Python, SQL",
-    "description": "Join our Global Technology team to innovate, design, and deliver secure, scalable technology solutions.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729392",
-    "loaded_at": null
-  },
-  {
     "company": "ZS",
     "role": "Business Technology Solutions Consultant - Varicent",
     "description": "description",
@@ -497,11 +497,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-04-06T12:48:00+0000Updated at :2026-04-06T14:10:27+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32101",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
   },
   {
     "company": "ZS",
@@ -511,11 +511,11 @@
     "qualifications": "y",
     "location": "Gurugram",
     "posting_date": "2026-04-03T12:54:00+0000Updated at :2026-04-03T13:57:38+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32058",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
   },
   {
     "company": "ZS",
@@ -525,11 +525,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s degree with 3+ years of experience in European payroll, tax, and compliance, specifically in the UK, Germany, Switzerland, and Poland. Strong hands-on experience managing payroll operations across these countries. Good understanding of payroll tax regulations and statutory requirements in the UK, Germany, Switzerland, and Poland. Ability to interpret and apply complex payroll tax and compliance regulations. Knowledge of cross-border employment, tax treaties, and international mobility matters. Strong analytical and problem-solving skills. Ability to analyze financial and payroll data accurately. Strong communication and stakeholder management skills; German language preferred. Experience leading or supporting payroll teams. Advanced Excel and reporting skills. Ability to work in detail while maintaining a broader business perspective. Experience managing in-house payroll operations. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-03T06:50:00+0000Updated at :2026-04-03T07:57:19+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24462",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
   },
   {
     "company": "ZS",
@@ -539,11 +539,11 @@
     "qualifications": "What you\u2019ll bring: Minimum bachelor\u2019s degree in communication, journalism, or related field; master\u2019s degree (MA/MS/MBA) preferred 1-3 years relevant work experience in multi-national professional services environment with demonstrated experience in the scope of this role Strong writing, editing and verbal communications skills Proficiency in MS Office and communication tools (e.g., SharePoint, Viva Engage/Yammer, Canva, Adobe etc.) Strong content creation skills Experience of having worked on employee communications programs that achieved results Ability to multi-task with strong prioritization skills Understanding and experience in all key channels. Experience in leveraging social media for internal communication will be an added advantage Basic knowledge of shooting videos will be a bonus Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Gurugram",
     "posting_date": "2026-04-03T05:15:00+0000Updated at :2026-04-03T05:55:57+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32057",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
   },
   {
     "company": "ZS",
@@ -553,11 +553,25 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s degree in information security, Information Technology, or related field 6+ years of experience in Endpoint Security or equivalent knowledge Strong knowledge in industry standard Endpoint security tools like CrowdStrike, Carbon black, Zscaler, Microsoft Defender, Beyond trust Demonstratable expertise and experience with security related incidents is desirable Must be a team player, dedicated, and proactive Must possess good communication, problem-solving, critical thinking, and organizational skills Must have good presentation skills Ability to clearly present technical approaches or findings in oral and written format Ability to present ideas in business-friendly and user-friendly language Highly self-motivated and directed Candidate should be flexible to work in late shifts to converse with leadership teams in US as needed Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-01T06:09:00+0000Updated at :2026-04-01T07:47:43+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/27666",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
+  },
+  {
+    "company": "ZS",
+    "role": "Strategy & Operations Senior Consultant",
+    "description": "description",
+    "responsibilities": "Strategy & Operations Consultant The S&O Consultant collaborates with senior executives leading either a client account team, practice area, or industry vertical (collectively referred to as \u201cspaces\u201d). In this role, you will be a critical contributor to the space you support. You will work with leaders to prioritize and drive key space initiatives and create the structure and processes that enable the space to achieve its vision, strategy, and key milestones. S&O professionals are key connectors with broad visibility across the space, building collaborative relationships within the space and across ZS to enhance efficiency. This involves providing strategic and operational support across 8 dimensions: 1) Space Management & Operations, 2) Strategic Planning & Enablement, 3) Investment Budget Planning & Optimization, 4) ZS-Client Working Model Strategy and Management, 5) External Engagement & Thought Leadership, 6) People Development & Engagement, 7) Business Development/ Pipeline Strategy & Management, 8) Capability Building & Dissemination As an S&O Consultant you will have the unique opportunity to work at the intersection of strategy, leadership, and innovation, collaborating with senior executives and cross-functional teams to drive significant impact. You will help shape the future of the space you support, identifying and implementing solutions that streamline operations, foster growth, and maximize client success. Through your work, you will foster a culture of collaboration, accountability, and continuous improvement, ensuring that each space operates at its highest potential while delivering measurable results to both clients and ZS. What You Will Do Leverage problem solving skills and frameworks to develop solutions to business problems Optimize space operations to minimize leadership\u2019s time spent on operational tasks Ensure timely and accurate responses to firm requests Contribute to strategic planning processes (annual and ongoing) Contribute to impact measurement and communication strategies Manage and provide insights on budgets and total annual spend Foster relationships with client procurement stakeholders and help ensure compliance with client requirements Develop reports on BD win rates and pipeline opportunities Create and synthesize space materials; prepare leadership level presentations Support space-level people strategy by keeping a pulse of team and provide ongoing insight to leadership Plan and run effective workshops, events, summits, client visits, etc. (virtual and in-person) Develop new processes to be leveraged across teams What You Will Bring BA required, MBA or other advanced degree preferred 8-11 years experience in professional services firm, consulting or strategy/operations experience preferred Strong consultative and problem-solving skills Effective oral and written communication skills that can influence senior-level decision makers Experience successfully managing multiple projects at once, including those with intersecting workstreams Experience and comfort working with multiple and senior stakeholders Understanding of consulting business models Understanding of systems and processes Empathy, adaptability and high personal impact Strong productivity and collaboration tools, including MS Office (PowerPoint, Outlook, Excel, Teams) High motivation, good work ethic, maturity and personal initiative Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
+    "location": "Pune",
+    "posting_date": "2026-04-01T05:42:00+0000Updated at :2026-04-08T07:31:24+0000",
+    "posted_at": "2026-04-08 08:02:20",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/31587",
+    "loaded_at": "2026-04-08 13:32:20"
   },
   {
     "company": "ZS",
@@ -567,25 +581,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Human Resources, Business Administration, or a related field. 7-10 years of experience in performance management/ talent management or related HR functions. Strong analytical skills with proficiency in Excel, Power BI, or other data analysis tools. Experience working with HR systems like SAP SuccessFactors including Work Zone or similar tools. Ability to handle confidential data with high integrity and professionalism. Flexibility to work across time zones, cultures and levels of the organization; Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-01T05:42:00+0000Updated at :2026-04-01T13:49:21+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31838",
-    "loaded_at": "2026-04-08 11:39:48"
-  },
-  {
-    "company": "ZS",
-    "role": "Strategy & Operations Senior Consultant",
-    "description": "description",
-    "responsibilities": "Strategy & Operations Consultant The S&O Consultant collaborates with senior executives leading either a client account team, practice area, or industry vertical (collectively referred to as \u201cspaces\u201d). In this role, you will be a critical contributor to the space you support. You will work with leaders to prioritize and drive key space initiatives and create the structure and processes that enable the space to achieve its vision, strategy, and key milestones. S&O professionals are key connectors with broad visibility across the space, building collaborative relationships within the space and across ZS to enhance efficiency. This involves providing strategic and operational support across 8 dimensions: 1) Space Management & Operations, 2) Strategic Planning & Enablement, 3) Investment Budget Planning & Optimization, 4) ZS-Client Working Model Strategy and Management, 5) External Engagement & Thought Leadership, 6) People Development & Engagement, 7) Business Development/ Pipeline Strategy & Management, 8) Capability Building & Dissemination As an S&O Consultant you will have the unique opportunity to work at the intersection of strategy, leadership, and innovation, collaborating with senior executives and cross-functional teams to drive significant impact. You will help shape the future of the space you support, identifying and implementing solutions that streamline operations, foster growth, and maximize client success. Through your work, you will foster a culture of collaboration, accountability, and continuous improvement, ensuring that each space operates at its highest potential while delivering measurable results to both clients and ZS. What You Will Do Leverage problem solving skills and frameworks to develop solutions to business problems Optimize space operations to minimize leadership\u2019s time spent on operational tasks Ensure timely and accurate responses to firm requests Contribute to strategic planning processes (annual and ongoing) Contribute to impact measurement and communication strategies Manage and provide insights on budgets and total annual spend Foster relationships with client procurement stakeholders and help ensure compliance with client requirements Develop reports on BD win rates and pipeline opportunities Create and synthesize space materials; prepare leadership level presentations Support space-level people strategy by keeping a pulse of team and provide ongoing insight to leadership Plan and run effective workshops, events, summits, client visits, etc. (virtual and in-person) Develop new processes to be leveraged across teams What You Will Bring BA required, MBA or other advanced degree preferred 8-11 years experience in professional services firm, consulting or strategy/operations experience preferred Strong consultative and problem-solving skills Effective oral and written communication skills that can influence senior-level decision makers Experience successfully managing multiple projects at once, including those with intersecting workstreams Experience and comfort working with multiple and senior stakeholders Understanding of consulting business models Understanding of systems and processes Empathy, adaptability and high personal impact Strong productivity and collaboration tools, including MS Office (PowerPoint, Outlook, Excel, Teams) High motivation, good work ethic, maturity and personal initiative Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Pune",
-    "posting_date": "2026-04-01T05:42:00+0000Updated at :2026-04-01T05:47:36+0000",
-    "posted_at": "2026-04-08 06:09:48",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/31587",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
   },
   {
     "company": "ZS",
@@ -595,11 +595,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-03-31T17:30:00+0000Updated at :2026-04-07T18:15:27+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24128",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
   },
   {
     "company": "ZS",
@@ -609,11 +609,11 @@
     "qualifications": "What you\u2019ll bring: Candidates must either be in their junior year of a Bachelor's degree or in their first year of a Master's degree specializing in Business Analytics, Computer Science, MIS, MBA, or a related field with academic excellence 5+ years of consulting experience in leading large-scale technology implementations Strong communication skills to convey technical concepts to diverse audiences Significant supervisory, coaching, and hands on project management skills Extensive experience with major cloud platforms like AWS, Azure and GCP Deep knowledge of enterprise data management, advanced analytics, process automation, and application development Familiarity with industry- standard products and platforms such as Snowflake, Databricks, Redshift, Salesforce, Power BI, Cloud. Experience in delivering projects using agile methodologies Additional skills: Capable of managing a virtual global team for the timely delivery of multiple projects Experienced in analyzing and troubleshooting interactions between databases, operating systems, and applications Travel to global offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
     "posting_date": "2026-03-26T08:49:00+0000Updated at :2026-04-01T11:49:01+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24003",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
   },
   {
     "company": "ZS",
@@ -623,10 +623,10 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence 3+ years of relevant professional experience in delivering small/medium-scale technology solutions Ability to lead project teams, drive end-to-end activities, meet milestones, and provide mentorship/guidance for the team growth Strong understanding of RDBMS concepts, SQL, data warehousing and reporting Experience with big data concepts, data management, data analytics and cloud platforms Proficiency in programming languages like Python Strong analytical and problem-solving skills, including expertise in algorithms and data structures Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
     "posting_date": "2026-03-26T08:48:00+0000Updated at :2026-04-01T11:49:01+0000",
-    "posted_at": "2026-04-08 06:09:48",
+    "posted_at": "2026-04-08 08:02:20",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24002",
-    "loaded_at": "2026-04-08 11:39:48"
+    "loaded_at": "2026-04-08 13:32:20"
   }
 ]
