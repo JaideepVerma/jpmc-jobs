@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Technical Manager - Biometrics and Clinical Data",
+    "description": "description",
+    "responsibilities": "ZS is seeking a Tech Project Delivery Manager to lead a high-velocity team focused on the future of Biometrics and Clinical Data. We are looking for a delivery leader who excels at navigating the \u201chow\u201d of technical execution without losing sight of the \u201cwhy\u201d in the clinical domain\u2014and who can operate with depth, speed, and accountability in a consulting environment. What You\u2019ll Do Lead Strategic Delivery: Own the end-to-end SDLC for high-impact R&D technology programs, with a focus on Biometrics, Clinical Data Repositories (CDR), and Statistical Computing Environments (SCE). Be accountable for delivery quality, timelines, and technical decision-making. Build and Run a Specialized Squad: Recruit, coach, and manage a high-performing team of technologists. Drive day-to-day execution, skill development, and delivery rigor across multiple concurrent workstreams. Bridge Strategy & Tech: Act as a hands-on liaison between senior stakeholders and engineering teams\u2014translating clinical and business needs into executable roadmaps, detailed plans, and well-scoped technical solutions. Global Orchestration: Lead offshore-first delivery in a fast-paced, global model. Own execution cadence, risk management, and escalation, while ensuring compliance with GxP and client quality standards. Client Influence: Serve as a trusted delivery partner to clients\u2014guiding them on clinical data strategy, platform modernization, and the technical implementation of future-ready biometrics solutions. What You\u2019ll Bring Education: Bachelor\u2019s or master\u2019s degree in Computer Science, MIS, Business Administration, or a related discipline. Proven Delivery Leadership: 10+ years of experience leading technology programs in a consulting environment, including direct ownership of scope, staffing, timelines, and delivery outcomes. SDLC & Execution Depth: 8+ years leading teams through full SDLC, with demonstrated ability to manage delivery risk, architectural trade-offs, and evolving requirements. R&D Literacy: 8+ years in Life Sciences R&D, with strong working knowledge of: Clinical Data Standards: CDASH, SDTM, ADaM, OMOP, FHIR, HL7 Patient Data Systems: EDC, ePRO, Labs, CDMS Biometrics Platforms: Hands-on experience delivering CDR and/or SCE solutions Executive Presence: Strong communication and influence skills, with the ability to engage deeply with technical teams while credibly presenting to senior client and internal leadership. How You\u2019ll Grow Custom Learning Pathways: Structured development to deepen both leadership capabilities and advanced R&D technology expertise. Career S-Curves: Multiple growth paths across people leadership, complex program ownership, and cross-functional roles. Global Impact: Shape how leading life sciences organizations modernize biometrics and clinical data at scale",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-04-09T07:30:00+0000Updated at :2026-04-09T08:02:32+0000",
+    "posted_at": "2026-04-09 08:06:14",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/32591",
+    "loaded_at": "2026-04-09 13:36:14"
+  },
+  {
+    "company": "ZS",
     "role": "Engineering Specialist_ Salesforce Integration Architect",
     "description": "description",
     "responsibilities": "Salesforce Integration Architect ZS\u2019s India Capability & Expertise Center (CEC) houses more than 60% of ZS people across three offices in New Delhi, Pune and Bengaluru. Our teams work with colleagues across North America, Europe and East Asia to create and deliver real world solutions to the clients who drive our business. The CEC maintains standards of analytical, operational and technological excellence across our capability groups. Together, our collective knowledge enables each ZS team to deliver superior results to our clients. ZS's Scaled AI\u202fpractice\u202fis part of ZS's rich and advanced AI ecosystem, in the Architecture & Engineering Expertise Center, focused on creating\u202fcontinuous business value for\u202fclients\u202fusing\u202fa range of innovative machine learning,\u202fdeep learning, and engineering capabilities.\u202f\u202f Being part of Scaled AI practice allows you to collaborate with data scientists to create state-of-the-art AI models, create and use cutting-edge ML platforms, create and deploy advanced ML pipelines and manage the complete ML lifecycle. What You\u2019ll Do Integration & Architecture Leadership Own and define end-to-end integration architecture for Salesforce implementations across multiple clouds and enterprise systems Architect and govern integrations using MuleSoft, iPaaS platforms, REST/SOAP APIs, event-driven messaging, and ETL tools Define and apply enterprise integration patterns including API-led connectivity, synchronous/asynchronous messaging, and event-based architectures Design scalable and secure APIs and integration services that support Salesforce business processes Define data movement, transformation, and orchestration strategies across systems Salesforce Platform Enablement Collaborate with Salesforce Technical Architects and Developers to align integration design with Salesforce data models, security, and automation Provide architectural guidance on Salesforce APIs, Apex callouts, outbound messaging, Platform Events, and external services Ensure integrations follow Salesforce and MuleSoft best practices for performance, scalability, and security Client & Delivery Leadership Lead technical discovery sessions focused on integration requirements, system landscapes, and non-functional needs Confidently lead client discussions on integration strategy, middleware selection, and architectural trade-offs Act as a trusted advisor to client stakeholders by translating business requirements into integration-led solution designs Support pre-sales activities by contributing to solution scoping, estimates, and risk assessments Identify, manage, and proactively mitigate integration-related risks and dependencies Governance, Quality & Enablement Create and own integration architecture documentation including API specifications, sequence diagrams, data flows, and deployment models Define environment strategy, CI/CD pipelines, and release management approaches for integration platforms Review designs and implementations to ensure adherence to architectural standards and best practices Mentor and guide integration developers and architects, contributing to practice growth and knowledge sharingStay current on Salesforce, MuleSoft, and integration platform advancements and emerging architectural patterns What You\u2019ll Bring Strong expertise in Salesforce platform integrations, including Salesforce APIs and event-driven capabilities Hands-on experience architecting integrations using MuleSoft Anypoint Platform or similar middleware/iPaaS solutions Deep understanding of API-led architecture, integration patterns, and enterprise system interoperability Experience with REST/SOAP, OAuth 2.0, JWT, message queues, and data transformation technologies Familiarity with Salesforce data models, security model, and automation features Experience designing enterprise-scale integration architectures in complex environments Strong communication and stakeholder management skills Experience working in Agile delivery environments Ability to work effectively in a global, client-facing consulting model Bachelor\u2019s degree in Computer Science, Engineering, or a related field (preferred) 6+ years of experience in Salesforce and/or enterprise integration architecture MuleSoft certifications strongly preferred (e.g., MuleSoft Developer, Integration Architect) Salesforce certifications preferred (Administrator, Platform Developer, Integration Architecture Designer) Proven experience acting as an Integration Architect or Technical Lead on complex programs Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-08T10:42:00+0000Updated at :2026-04-08T12:19:02+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24400",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
     "company": "ZS",
@@ -21,11 +35,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s degree in finance, economics, or business required, advanced degree welcome, with a strong record of academic achievement. 0-3 years of invoicing/billing experience. Strong working knowledge of Microsoft Office (Excel, Word, Outlook), SAP experience desirable. Strong analytic and critical thinking abilities Effective oral and written communication skills that enable strong relationship-building and stakeholder management. Strong attention to detail. Motivated and proactive. Professional objectivity and judgment to know when to challenge activities. Agile and ability to multi-task in a fast paced, rapidly changing environment. How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
     "posting_date": "2026-04-08T10:32:00+0000Updated at :2026-04-08T12:19:02+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31244",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-08T09:30:00+0000Updated at :2026-04-08T10:17:53+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/21580",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-04-06T12:48:00+0000Updated at :2026-04-06T14:10:27+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32101",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s degree in Engineering, Computer Science, or a related field; Master\u2019s degree or MBA preferred. 12+ years of experience in testing and validation of software systems, preferably within the life sciences or regulated industries. Deep expertise in GxP regulations and standards, including FDA, EMA, ICH, GAMP5, CSA, ISO, with strong practical application experience. Strong foundation in software testing and quality engineering, including: Test strategy and test governance Risk-based and CSA-aligned testing Automation frameworks and test optimization (Good to have) Exposure to AI/GenAI-driven testing approaches Proven experience leading large-scale testing and validation programs across multiple stakeholders, platforms, and technologies. Strong understanding of modern testing and validation trends, such as CSA, automation-first validation, intelligent documentation, and quality metrics. Excellent communication and stakeholder management skills, with the ability to influence senior leaders, clients, and partners. Demonstrated ability to build, mentor, and lead high-performing validation and testing teams.",
     "location": "Pune",
     "posting_date": "2026-04-06T09:45:00+0000Updated at :2026-04-06T10:10:03+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32034",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": "y",
     "location": "Gurugram",
     "posting_date": "2026-04-03T12:54:00+0000Updated at :2026-04-03T13:57:38+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32058",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s degree with 3+ years of experience in European payroll, tax, and compliance, specifically in the UK, Germany, Switzerland, and Poland. Strong hands-on experience managing payroll operations across these countries. Good understanding of payroll tax regulations and statutory requirements in the UK, Germany, Switzerland, and Poland. Ability to interpret and apply complex payroll tax and compliance regulations. Knowledge of cross-border employment, tax treaties, and international mobility matters. Strong analytical and problem-solving skills. Ability to analyze financial and payroll data accurately. Strong communication and stakeholder management skills; German language preferred. Experience leading or supporting payroll teams. Advanced Excel and reporting skills. Ability to work in detail while maintaining a broader business perspective. Experience managing in-house payroll operations. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-03T06:50:00+0000Updated at :2026-04-03T07:57:19+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24462",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": "What you\u2019ll bring: Minimum bachelor\u2019s degree in communication, journalism, or related field; master\u2019s degree (MA/MS/MBA) preferred 1-3 years relevant work experience in multi-national professional services environment with demonstrated experience in the scope of this role Strong writing, editing and verbal communications skills Proficiency in MS Office and communication tools (e.g., SharePoint, Viva Engage/Yammer, Canva, Adobe etc.) Strong content creation skills Experience of having worked on employee communications programs that achieved results Ability to multi-task with strong prioritization skills Understanding and experience in all key channels. Experience in leveraging social media for internal communication will be an added advantage Basic knowledge of shooting videos will be a bonus Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Gurugram",
     "posting_date": "2026-04-03T05:15:00+0000Updated at :2026-04-03T05:55:57+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32057",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
     "company": "ZS",
@@ -119,25 +133,81 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s degree in information security, Information Technology, or related field 6+ years of experience in Endpoint Security or equivalent knowledge Strong knowledge in industry standard Endpoint security tools like CrowdStrike, Carbon black, Zscaler, Microsoft Defender, Beyond trust Demonstratable expertise and experience with security related incidents is desirable Must be a team player, dedicated, and proactive Must possess good communication, problem-solving, critical thinking, and organizational skills Must have good presentation skills Ability to clearly present technical approaches or findings in oral and written format Ability to present ideas in business-friendly and user-friendly language Highly self-motivated and directed Candidate should be flexible to work in late shifts to converse with leadership teams in US as needed Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-01T06:09:00+0000Updated at :2026-04-01T07:47:43+0000",
-    "posted_at": "2026-04-09 06:09:20",
+    "posted_at": "2026-04-09 08:06:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/27666",
-    "loaded_at": "2026-04-09 11:39:20"
+    "loaded_at": "2026-04-09 13:36:14"
   },
   {
-    "company": "ZS",
-    "role": "Human Resources Specialist - Performance",
-    "description": "description",
-    "responsibilities": "HUMAN RESOURCES SPECIALIST - PERFORMANCE We seek a Human Resources Specialist \u2013 Performance to join our Global Human Resources team. As a Human Resources Specialist \u2013 Performance, you will work to support the global performance review cycle. You will work collaboratively with a highly motivated team within a fast-paced company. This role involves supporting the design, implementation, and continuous improvement of the performance management framework, leveraging SAP SuccessFactors Performance module. The consultant is involved in analyzing performance data, providing insights, and collaborating with cross-functional teams to drive continuous improvement and achieve desired objectives of the performance enablement process. What you'll do: Human Resources Specialist - Performance in the Enterprise will\u2026 Design and implement performance enablement processes (quarterly snapshots, annual cycle). Standardize performance rating frameworks and calibration processes. Analyze performance data and generate reports to provide actionable insights for leadership. Track key performance indicators (KPIs). Configure and maintain Performance module and Work Zone within SAP SuccessFactors. Manage: Performance Snapshot templates and Expectations Framework Troubleshoot system issues and coordinate with HRIS or vendors. Act as SME for performance management practices across the organization. Establish governance guidelines and policy documentation. Ensure consistency across geographies, functions, and business units. Partner with HR business partners (HRBPs), Leaders, and ZSers to ensure smooth execution of performance cycles. Collaborate in training and guiding Leaders on best practices for performance management. Help design communication strategies to enhance transparency in performance management. ",
-    "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Human Resources, Business Administration, or a related field. 7-10 years of experience in performance management/ talent management or related HR functions. Strong analytical skills with proficiency in Excel, Power BI, or other data analysis tools. Experience working with HR systems like SAP SuccessFactors including Work Zone or similar tools. Ability to handle confidential data with high integrity and professionalism. Flexibility to work across time zones, cultures and levels of the organization; Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
-    "location": "Pune",
-    "posting_date": "2026-04-01T05:42:00+0000Updated at :2026-04-01T13:49:21+0000",
-    "posted_at": "2026-04-09 06:09:20",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/31838",
-    "loaded_at": "2026-04-09 11:39:20"
+    "company": "JPMC",
+    "role": "IPB Employee Experience - Associate",
+    "description": "Build your career in Financial Analysis while working in the world\u2019s most innovative bank which values creativity and excellence.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-09",
+    "posted_at": null,
+    "job_family": "Business Management",
+    "job_function": "Finance",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730446",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Associate, Control Management - Controls Room Product Owner",
+    "description": "Strengthen control frameworks by swiftly identifying and resolving issues across business lines.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-09",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715085",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Vice President, Product Manager",
+    "description": "Lead the development of an AI-powered tool designed to help employees access support and discover information with ease.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-09",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716048",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Senior Lead Software Engineer",
+    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696895",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709727",
+    "loaded_at": null
   },
   {
     "company": "JPMC",
@@ -165,6 +235,48 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725364",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732846",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732848",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732852",
     "loaded_at": null
   },
   {
@@ -515,118 +627,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732162",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Python, React",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-08",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732802",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-08",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733394",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Python/Java - Trading application",
-    "description": "Drive significant business impact by solving exciting and complex challenges for the Credit Exotics trading business",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-08",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733464",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - .Net , Java, Oracle databse",
-    "description": "Engineer and deliver production-grade, secure, and horizontally scalable software products, contributing as a senior technical contributor within a fast-paced, agile development team.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-08",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733924",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer II - QA",
-    "description": "Design, develop, and maintain automated test scripts using industry-standard tools and frameworks",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-08",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733993",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Data Domain Architect Analyst",
-    "description": "GBDH Operations -  Analyst",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723853",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Data Owner Senior Associate",
-    "description": "Own and control key product data to drive analytics, support compliance, and enhance client impact.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731400",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Wholesale Commercial Real Estate (CRE) Portfolio Associate",
-    "description": "Wholesale Commercial Real Estate (CRE) Portfolio Analytics - Analyst",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-07",
-    "posted_at": null,
-    "job_family": "Analysts",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721310",
     "loaded_at": null
   }
 ]
