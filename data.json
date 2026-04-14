@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Analyst - Delivery Excellence",
+    "description": "description",
+    "responsibilities": "What you'll do: Delivery Excellence Analyst in the Enterprise will\u2026 Support delivery teams in implementing Delivery Excellence practices, risk management frameworks, and quality standards across projects Assist in tracking and reporting operational KPIs; help monitor delivery performance metrics and flag risks/issues for timely escalation Support delivery risk governance activities by working with project teams and QRM stakeholders in tracking risks and mitigation actions Assist in organizing and conducting awareness sessions/trainings on Delivery Excellence practices and QMS process assets Support adherence to defined process maturity standards (e.g., CMMI Level 3) through documentation and tracking compliance Contribute to maintaining and updating Quality Management System (QMS) artifacts and templates Assist in driving consistency in delivery practices across projects through structured tracking and reporting Support adoption of new tools, processes, and systems by assisting teams and resolving basic queries Participate in project audits/reviews based on defined quality frameworks (e.g., CMMI), and assist in documenting observations, non-compliances, and best practices Fully aware of audit lifecycle for SDLC ",
+    "qualifications": "What you\u2019ll bring: Bachelor's degree in IT or relevant field with a strong academic record. A minimum of 2 years of experience in Delivery Assurance and Quality Management Knowledge and experience in Software Quality Management & Software Quality Standards Through understanding and implementation experience of CMMi 3.0 framework for Dev & Services Proficiency in MS Office, including Word, Excel, and PowerPoint. Experience with Project management tools-Good to have (e.g., Atlassian JIRA, Confluence, MS project ) and Quality Assurance tools CMMi implementation experience (Maturity level 3 at minimum/ High maturity implementation experience preferred ) Strong communication skills, both written and verbal, for reporting and interacting with stakeholders. Ability to work independently and as part of a team Willingness to adapt to evolving industry standards and technologies Ability to manage a wide variety of tasks and meet deadlines, and reliability/dependability Proven ability to work creatively and analytically in a problem-solving environment Excellent time management skills. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
+    "location": "Pune",
+    "posting_date": "2026-04-14T06:50:00+0000Updated at :2026-04-14T06:50:31+0000",
+    "posted_at": "2026-04-14 08:14:14",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/32657",
+    "loaded_at": "2026-04-14 13:44:14"
+  },
+  {
+    "company": "ZS",
     "role": "Manager, CRM Business Transformation",
     "description": "description",
     "responsibilities": "The Manager, CRM Business Transformation is a role within ZS's Customer Models & Motivation practice, responsible for supporting the business side of large-scale CRM transformation programs in life sciences. This role sits at the intersection of commercial strategy, customer engagement, and technology adoption\u2014translating how biopharma organizations engage HCPs, patients, and field teams into clear business requirements, future-state processes, and organizational change plans that enable CRM platforms to deliver lasting value. Based in India, this role is primarily a delivery leadership position, responsible for managing and coordinating a team of analysts and consultants executing business transformation workstreams across global programs. The Manager will serve as the day-to-day delivery lead\u2014ensuring quality, consistency, and progress across business process design, requirements management, and user journey work\u2014while also engaging with client stakeholders in a supporting capacity alongside senior ZS leaders. This is not a technical implementation role. The Manager serves as the voice of the business and the field within the delivery team, ensuring that platform design reflects real commercial, medical, and field user needs. Close collaboration with ZS's onshore client leads, technology teams, and analytics teams is central to the role. What you'll do: Lead day-to-day delivery of business process design and future-state definition workstreams for commercial, medical affairs, and medical information/customer service functions as part of CRM platform implementations (e.g., Salesforce Life Sciences Cloud, Veeva). Manage, coach, and coordinate a team of analysts and consultants executing requirements gathering, process documentation, and user journey mapping across global and regional program workstreams. Oversee the end-to-end requirements management process\u2014ensuring business requirements are clearly documented, stakeholder-reviewed, traceable, and kept current across the full scope of CRM capabilities being replaced or integrated. Direct the development of future-state user journeys by persona (Reps, MSLs, KAMs, Med Info, and others), translating how field and commercial roles will interact with the new platform into structured, prioritized business requirements. Facilitate discovery sessions, stakeholder workshops, and requirements interviews in coordination with onshore client-facing leads; prepare materials, synthesize outputs, and drive follow-through on open items and decisions. Ensure delivery quality across team workproducts including process documentation, user journey maps, requirements backlogs, change impact assessments, and stakeholder-facing presentations. Partner with organizational readiness and change management workstreams to ensure process changes, role impacts, and new ways of working are fully captured and reflected in training and adoption plans. Provide business enablement expertise to the broader program team, advising on role and organizational design implications of new commercial and medical processes, and helping navigate the balance between global harmonization and regional flexibility. Contribute to ZS business development by supporting proposal and RFP response development, and to the firm's thought leadership in life sciences CRM and commercial transformation. ",
     "qualifications": "What you\u2019ll bring: Bachelor's degree required; Master's degree highly preferred. 8+ years of experience in life sciences commercial, medical affairs, or operations roles\u2014in industry, consulting, or a combination. Demonstrated experience leading delivery teams in a consulting or professional services environment; strong coaching, quality management, and workstream coordination skills. Deep familiarity with life sciences field team operations across sales, MSL, KAM, market access, and/or medical information functions; proven ability to capture and translate field user needs into structured business requirements. Experience on CRM implementation or transformation programs in life sciences; knowledge of Salesforce (Life Sciences Cloud or Health Cloud) and/or Veeva CRM strongly preferred. Proven ability to lead or support discovery workshops, stakeholder interviews, and requirements sessions with field users and commercial or medical leaders. Strong skills in business process documentation and user journey mapping; ability to produce clear, structured artifacts (process flows, requirements documents, user stories) that drive alignment across business and technical teams. Familiarity with organizational change management concepts and practices; ability to translate process and system changes into people and role impacts. Experience working on complex, multi-stakeholder global programs; comfort coordinating across global and regional teams in a distributed delivery model. Strong written and verbal communication skills; able to present clearly to senior clients and internal stakeholders in a supporting capacity. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Bengaluru",
     "posting_date": "2026-04-13T16:18:00+0000Updated at :2026-04-13T16:40:32+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32568",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
     "company": "ZS",
@@ -21,11 +35,11 @@
     "qualifications": "s",
     "location": "Pune",
     "posting_date": "2026-04-13T06:15:00+0000Updated at :2026-04-13T06:39:21+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24381",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-10T09:53:00+0000Updated at :2026-04-10T10:27:28+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32420",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": "What you\u2019ll bring: \u2022 Bachelor\u2019s degree in computer science, Engineering, or a related field. \u2022 3+ years of experience in AI and machine learning, specifically in computer vision, generative AI, and NLP. \u2022 Proficiency in programming languages such as Python and C. \u2022 Strong experience with deep learning and large language models. \u2022 Familiarity with various databases and vector databases. \u2022 Hands-on experience with cloud services and containerization. \u2022 Excellent problem-solving skills and ability to work in a team environment. \u2022 Strong communication skills to interact with stakeholders and team members effectively Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Gurugram",
     "posting_date": "2026-04-10T05:29:00+0000Updated at :2026-04-10T06:25:58+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24330",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": "What you\u2019ll bring: 8+ years of experience in CRM or life sciences IT, with strong hands-on experience on Salesforce and/or Veeva CRM. Exposure to pharma commercial CRM platforms and clouds such as Salesforce Sales Cloud, Marketing Cloud, and Veeva CRM (including CLM, Approved Email, and Campaigns). Solid understanding of HCP engagement models, commercial operations workflows, call planning, territory management, consent & preference management, and omnichannel engagement. Ability to write clear user stories and acceptance criteria with moderate supervision. Strong analytical mindset with structured problem-solving and clear communication skills. Experience working in Agile / Scrum delivery environments. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Good to Have Salesforce Administrator and/or Business Analyst certification; Veeva CRM certification is a plus. Experience integrating commercial CRM with downstream and adjacent systems such as HCP portals, marketing automation platforms, data warehouses, analytics platforms, call centers, and field enablement tools. Understanding data privacy, consent and preference management, and compliance controls relevant to pharma commercial systems (e.g., GDPR, HIPAA, audit trails).",
     "location": "Pune",
     "posting_date": "2026-04-09T10:36:00+0000Updated at :2026-04-09T12:22:43+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32081",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-09T07:30:00+0000Updated at :2026-04-09T08:22:30+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32591",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-08T10:42:00+0000Updated at :2026-04-08T12:19:02+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24400",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s degree in finance, economics, or business required, advanced degree welcome, with a strong record of academic achievement. 0-3 years of invoicing/billing experience. Strong working knowledge of Microsoft Office (Excel, Word, Outlook), SAP experience desirable. Strong analytic and critical thinking abilities Effective oral and written communication skills that enable strong relationship-building and stakeholder management. Strong attention to detail. Motivated and proactive. Professional objectivity and judgment to know when to challenge activities. Agile and ability to multi-task in a fast paced, rapidly changing environment. How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
     "posting_date": "2026-04-08T10:32:00+0000Updated at :2026-04-10T18:27:57+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31244",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
     "company": "ZS",
@@ -119,25 +133,39 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-08T09:30:00+0000Updated at :2026-04-08T10:17:53+0000",
-    "posted_at": "2026-04-14 06:20:36",
+    "posted_at": "2026-04-14 08:14:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/21580",
-    "loaded_at": "2026-04-14 11:50:36"
+    "loaded_at": "2026-04-14 13:44:14"
   },
   {
-    "company": "ZS",
-    "role": "Business Technology Solutions Consultant - Varicent",
-    "description": "description",
-    "responsibilities": "What you\u2019ll do: Solution Design and Architecture:Lead the design and architecture of Varicent solutions to meet client-specific business requirements.Develop comprehensive solution blueprints and technical specifications. Implementation and Configuration:Oversee the implementation and configuration of Varicent solutions, ensuring alignment with best practices and client needs.Customize and configure Varicent modules to support complex compensation plans and business rules. Stakeholder Engagement: Collaborate with clients to gather and analyze business requirements, translating them into effective Varicent solutions.Serve as the primary point of contact for clients, providing expert guidance and support throughout the project lifecycle. Integration and Data Management:Design and implement data integration strategies to ensure seamless data flow between Varicent and other enterprise systems.Manage data migration and ensure data accuracy and integrity. Testing and Quality Assurance:Develop and execute testing plans to validate solution functionality and performance.Identify and resolve any issues or discrepancies during the testing phase. Training and Support: Provide training and support to clients and internal teams on Varicent solutions. Develop training materials and documentation to facilitate knowledge transfer. What you' bring: 5-6 years of experience working with Varicent, with a focus on solutions. Strong understanding of incentive compensation management processes and best practices. Proven experience in solution design, architecture, and implementation. Excellent analytical and problem-solving skills. Strong communication and interpersonal skills, with the ability to engage effectively with clients and stakeholders. Experience with data integration and management, including ETL processes. Ability to work independently and as part of a collaborative team. Mentor junior team members and onboard them on Varicent platform Preferred Qualifications: Varicent certification or equivalent experience. Experience in multiple industries, such as insurance, finance, med-tech Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Gurugram",
-    "posting_date": "2026-04-06T12:48:00+0000Updated at :2026-04-06T14:10:27+0000",
-    "posted_at": "2026-04-14 06:20:36",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/32101",
-    "loaded_at": "2026-04-14 11:50:36"
+    "company": "JPMC",
+    "role": "Payments Marketing - Data Associate",
+    "description": "Drive transformative marketing insights through AI and cutting-edge data engineering within a dynamic, high-performing team.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-14",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210692724",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Payments Marketing - Analytics Associate",
+    "description": "Promote strategic initiatives for the Corporate and Investment Bank, boosting innovation, efficiency, and impactful outcomes across core business functions.\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-14",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731421",
+    "loaded_at": null
   },
   {
     "company": "JPMC",
@@ -155,6 +183,34 @@
   },
   {
     "company": "JPMC",
+    "role": "Centralized Research Group (CRG) - Debt Capital Markets (DCM) - Analyst",
+    "description": "Lead financial and credit analysis, build models, and craft compelling materials that support banking deals and client opportunities",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-14",
+    "posted_at": null,
+    "job_family": "Analysts",
+    "job_function": "Program Analysts & Associate",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720718",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Centralized Research Group - Technical Transaction Analyst",
+    "description": "CRG Technical Transaction Team (TTT) Analyst for North America Oil & Gas",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-14",
+    "posted_at": null,
+    "job_family": "Analysts",
+    "job_function": "Program Analysts & Associate",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735064",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer II \u2013 Python",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
     "responsibilities": null,
@@ -165,6 +221,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697604",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III Java, AWS,AWS, ECS, lambda, S3, SQS, Cloudwatch",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-14",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210714915",
     "loaded_at": null
   },
   {
@@ -211,7 +281,7 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer II- Salesforce Development",
+    "role": "Software Engineer II, Golang",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
     "responsibilities": null,
     "qualifications": null,
@@ -220,7 +290,21 @@
     "posted_at": null,
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720146",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718021",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - AWS, PySpark, ETL",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-14",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726961",
     "loaded_at": null
   },
   {
@@ -263,6 +347,34 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731834",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II- Java Fullstack, React",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-14",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733422",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Java, Streaming, AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-14",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734469",
     "loaded_at": null
   },
   {
@@ -515,118 +627,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730784",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Android",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-13",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732162",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Manager of Site Reliability Engineer",
-    "description": "Influence your team\u2019s strategic planning while driving continual site reliability improvements ",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-13",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732995",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer Pysprak , bigdata, aws",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-13",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735638",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer II - Java + Mainframe",
-    "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-11",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721297",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Java AWS",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Pune, Maharashtra, India",
-    "posting_date": "2026-04-11",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729773",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Associate Data Owner - Credit Card",
-    "description": "Join our Credit Card Analytics team to drive impactful solutions in a dynamic banking environment.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-10",
-    "posted_at": null,
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733982",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Business Management -Analyst",
-    "description": "\ufeffLaunch your career as a Business Manager, where you will optimize business performance by helping to drive key initiatives.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-10",
-    "posted_at": null,
-    "job_family": "Business Management",
-    "job_function": "Finance",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733348",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Executive Director - Global Time and Absence",
-    "description": "Join us as the Product Director within our Employee Experience and HR Product team.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-10",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733309",
     "loaded_at": null
   }
 ]
