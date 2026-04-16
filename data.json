@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Director - R&D Technologist",
+    "description": "description",
+    "responsibilities": "About the Expertise Centre \u2013 R&D Technologist The R&D Technologist Expertise Centre within ZS\u2019s Drug Development practice partners with biopharma organizations to design and deliver innovative clinical data solutions that accelerate drug development and reduce risk from portfolio to patient. The team operates at the intersection of key ZS drug development verticals\u2014including asset strategy, clinical trial design, clinical data management, statistical programming, regulatory, and risk-based quality. By combining deep clinical domain expertise, data standards, clinical programming, systems understanding, and consulting discipline, the team solves complex R&D challenges with speed, scale, and measurable impact. Director Expertise Center R&D Technologist \u2013 Clinical data solutions The Director \u2013 R&D Technologist (Clinical Data Solutions) provides strategic and scientific leadership across clinical data management, analytics, biostatistics, statistical programming, and clinical data standards. This role is central to the R&D Technologist Expertise Centre and focuses on designing and delivering innovative clinical data solutions across the drug development lifecycle\u2014with a strong emphasis on clinical data standards, transformation, and analytics-driven decision-making. You will combine deep technical expertise, consulting leadership, and practice-building capabilities to serve as a trusted advisor to senior stakeholders, driving next-generation clinical data and analytics solutions that improve development outcomes and accelerate regulatory submissions What You\u2019ll Do: Strategic & Client Leadership Provide strategic leadership across clinical data management, biometrics, and advanced analytics for end-to-end drug development programs Serve as ZS\u2019s go-to leader for clinical data solutions, bringing a strong techno-functional perspective across clinical data flow and systems Lead complex client engagements spanning clinical data strategy, analytics enablement, and digital R&D transformation Facilitate senior-level workshops to align stakeholders on study design, data standards, analytics approaches, and operating models Clinical Data & Standards Leadership Bring deep expertise in clinical data standards (e.g., CDISC \u2013 CDASH, SDTM, ADaM, TLF) Define innovative approaches to clinical data collection, transformation, and analytics Integrate clinical programming, analytics, and data science into trial design, execution, and regulatory workflows Drive adoption of standardized, scalable, and future-ready clinical data models Technology & Innovation Apply a techno-functional lens across clinical systems, data platforms, and enterprise architectures Leverage AI/ML and GenAI approaches to transform clinical data processing and analytics Define future-state operating models and digital ecosystems for clinical data and analytics Delivery Excellence & Governance Oversee quality, scientific rigor, and compliance of deliverables, including analytics, data models, and regulatory outputs Ensure alignment with GxP standards, regulatory expectations, and industry best practices Act as a bridge between scientific, business, and engineering teams Team & Practice Building Lead and grow a high-performing clinical data and analytics team Mentor senior talent and establish standards for delivery excellence Contribute to capability building, accelerators, and new offerings within the Expertise Centre Support business development through solutioning, client pursuits, and long-term relationship building ",
+    "qualifications": "What you\u2019ll bring: Experience & Domain Expertise 18+ years of experience in Life Sciences R&D, with strong expertise in clinical data management, biometrics, and analytics Deep understanding of the end-to-end drug development lifecycle Strong domain knowledge of clinical data, analytics, and digital R&D transformation Clinical Systems & Platforms Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Strong expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Working knowledge of R, Python, and SAS for clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutions in clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture design Leadership & Consulting Skills Strong communication and stakeholder management skills with ability to influence senior leaders Proven experience in GxP-compliant, large-scale enterprise programs Ability to lead global, cross-functional, and multi-vendor teams Strong leadership, mentoring, and team-building capabilities Solid understanding of agile, product-led, and digital transformation delivery models",
+    "location": "Pune",
+    "posting_date": "2026-04-16T09:30:00+0000Updated at :2026-04-16T09:30:32+0000",
+    "posted_at": "2026-04-16 10:00:40",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/32711",
+    "loaded_at": "2026-04-16 15:30:40"
+  },
+  {
+    "company": "ZS",
     "role": "Engineering Specialist",
     "description": "description",
     "responsibilities": "Architecture & Engineering Specialist \u2013 ML Engineering ZS\u2019s India Capability & Expertise Center (CEC) houses more than 60% of ZS people across three offices in New Delhi, Pune and Bengaluru. Our teams work with colleagues across North America, Europe and East Asia to create and deliver real world solutions to the clients who drive our business. The CEC maintains standards of analytical, operational and technological excellence across our capability groups. Together, our collective knowledge enables each ZS team to deliver superior results to our clients. ZS's Scaled AI\u202fpractice\u202fis part of ZS's rich and advanced AI ecosystem, in the Architecture & Engineering Expertise Center, focused on creating\u202fcontinuous business value for\u202fclients\u202fusing\u202fa range of innovative machine learning,\u202fdeep learning, and engineering capabilities.\u202f\u202f Being part of Scaled AI practice allows you to collaborate with data scientists to create state-of-the-art AI models, create and use cutting-edge ML platforms, create and deploy advanced ML pipelines and manage the complete ML lifecycle. What You\u2019ll Do Design and implement technical features leveraging best practices for technology stack being used Collaborate with client-facing teams to understand solution context and contribute to technical requirement gathering and analysis Work with technical architects on the team to validate design and implementation approach Write production-ready code that is easily testable, understood by other developers, and accounts for edge cases and errors Ensure the highest quality of deliverables by following architecture/design guidelines, coding best practices, periodic design/code reviews Write unit tests as well as higher-level tests to handle expected edge cases and errors gracefully, as well as happy paths Uses bug tracking, code review, version control, and other tools to organize and deliver work Participate in scrum calls and agile ceremonies, and effectively communicate work progress, issues, and dependencies Consistently contribute in researching & evaluating the latest technologies through rapid learning, conducting proofs-of-concept and creating prototype solutions Support the project architect in designing modules/component of the overall project/product architecture Breaks down large features into estimable tasks lead estimation and can defend them with clients Implement complex features with limited guidance from the engineering lead. For example service or application-wide change Systematically debug code issues/bugs using stack traces, logs, monitoring tools, and other resources Performs code/script reviews of senior engineers in the team Mentor and groom technical talent within the team What You\u2019ll Bring At least 5+ relevant hands-on experience\u202fin deploying and\u202fproductionizing ML\u202fmodels\u202fat scale\u202f Expertise in\u202fDesigning, configuring, and using ML Engineering platforms\u202flike\u202fSagemaker,\u202fMLFlow,\u202fKubeflow, or other platforms\u202f Big data - Hive, Spark, Hadoop, queuing system like Apache Kafka/Rabbit MQ/AWS Kinesis Ability to quickly adapt to new technology and be innovative in creating solutions Ability to independently run POCs on new technologies and document findings to share Strong in at least one of the Programming languages - PySpark, Python or Java, Scala, etc. and Programming basics - Data Structures Hands-on experience in building metadata-driven, reusable design patterns for data pipeline, orchestration, ingestion patterns (batch, real-time) Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
     "qualifications": "h",
     "location": "Bengaluru",
-    "posting_date": "2026-04-16T07:10:00+0000Updated at :2026-04-16T07:10:29+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posting_date": "2026-04-16T07:10:00+0000Updated at :2026-04-16T08:52:30+0000",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32705",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "ZS",
@@ -21,11 +35,11 @@
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-04-15T15:24:00+0000Updated at :2026-04-15T16:49:44+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32712",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": "s",
     "location": "Gurugram",
     "posting_date": "2026-04-15T12:35:00+0000Updated at :2026-04-15T12:49:01+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23849",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-04-14T11:34:00+0000Updated at :2026-04-14T12:44:46+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32669",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's degree in IT or relevant field with a strong academic record. A minimum of 2 years of experience in Delivery Assurance and Quality Management Knowledge and experience in Software Quality Management & Software Quality Standards Through understanding and implementation experience of CMMi 3.0 framework for Dev & Services Proficiency in MS Office, including Word, Excel, and PowerPoint. Experience with Project management tools-Good to have (e.g., Atlassian JIRA, Confluence, MS project ) and Quality Assurance tools CMMi implementation experience (Maturity level 3 at minimum/ High maturity implementation experience preferred ) Strong communication skills, both written and verbal, for reporting and interacting with stakeholders. Ability to work independently and as part of a team Willingness to adapt to evolving industry standards and technologies Ability to manage a wide variety of tasks and meet deadlines, and reliability/dependability Proven ability to work creatively and analytically in a problem-solving environment Excellent time management skills. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-14T06:50:00+0000Updated at :2026-04-14T08:44:01+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32657",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's degree required; Master's degree highly preferred. 8+ years of experience in life sciences commercial, medical affairs, or operations roles\u2014in industry, consulting, or a combination. Demonstrated experience leading delivery teams in a consulting or professional services environment; strong coaching, quality management, and workstream coordination skills. Deep familiarity with life sciences field team operations across sales, MSL, KAM, market access, and/or medical information functions; proven ability to capture and translate field user needs into structured business requirements. Experience on CRM implementation or transformation programs in life sciences; knowledge of Salesforce (Life Sciences Cloud or Health Cloud) and/or Veeva CRM strongly preferred. Proven ability to lead or support discovery workshops, stakeholder interviews, and requirements sessions with field users and commercial or medical leaders. Strong skills in business process documentation and user journey mapping; ability to produce clear, structured artifacts (process flows, requirements documents, user stories) that drive alignment across business and technical teams. Familiarity with organizational change management concepts and practices; ability to translate process and system changes into people and role impacts. Experience working on complex, multi-stakeholder global programs; comfort coordinating across global and regional teams in a distributed delivery model. Strong written and verbal communication skills; able to present clearly to senior clients and internal stakeholders in a supporting capacity. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Bengaluru",
     "posting_date": "2026-04-13T16:18:00+0000Updated at :2026-04-13T16:40:32+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32568",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": "s",
     "location": "Pune",
     "posting_date": "2026-04-13T06:15:00+0000Updated at :2026-04-13T06:39:21+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24381",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-10T09:53:00+0000Updated at :2026-04-10T10:27:28+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32420",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "ZS",
@@ -119,25 +133,11 @@
     "qualifications": "What you\u2019ll bring: \u2022 Bachelor\u2019s degree in computer science, Engineering, or a related field. \u2022 3+ years of experience in AI and machine learning, specifically in computer vision, generative AI, and NLP. \u2022 Proficiency in programming languages such as Python and C. \u2022 Strong experience with deep learning and large language models. \u2022 Familiarity with various databases and vector databases. \u2022 Hands-on experience with cloud services and containerization. \u2022 Excellent problem-solving skills and ability to work in a team environment. \u2022 Strong communication skills to interact with stakeholders and team members effectively Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Gurugram",
     "posting_date": "2026-04-10T05:29:00+0000Updated at :2026-04-10T06:25:58+0000",
-    "posted_at": "2026-04-16 08:16:31",
+    "posted_at": "2026-04-16 10:00:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24330",
-    "loaded_at": "2026-04-16 13:46:31"
-  },
-  {
-    "company": "ZS",
-    "role": "Senior Lead, Digital Products",
-    "description": "description",
-    "responsibilities": "What you'll do: Assist in requirement gathering sessions with Commercial, Sales, Marketing, Medical Affairs, Field Operations, and Digital stakeholders to support HCP engagement initiatives. Document user stories, acceptance criteria, and workflow diagrams for Veeva CRM / Salesforce-based solutions under the guidance of senior consultants. Support mapping of HCP engagement journeys and commercial workflows to CRM capabilities, including Account & Contact Management, Call Planning, CLM, Approved Email, Consent & Preferences, Campaign Execution, Territory Management, and Activity Tracking. Perform basic configuration validation and UAT support, including business-level test case creation, execution, and defect triage within Veeva CRM / Salesforce. Coordinate with technical and QA teams to ensure delivered functionality aligns with pharma commercial use cases and compliance requirements. Maintain project assets in Jira / Confluence, including story updates, process documentation, configuration notes, and release documentation. Assist in development of training and onboarding materials for commercial end users (sales representatives, MSLs, marketers, and field operations teams). Create and manage artifacts such as business processes, user flows, data flow diagrams, and presentations to support clear communication and alignment Act as the primary advocate for the client and end-users, driving user-centric design and ensuring solutions deliver measurable value and outcomes Instrument analytics and measure product impact across business, user and operational KPIs, identifying areas for improvement and implementing enhancements to ensure ongoing value Stay updated on technology trends and industry best practices to identify opportunities for innovation and competitive advantage Provide regular updates and training to stakeholders and users, supporting effective adoption and use of product/solutions ",
-    "qualifications": "What you\u2019ll bring: 8+ years of experience in CRM or life sciences IT, with strong hands-on experience on Salesforce and/or Veeva CRM. Exposure to pharma commercial CRM platforms and clouds such as Salesforce Sales Cloud, Marketing Cloud, and Veeva CRM (including CLM, Approved Email, and Campaigns). Solid understanding of HCP engagement models, commercial operations workflows, call planning, territory management, consent & preference management, and omnichannel engagement. Ability to write clear user stories and acceptance criteria with moderate supervision. Strong analytical mindset with structured problem-solving and clear communication skills. Experience working in Agile / Scrum delivery environments. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Good to Have Salesforce Administrator and/or Business Analyst certification; Veeva CRM certification is a plus. Experience integrating commercial CRM with downstream and adjacent systems such as HCP portals, marketing automation platforms, data warehouses, analytics platforms, call centers, and field enablement tools. Understanding data privacy, consent and preference management, and compliance controls relevant to pharma commercial systems (e.g., GDPR, HIPAA, audit trails).",
-    "location": "Pune",
-    "posting_date": "2026-04-09T10:36:00+0000Updated at :2026-04-09T12:22:43+0000",
-    "posted_at": "2026-04-16 08:16:31",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/32081",
-    "loaded_at": "2026-04-16 13:46:31"
+    "loaded_at": "2026-04-16 15:30:40"
   },
   {
     "company": "JPMC",
@@ -151,6 +151,20 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734629",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Product Manager - Authentication (Vendor Platform)",
+    "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-16",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719404",
     "loaded_at": null
   },
   {
@@ -267,6 +281,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Software Engineer III - Automation",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-16",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720626",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Lead Site Reliability Engineer",
     "description": "Lead SRE for medium-large products; drive resiliency reviews, operational readiness, and SLO-based reliability from build to run.",
     "responsibilities": null,
@@ -319,6 +347,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736207",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Java, React JS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-16",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737139",
     "loaded_at": null
   },
   {
@@ -585,48 +627,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723654",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - iOS",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-15",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724741",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, Streaming, AWS",
-    "description": "Design and deliver critical software solutions across domains as a key team member contributor on an agile credit card pricing team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-15",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725983",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, React, Kafka",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-15",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727006",
     "loaded_at": null
   }
 ]
