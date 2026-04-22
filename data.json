@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Business Technology Solutions Associate Consultant",
+    "description": "description",
+    "responsibilities": "What you\u2019ll do: Undertake primary ownership in driving self and team effort across all phases of a project lifecycle; Translate business requirements into technical terms and drive team effort to design, build and manage technology solutions that solve business problems; Apply appropriate development methodologies (e.g.: agile, waterfall) and best practices (e.g.: mid-development client reviews, embedded QA procedures, unit testing) to ensure successful and timely completion; Partner with Project lead/ Program lead in delivering projects and assist in project management responsibility like - project plans, people management, staffing and risk mitigation; Collaborate with other team members across the globe and ensure seamless communication and sharing/ undertaking tasks; Manage team of diverse skill sets (programmer, cloud analyst, BI developer, reporting, operations, etc.); Mentor/coach the junior members in the team; Lead task planning and task distribution across team members and ensure timely completion with high quality and report accurate status to seniors; Lead the project deliverables such as business case development, solution vision and design, user requirements, solution mockup, prototypes, and technical architecture, test cases, deployment plans, operations strategy and planning, etc.; Manage direct / indirect client communications as per the assigned responsibility in the project; Exhibit outlook to bring continuous improvement, innovation and exhibit capability to learn new areas (technology, business domain, project management process) and drive the similar effort of team members: Understand the problem statement, client requirements and design and build complex solutions using Programing languages, ETL platform, etc.; Ability to take right and timely decision on problem solving by considering broader picture, especially on approach, technical nuances and planning. Experience & Qualifications: Bachelor's/Master's degree with specialization in Computer Science, MIS, IT or other computer related disciplines; 4-6 years of relevant consulting-industry experience working on medium-large scale technology solution delivery engagements: Big Data Technologies: Proficiency in working with big data technologies, particularly in the context of Databricks, which may include Apache Spark for distributed data processing. Databricks: In-depth knowledge of Databricks for data engineering tasks, including data transformations, ETL processes, and job scheduling. SQL and Query Optimization: Strong SQL skills for data manipulation and retrieval, along with the ability to optimize queries for performance in Snowflake. ETL (Extract, Transform, Load): Expertise in designing and implementing ETL processes to move and transform data between systems, utilizing tools and frameworks available in Databricks. Data Integration: Experience with integrating diverse data sources into a cohesive and usable format, ensuring data quality and integrity. Python/PySpark: Knowledge of programming languages like Python and PySpark for scripting and extending the functionality of Databricks notebooks. Version Control: Familiarity with version control systems, such as Git, for managing code and configurations in a collaborative environment. Monitoring and Optimization: Ability to monitor data pipelines, identify bottlenecks, and optimize performance for both Snowflake and Databricks. Security and Compliance: Understanding of security best practices and compliance considerations when working with sensitive data in AWS and Snowflake environments. Snowflake Data Warehouse: Experience in designing, implementing, and optimizing data warehouses using Snowflake, including schema design, performance tuning, and query optimization. Data Modeling: Proficient in data modeling concepts and practices, especially in the context of designing and maintaining data structures in Snowflake. Additional Skills Deep understanding of data management best practices and data analytics; Up to speed with latest technologies related (but not limited to) to cloud platform services, visualization, data management; Excellent verbal and written communication, with appropriate and logical structuring of thoughts process during discussion/ presentation; Lead project teams in driving end to end activities to meet set milestones and provide necessary mentorship/ guidance for the team growth; Ability to distill complex concepts into easy-to-understand frameworks and presentations; Strong verbal and written communication skills with ability to articulate results and issues to internal and client teams; Ability to work within a virtual global team environment and contribute to the overall timely delivery of multiple projects; Willingness to travel to other global offices as needed to work with client or other internal project teams",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-04-22T09:15:00+0000Updated at :2026-04-22T09:17:44+0000",
+    "posted_at": "2026-04-22 10:04:51",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/21336",
+    "loaded_at": "2026-04-22 15:34:51"
+  },
+  {
+    "company": "ZS",
     "role": "Associate Counsel",
     "description": "description",
     "responsibilities": "Associate\u202fCounsel We seek an Associate Counsel to join ZS\u2019 Data Protection group within the Legal team. In this role, you will partner with stakeholders across the firm to enable responsible use of data by providing practical, business-focused advice on privacy and data protection issues, supporting global commercial transactions, and helping assess and manage privacy risk. You will stay current on evolving privacy laws and regulatory guidance and translate requirements into clear recommendations, templates and processes. What you'll do: Associate Counsel in the Enterprise will\u2026 Reviewing, revising and negotiating privacy and data protection provisions in client, partner and vendor agreements Providing legal support to the ZS IT team, with a focus on vendor contract review, including reviewing vendor documentation, advising on privacy and data protection risks, and engaging with relevant ZS stakeholders to support compliant vendor engagement Advising on privacy and AI compliance topics Supporting privacy assessments for new initiatives (e.g., DPIAs/PIAs), and embedding privacy-by-design and security-by-design principles into business processes Assisting with client data protection questionnaires and audits Assist in providing legal support to business functions and across various client practice areas What you'll bring: LLB degree with strong academic background required 1\u20133 years of relevant experience in privacy/data protection, technology transactions, or commercial contracting (in-house or at a law firm); international experience preferred Some knowledge of global privacy and data protection concepts and frameworks (e.g., India DPDP Act, EU GDPR) Experience reviewing and negotiating vendor agreements Basic understanding of information technology concepts and environments, including technology platforms and SaaS solutions, is preferred Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-04-21T06:36:00+0000Updated at :2026-04-21T15:15:07+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32724",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "ZS",
@@ -21,11 +35,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Computer Science, IT, Finance, Engineering, or related field. 6\u20137 years of overall experience, with 5+ years in Cloud Financial Management / FinOps roles. Proven experience managing multi\u2011cloud environments (AWS, Azure, GCP) at enterprise scale. Demonstrated ownership of $5M+ annual cloud spend with measurable optimization outcomes. Strong expertise in cloud pricing models, discount programs, and cost governance frameworks. Hands\u2011on experience with FinOps platforms (CloudHealth, Flexera, Vantage, or similar) and native cloud cost tools. Strong analytical, communication, and stakeholder management skills. Prior team leadership or mentoring experience is required. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-21T06:12:00+0000Updated at :2026-04-21T15:15:07+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/26719",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-20T17:30:00+0000Updated at :2026-04-20T19:10:58+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24051",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-20T09:54:00+0000Updated at :2026-04-20T11:10:02+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24243",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-04-20T09:52:00+0000Updated at :2026-04-20T11:10:02+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32659",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-20T06:31:00+0000Updated at :2026-04-20T07:09:21+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32737",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-17T10:38:00+0000Updated at :2026-04-17T10:57:28+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24088",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": "What you\u2019ll bring: Experience & Domain Expertise 18+ years of experience in Life Sciences R&D, with strong expertise in clinical data management, biometrics, and analytics Deep understanding of the end-to-end drug development lifecycle Strong domain knowledge of clinical data, analytics, and digital R&D transformation Clinical Systems & Platforms Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Strong expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Working knowledge of R, Python, and SAS for clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutions in clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture design Leadership & Consulting Skills Strong communication and stakeholder management skills with ability to influence senior leaders Proven experience in GxP-compliant, large-scale enterprise programs Ability to lead global, cross-functional, and multi-vendor teams Strong leadership, mentoring, and team-building capabilities Solid understanding of agile, product-led, and digital transformation delivery models",
     "location": "Pune",
     "posting_date": "2026-04-16T09:30:00+0000Updated at :2026-04-16T10:52:35+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32711",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "ZS",
@@ -119,25 +133,11 @@
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-04-15T15:24:00+0000Updated at :2026-04-16T12:52:44+0000",
-    "posted_at": "2026-04-22 08:19:19",
+    "posted_at": "2026-04-22 10:04:51",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32712",
-    "loaded_at": "2026-04-22 13:49:19"
-  },
-  {
-    "company": "ZS",
-    "role": "Knowledge Services Associate Consultant",
-    "description": "description",
-    "responsibilities": "Knowledge Services Group Overview Knowledge Services group offers a broad spectrum of Business Research, Pre-Sales and other knowledge-based services to clients and internal stakeholders. Knowledge Services has emerged as one of ZS\u2019s distinctive competitive advantages, and a key enabler for our consultants to have lasting impact while addressing their clients' sales & marketing issues. Our services are based on deep research, and we bring together a unique combination of Business Research, Life-Sciences and Clinical experiences. What You\u2019ll Do Assess firm knowledge needs and requirements (short-term or long-term) Deliver targeted insights using internal knowledge and external sources Help the firm prepare materials for Summits and Conferences Support the creation and update of knowledge assets including client updates, competitive intelligence, industry research etc. Maintain, manage, and develop the firm\u2019s knowledge infrastructure Share best practices and tactical knowledge across offices, practice areas and team Engage and build relationships with firm members and leaders What You\u2019ll Bring A track record in research and knowledge services, ready to support diverse ZS practice areas and project teams. 48+ months of relevant knowledge services experience in IT/Consulting companies; An academic background in life sciences, biotechnology with PhD only. Experience in working on databases like Evaluate Pharma, Adis, Avention, Datamonitor, Nexis etc; Proficiency in computer applications, including MS Office, with an interest in Enterprise application/BI tools; Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Gurugram",
-    "posting_date": "2026-04-14T11:34:00+0000Updated at :2026-04-14T12:44:46+0000",
-    "posted_at": "2026-04-22 08:19:19",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/32669",
-    "loaded_at": "2026-04-22 13:49:19"
+    "loaded_at": "2026-04-22 15:34:51"
   },
   {
     "company": "JPMC",
@@ -151,6 +151,20 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738360",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Analytics Solution Associate",
+    "description": "Lead analytics solutions, initiate strategic decisions, and shape data-driven innovation in a collaborative, growth-focused team.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-22",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738419",
     "loaded_at": null
   },
   {
@@ -183,6 +197,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Director of Software Engineering - Python, Databricks, Snowflake",
+    "description": "Looking to hire a very strong hands on Principal Data Engineer\u00a0in Research tech Data space to lead the future of Data Platform.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-22",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726138",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer III  -  JAVA AWS",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -207,6 +235,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728691",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Python & Databricks",
+    "description": "Design and deliver secure, scalable technology solutions as a key member of our agile software engineering team.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-22",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732084",
     "loaded_at": null
   },
   {
@@ -249,6 +291,34 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734979",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II - Test Automation, Payments",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-22",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734988",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Java , React",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-22",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736949",
     "loaded_at": null
   },
   {
@@ -557,76 +627,6 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729338",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Subsidiary Payment Sales Business Management - Associate",
-    "description": "You are a key partner to the Business driving initiatives, refining processes, and delivering solutions that enable decision making",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-20",
-    "posted_at": null,
-    "job_family": "Business Management",
-    "job_function": "Finance",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736099",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Payments Advisory - Analyst",
-    "description": "Join the fast growing Payments organization, providing customized client/treasury advisory to help clients transform their treasury and finance organization, for one of the world\u2019s most innovative banks",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-20",
-    "posted_at": null,
-    "job_family": "Analysts",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732854",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, Cloud",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-20",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710099",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Manager of Software Engineering - Java AWS",
-    "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams ",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-20",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713012",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer- Back-end Engineer - Chase UK",
-    "description": "We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-20",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715495",
     "loaded_at": null
   }
 ]
