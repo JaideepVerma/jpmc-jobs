@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Decision Analytics Associate",
+    "description": "description",
+    "responsibilities": "ZS's Insights & Analytics group partners with clients to design and deliver solutions to help them tackle a broad range of business challenges. Our teams work on multiple projects simultaneously, leveraging advanced data analytics and problem-solving techniques. Our recommendations and solutions are based on rigorous research and analysis underpinned by deep expertise and thought leadership.\u202f\u202f\u202f What You\u2019ll Do Develop and apply advanced statistical models that help clients understand dynamic business issues. Leverage analytic techniques to use data to guide client and ZS team decision-making. Design custom analyses in R, Tableau, SAS, Visual Basic and Excel to investigate and inform client needs. Synthesize and communicate results to clients and ZS teams through oral and written presentations. Develop client relationships and serve as key point of contact on aspects of projects. Provide client and ZS teams project status updates. Create project deliverables and implement solutions. Advance problem-solving skills and improve ZS\u2019s capabilities. Guide and mentor Associates on teams. What You\u2019ll Bring Bachelor's or master's degree required in any discipline with strong record of academic success in quantitative and analytic coursework such as operations research, applied mathematics, management science, data science, statistics, econometrics or engineering. Up to 3 years of relevant post-collegiate job experience. Fluency in English. Knowledge of programming (e.g., Java/Python/R). Exposure to tools/platforms (e.g., Hadoop eco system and database systems). Demonstrated proficiency in a programming language or analytic tool such as R, SAS, Tableau, or VBA. High motivation, good work ethic, maturity, and personal initiative. Effective oral and written communication skills. Empathy, adaptability, and emotional intelligence. Strong attention to detail, with a quality-focused mindset. Self-discipline for planning and organizing tasks. Aptitude for, and enjoyment of, working in teams. Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: We are committed to giving our employees a flexible and connected way of working. A flexible and connected ZS allows us to combine work from home and on-site presence at clients/ZS offices for the majority of our week. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-04-23T07:30:00+0000Updated at :2026-04-23T07:30:33+0000",
+    "posted_at": "2026-04-23 08:23:52",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/24139",
+    "loaded_at": "2026-04-23 13:53:52"
+  },
+  {
+    "company": "ZS",
     "role": "Digital & Technology Partner - Pharma",
     "description": "description",
     "responsibilities": "We are seeking a high-impact Senior Executive \u2013 Digital & Technology Innovation to lead the digital transformation and innovation agenda within our consulting practice. This role sits at the intersection of strategy, technology, and business growth, with full accountability for driving measurable client impact, building new technology-led businesses, and growing high-performing leadership teams. As a Technology Partner, you will act as a trusted advisor to C\u2011suite and enterprise leaders at global pharma and healthcare organizations, while also serving as a builder\u2014establishing innovation ecosystems, incubating next-generation digital capabilities, and scaling them across clients and industries. The ideal candidate combines deep technical acumen with strong consulting experience and has successfully led innovation functions, client transformation programs, or digital solution incubators. What You'll Do - Business Growth & Client Leadership - Drive business expansion within key clients, identifying and unlocking new revenue streams Serve as a strategic advisor to senior client stakeholders, navigating complex business challenges and positioning ZS\u2019s technology solutions effectively Lead business development efforts by proactively identifying opportunities, crafting proposals with the team, and securing multi-million-dollar engagements Establish deep client relationships, acting as a trusted partner and thought leader in technology transformation Delivery Excellence for clients - Oversee the design and implementation of large-scale technology solutions, ensuring alignment with business objectives Provide guidance on solution architecture, data strategy, and AI-driven automation to enhance client capabilities People Leadership - Build and scale high-performing teams, mentoring and coaching managers and associates to grow into leadership roles Cultivate a culture of continuous learning and professional development, enabling team members to upskill in advanced technologies Delivery Excellence Process - Drive the vision, strategy, and execution of Delivery excellence for various delivery models Create a culture of delivery excellence. Delivery discipline should be integral part of client delivery Ensure governance, risk management, delivery discipline across client accounts. What You'll Bring - 20+ years of experience in digital technology, data & analytics, and management consulting, with a strong record of leading large-scale global engagements for healthcare and life sciences clients, including biopharma, medtech, and healthcare services organizations. Professional certifications in cloud (AWS/Azure/GCP), Agile, Design Thinking, or Innovation Management (e.g., IDEO, Stanford d.school) are a plus. Demonstrated expertise in digital transformation, enterprise architecture, and data & analytics, with the ability to design and implement cloud-native data, analytics, and AI ecosystems, including modern data platforms, advanced analytics, MLOps/LLMOps, and responsible AI governance. Strong ability to connect emerging technologies (GenAI, Agentic AI, advanced analytics, cloud, and automation) to clear, measurable client business outcomes, translating innovation into executable roadmaps and value realization. Experience in establishing and scaling a Delivery Excellence Office, driving standardization, governance, quality, and continuous improvement across complex digital portfolios. Commercial acumen in structuring and selling digital engagements. Exceptional stakeholder engagement and influencing skills, including experience with large clients. Ability to build and lead high-performing, cross-geography teams in a matrix organization",
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-22T19:45:00+0000Updated at :2026-04-22T21:20:20+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32592",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "ZS",
@@ -21,11 +35,11 @@
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-04-21T06:36:00+0000Updated at :2026-04-21T15:15:07+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32724",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Computer Science, IT, Finance, Engineering, or related field. 6\u20137 years of overall experience, with 5+ years in Cloud Financial Management / FinOps roles. Proven experience managing multi\u2011cloud environments (AWS, Azure, GCP) at enterprise scale. Demonstrated ownership of $5M+ annual cloud spend with measurable optimization outcomes. Strong expertise in cloud pricing models, discount programs, and cost governance frameworks. Hands\u2011on experience with FinOps platforms (CloudHealth, Flexera, Vantage, or similar) and native cloud cost tools. Strong analytical, communication, and stakeholder management skills. Prior team leadership or mentoring experience is required. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-21T06:12:00+0000Updated at :2026-04-21T15:15:07+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/26719",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-20T17:30:00+0000Updated at :2026-04-20T19:10:58+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24051",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-20T09:54:00+0000Updated at :2026-04-20T11:10:02+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24243",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-04-20T09:52:00+0000Updated at :2026-04-20T11:10:02+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32659",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-20T06:31:00+0000Updated at :2026-04-20T07:09:21+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32737",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-17T10:38:00+0000Updated at :2026-04-17T10:57:28+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24088",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "ZS",
@@ -119,25 +133,11 @@
     "qualifications": "What you\u2019ll bring: Experience & Domain Expertise 18+ years of experience in Life Sciences R&D, with strong expertise in clinical data management, biometrics, and analytics Deep understanding of the end-to-end drug development lifecycle Strong domain knowledge of clinical data, analytics, and digital R&D transformation Clinical Systems & Platforms Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Strong expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Working knowledge of R, Python, and SAS for clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutions in clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture design Leadership & Consulting Skills Strong communication and stakeholder management skills with ability to influence senior leaders Proven experience in GxP-compliant, large-scale enterprise programs Ability to lead global, cross-functional, and multi-vendor teams Strong leadership, mentoring, and team-building capabilities Solid understanding of agile, product-led, and digital transformation delivery models",
     "location": "Pune",
     "posting_date": "2026-04-16T09:30:00+0000Updated at :2026-04-16T10:52:35+0000",
-    "posted_at": "2026-04-23 06:27:18",
+    "posted_at": "2026-04-23 08:23:52",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32711",
-    "loaded_at": "2026-04-23 11:57:18"
-  },
-  {
-    "company": "ZS",
-    "role": "AI Engineer - Machine Learning",
-    "description": "description",
-    "responsibilities": "What You\u2019ll Do: Build, Refine and Use ML Engineering platforms and components. Scaling machine learning algorithms to work on massive data sets and strict SLAs. Build and orchestrate model pipelines including feature engineering, inferencing and continuous model training. Implement ML Ops including model KPI measurements, tracking, model drift & model feedback loop. Collaborate with client facing teams to understand business context at a high level and contribute in technical requirement gathering. Implement basic features aligning with technical requirements. Write production-ready code that is easily testable, understood by other developers and accounts for edge cases and errors. Ensure highest quality of deliverables by following architecture/design guidelines, coding best practices, periodic design/code reviews. Write unit tests as well as higher level tests to handle expected edge cases and errors gracefully, as well as happy paths. Uses bug tracking, code review, version control and other tools to organize and deliver work. Participate in scrum calls and agile ceremonies, and effectively communicate work progress, issues and dependencies. Consistently contribute in researching & evaluating latest architecture patterns/technologies through rapid learning, conducting proof-of-concepts and creating prototype solutions. What You\u2019ll Bring A master's or bachelor\u2019s degree in Computer Science or related field from a top university. 1-3 years\u2019 hands-on experience in ML development. Good understanding of the fundamentals of machine learning Strong programming expertise in Python, PySpark/Scala. Expertise in crafting ML Models for high performance and scalability. Experience in implementing feature engineering, inferencing pipelines, and real time model predictions. Experience in ML Ops to measure and track model performance, experience working with MLFlow Experience with Spark or other distributed computing frameworks. Experience in ML platforms like Sage maker, Kubeflow. Experience with pipeline orchestration tools such Airflow. Experience in deploying models to cloud services like AWS, Azure, GCP, Azure ML. Expertise in SQL, SQL DB's. Knowledgeable of core CS concepts such as common data structures and algorithms. Collaborate well with teams with different backgrounds / expertise / functions Fluency in English Client-first mentality Intense work ethic Collabrative spirit and probelm-solving approac",
-    "qualifications": "h",
-    "location": "Bengaluru",
-    "posting_date": "2026-04-15T15:24:00+0000Updated at :2026-04-16T12:52:44+0000",
-    "posted_at": "2026-04-23 06:27:18",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/32712",
-    "loaded_at": "2026-04-23 11:57:18"
+    "loaded_at": "2026-04-23 13:53:52"
   },
   {
     "company": "JPMC",
@@ -193,6 +193,48 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708478",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Full Stack Java , React",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734080",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Java AWS Kafka",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734471",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Java, Spring boot, AWS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735667",
     "loaded_at": null
   },
   {
@@ -585,48 +627,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728162",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, Kotlin",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-21",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731553",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer",
-    "description": "Software Engineering - iOS Framework Developer",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-21",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731600",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Manager of Software Engineer- Java, Sprint boot, Architecture and Design",
-    "description": "Promote hands on development, guide teams, manage daily delivery, and set clear direction for output, best practices, and collaboration",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-21",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733447",
     "loaded_at": null
   }
 ]
