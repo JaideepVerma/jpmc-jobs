@@ -99,6 +99,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Lead Software Engineer - UI Developer (React, Micro-Frontend)",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-28",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716648",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Lead Software Engineer - Java AWS",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
     "responsibilities": null,
@@ -113,6 +127,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Manager of Software Engineering",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-28",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717933",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer II - Java, AI, Kubernetes",
     "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. \n\n",
     "responsibilities": null,
@@ -123,6 +151,34 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729962",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Java",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-28",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731097",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Python Developer + AWS + LLM / Gen AI",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-28",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731636",
     "loaded_at": null
   },
   {
@@ -193,6 +249,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736640",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer",
+    "description": "Drive and develop cutting-edge technology to power next-generation banking solutions for businesses.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-28",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738893",
     "loaded_at": null
   },
   {
@@ -337,20 +407,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Lead Software Engineer - Java, AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-27",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723110",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Software Engineer III - Android Developer",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -434,60 +490,32 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Software Engineer II",
-    "description": "Design and optimize scalable data pipelines with cloud tools and Python to power analytics, support data science, and ensure secure data governance.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-27",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731940",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Associate Principal",
+    "description": "description",
+    "responsibilities": "Associate Principal, Global Drug Development Consulting & Expertise Centre Role Overview The Global Drug Development Consulting & Expertise Centre Lead is a senior leadership role responsible for building and scaling a global consulting capability from India, while delivering high-impact client engagements across the drug development value chain. This role sits at the intersection of: End-to-end consulting project delivery and client Deep Drug Development domain expertise Knowledge services and global capability building The Consulting & Expertise Centre Lead will act as a trusted advisor to senior R&D leaders, a builder of teams and offerings, and a key contributor to practice growth, working closely with Principals and Partners across regions. What You\u2019ll Do: Client Leadership & Consulting Delivery Lead complex, multi-workstream consulting engagements across Clinical Development, Regulatory and Pharmacovigilance Serve as a client partner to senior Director-, VP-, and C-suite\u2013level stakeholders within global R&D organizations Interpret client needs and problem statements, understanding complex challenges in context and helping to interpret business and technology requirements Deliver solutions, translating strategy into executable roadmaps and produce high-quality outputs that exactly meet client needs Ensure high-quality delivery excellence across strategy, operating model design, process transformation, system-enabled change, system implementations, data initiatives, AI initiatives Represent ZS as a thought leader in client discussions, workshops, and executive forums Practice & Capability Building Growing R&D consulting capability in India, expanding and leading the team of practitioners, engaging with senior clients and principals across the practice Growing and leading our team of deep experts with scientific, domain, functional, standards, regulations expertise across life sciences industry and collaborative initiatives initiative Collaborating to increase the value and impact of our knowledge services and industry research capability Develop and mentor high-performing teams across consulting, analytics, and domain experts Establish delivery standards, reusable assets, playbooks, and best practices across Drug Development Act as a local leader in India for the Drug Development consulting, expert and knowledge capability, working closely with global practice leadership Balance utilization, quality, and scalability to support sustainable growth of the practice Business Development & Growth Identify new client opportunities and expand existing accounts through trusted relationships and collaboration with global drug development leads Lead proposal development, including RFP responses, proactive value propositions, detailed solutioning, and commercial considerations \u2013 in close collaboration with global drug development leads Partner with Principals and Partners to shape new offerings aligned to evolving R&D and clinical innovation trends Contribute to long-term practice strategy, investment priorities, talent planning, location strategy and global ways of working Thought Leadership & Market Impact Develop internal and external thought leadership on topics such as: Future of Clinical Development and Clinical Trials R&D Operating Model Transformation Regulatory Evolution Digital, Analytics, Platform and AI enablement across R&D Contribute to white papers, points of view, and conference presentations Stay at the forefront of regulatory, technology, and operating model changes in global Drug Development What You\u2019ll Bring: Advanced degree in Life Sciences, Pharmacy, Biotechnology, Medicine, Engineering, or related field (MBA or equivalent preferred) 15+ years of experience across Drug Development, R&D consulting, or life sciences transformation roles Strong domain expertise across one or more of: Clinical Development Regulatory Affairs Pharmacovigilance / Drug Safety R&D Operations Proven experience leading large-scale consulting or transformation programs with global teams and global clients Demonstrated ability to build and lead high-performing teams, multi-disciplinary teams with high degrees of co-ordination and collaboration Strong client presence with experience influencing senior stakeholders Prior experience in top-tier consulting or global life sciences organizations Experience with R&D technology platforms (e.g., Veeva, Oracle, Medidata, AWS, ECS) Background in operating model design, process harmonization, and change management and proven results to create value for clients Experience working in or building global delivery / offshore consulting models with a clear point of view on how to optimize this model for both the client and the company Track record of business development and account growth understanding sales processes, pipeline management, pricing excellence Executive-level communication and storytelling with high attention to detail, messaging and tailoring to audience Ability to operate at both strategic and hands-on levels, unafraid to roll sleeves up People-first leader with a coaching mindset, with progressive techniques, high priority on inclusion and creating a sense of belonging on the team High ownership, entrepreneurial mindset, and bias for impact whilst solving for both the client and the company",
+    "qualifications": ".",
+    "location": "Bengaluru",
+    "posting_date": "2026-04-28T12:10:00+0000Updated at :2026-04-28T12:11:30+0000",
+    "posted_at": "2026-04-28 12:15:14",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/32895",
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
-    "company": "JPMC",
-    "role": "Lead Software Engineer",
-    "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-27",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732808",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Python, Spark, AWS",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-27",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736136",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer II",
-    "description": "Design and deliver secure, scalable customer communications (statements/letters) using CCM tools in a fast-paced Agile team.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-27",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736144",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Delivery Excellence Specialist",
+    "description": "description",
+    "responsibilities": "As a Delivery Excellence Specialist at ZS Associates, you will be responsible for driving delivery excellence by ensuring that delivery processes are executed with precision, consistency, and alignment to organizational standards. You will provide strategic and technical guidance to delivery teams, enabling them to implement and sustain high-performing controls and practices that support delivery efficiency and continuous improvement. By collaborating with key stakeholders\u2014including Delivery Managers and Leaders - you will help deliver a comprehensive view of delivery health, performance metrics, and their impact on business outcomes. Your advanced knowledge of delivery management principles and project execution will empower you to lead innovative initiatives, optimize delivery frameworks, and manage a diverse team in a dynamic and evolving technology landscape. What You'll Do: Work closely with delivery teams to embed best practices in delivery excellence, risk management, ensuring successful outcomes for aligned programs Track and report operational KPIs to support data-driven decision-making. Monitor delivery performance metrics and escalate issues to ensure timely resolution Collaborate with cross-functional teams to drive continuous improvement in delivery practices. Conduct process reviews and identify inefficiencies, recommending actionable improvements. Assist in designing and implementing process improvement initiatives using Lean, Six Sigma, or Agile methodologies. Identify operational bottlenecks and support initiatives to enhance efficiency and effectiveness. Participate in change management initiatives by supporting communication, training, and stakeholder engagement activities. Help assess the impact of changes and gather feedback to refine implementation strategies. Promote adoption of new tools, processes, and systems across teams. Perform periodic project audits / reviews for the project delivery process based on CMMI (Capability Maturity Model Integration) process areas and report non compliances, best practices followed Assist in Delivery Risk governance and work closely with QRM Leads ensuring effective risk management and mitigation throughout lifecycle of projects Conduct trainings on Delivery Excellence focus areas, QMS process assets and awareness on best practices Maintain and ensure project process maturity (CMMI Level 3) adherence for ensuring Capability Maturity Model Integration (CMMI) v3.0 Development & Services appraisal and accreditation process Showcase expertise on Software Quality Management framework such as ISO9001, CMMI Development, CMMI Services and focus on performance and continuous improvement at project as well as organization level Enhance Delivery and Operations maturity through close engagement and planned intervention across all project phases Definition and regular enhancement of enterprise level Quality Management System aka Enterprise Delivery Framework (EDF) supporting Development (Waterfall, Agile) as well as Operations projects (Services delivery methodology. What You'll Bring: Bachelor's degree in IT or relevant field with a strong academic record. A minimum of 7-10 years of experience in Delivery Excellence and Quality Management Strong communication & strategic influencing skills. Relevant experience working with senior leaders, building internal networks, and delivering high impact programs in complex -matrixed environments. Formal training or certification in Delivery/Operations excellence, and/or 5+ years of experience or equivalent expertise in technology Delivery excellence management, Operations excellence, Software Quality Management & Software Quality Standards or related field. Familiarity with delivery excellence frameworks, industry standards, and pharma regulatory requirements (HIPPA, GXP etc) Proficient knowledge and expertise in data security, risk assessment & reporting, control evaluation, design, and governance, with a proven record of implementing effective risk mitigation strategies. Proficient in MS Office productivity suite (e.g., Word, Excel, PowerPoint, SharePoint). Advanced Excel skills strongly preferred Six Sigma Black Belt/ITIL/CMMI/ISO9001 Lead auditor/MBA or relevant Delivery excellence / Audit certification Experience with Project management tools (e.g., Atlassian JIRA, Confluence, MS Project) and Quality Assurance tools CMMI implementation experience (Maturity level 3 at minimum/ High maturity implementation experience preferred ) Strong communication skills, both written and verbal, for reporting and interacting with stakeholders. Ability to work independently and as part of a team Willingness to adapt to evolving industry standards and technologies Ability to manage a wide variety of tasks and meet deadlines, and reliability/dependability Proven ability to work creatively and analytically in a problem-solving environment Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-04-28T11:36:00+0000Updated at :2026-04-28T11:44:21+0000",
+    "posted_at": "2026-04-28 12:15:14",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/24217",
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
     "company": "ZS",
@@ -497,11 +525,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-27T13:32:00+0000Updated at :2026-04-27T13:40:21+0000",
-    "posted_at": "2026-04-28 09:59:31",
+    "posted_at": "2026-04-28 12:15:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24371",
-    "loaded_at": "2026-04-28 15:29:31"
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
     "company": "ZS",
@@ -511,11 +539,11 @@
     "qualifications": "n",
     "location": "Pune",
     "posting_date": "2026-04-27T11:20:00+0000Updated at :2026-04-27T11:40:04+0000",
-    "posted_at": "2026-04-28 09:59:31",
+    "posted_at": "2026-04-28 12:15:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24060",
-    "loaded_at": "2026-04-28 15:29:31"
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
     "company": "ZS",
@@ -525,11 +553,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-04-27T09:04:00+0000Updated at :2026-04-27T09:39:44+0000",
-    "posted_at": "2026-04-28 09:59:31",
+    "posted_at": "2026-04-28 12:15:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32855",
-    "loaded_at": "2026-04-28 15:29:31"
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
     "company": "ZS",
@@ -539,11 +567,11 @@
     "qualifications": ";",
     "location": "Bengaluru",
     "posting_date": "2026-04-27T07:40:00+0000Updated at :2026-04-27T09:39:44+0000",
-    "posted_at": "2026-04-28 09:59:31",
+    "posted_at": "2026-04-28 12:15:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/22203",
-    "loaded_at": "2026-04-28 15:29:31"
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
     "company": "ZS",
@@ -553,11 +581,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's/Master's degree with specialization in Computer Science, MIS, IT or other computer related disciplines. 6-8 years of relevant consulting-industry experience working on medium-large-scale technology solution delivery engagements. 5+ years of hands-on experience on designing, implementation Data processing solutions. Excellent in Programming languages like Python, Java, Scala, etc. and Programming basics - Data Structures; Strong knowledge on RDBMS Expertise in following AWS services (or equivalent services in Azure, GCP) is preferred. Good to have cloud warehousing solutions knowledge like Snowflake; Experience with dataflow and workflow tools like Apache Nifi, Apache Airflow Experience in designing and driving delivery of mid-large-scale solutions on Cloud platforms. Good handle on working in distributed computing and cloud services platform - AWS, Azure, GCP. Strong client presence. Ability to communicate verbally and in writing technical concepts to all audiences; Ability to manage a virtual global team environment that contributes to the overall timely delivery of multiple projects; Knowledge of current data modeling, and data warehouse concepts, issues, practices, methodologies, and trends in the Business Intelligence domain; Experience with analyzing and troubleshooting the interaction between databases, operating systems, and applications; Significant supervisory, coaching and hands-on project management skills; Willingness to travel to other global offices as needed to work with client or other internal project teams. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-27T04:50:00+0000Updated at :2026-04-27T05:39:01+0000",
-    "posted_at": "2026-04-28 09:59:31",
+    "posted_at": "2026-04-28 12:15:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23161",
-    "loaded_at": "2026-04-28 15:29:31"
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
     "company": "ZS",
@@ -567,11 +595,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's degree required, Master's degree desirable 1-2 years of relevant experience in Customer Support, or preferably IT Helpdesk / Service Desk Strong customer service orientation Professional appearance and demeanor, with ability to exercise good judgment and discretion Ability to work varied hours, enabling support in a 24/7 environment A+ certification or Microsoft Certified Systems Administrator (desirable, not mandatory) Experience with Service Now tool (desirable, not mandatory) Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-24T07:06:00+0000Updated at :2026-04-24T07:25:57+0000",
-    "posted_at": "2026-04-28 09:59:31",
+    "posted_at": "2026-04-28 12:15:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32839",
-    "loaded_at": "2026-04-28 15:29:31"
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
     "company": "ZS",
@@ -581,11 +609,11 @@
     "qualifications": "What you\u2019ll bring: 5\u20138+ years of overall IT experience with 3\u20135+ years on ServiceNow development Advanced expertise in server-side and client-side scripting, performance optimization, and debugging Proficiency in JavaScript, Glide API, and ServiceNow scripting Solid understanding of ITIL and IT Service Management processes Experience with Flow Designer, Integration Hub, and Virtual Agent Working experience with ServiceNow upgrades and release cycles Knowledge of integrations, authentication methods, and APIs Experience designing scalable automations and reusable components Familiarity with CMDB concepts, Discovery, and service mapping (preferred) Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-24T06:47:00+0000Updated at :2026-04-24T07:25:57+0000",
-    "posted_at": "2026-04-28 09:59:31",
+    "posted_at": "2026-04-28 12:15:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32838",
-    "loaded_at": "2026-04-28 15:29:31"
+    "loaded_at": "2026-04-28 17:45:14"
   },
   {
     "company": "ZS",
@@ -595,38 +623,10 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-22T19:45:00+0000Updated at :2026-04-22T21:20:20+0000",
-    "posted_at": "2026-04-28 09:59:31",
+    "posted_at": "2026-04-28 12:15:14",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32592",
-    "loaded_at": "2026-04-28 15:29:31"
-  },
-  {
-    "company": "ZS",
-    "role": "Associate Counsel",
-    "description": "description",
-    "responsibilities": "Associate\u202fCounsel We seek an Associate Counsel to join ZS\u2019 Data Protection group within the Legal team. In this role, you will partner with stakeholders across the firm to enable responsible use of data by providing practical, business-focused advice on privacy and data protection issues, supporting global commercial transactions, and helping assess and manage privacy risk. You will stay current on evolving privacy laws and regulatory guidance and translate requirements into clear recommendations, templates and processes. What you'll do: Associate Counsel in the Enterprise will\u2026 Reviewing, revising and negotiating privacy and data protection provisions in client, partner and vendor agreements Providing legal support to the ZS IT team, with a focus on vendor contract review, including reviewing vendor documentation, advising on privacy and data protection risks, and engaging with relevant ZS stakeholders to support compliant vendor engagement Advising on privacy and AI compliance topics Supporting privacy assessments for new initiatives (e.g., DPIAs/PIAs), and embedding privacy-by-design and security-by-design principles into business processes Assisting with client data protection questionnaires and audits Assist in providing legal support to business functions and across various client practice areas What you'll bring: LLB degree with strong academic background required 1\u20133 years of relevant experience in privacy/data protection, technology transactions, or commercial contracting (in-house or at a law firm); international experience preferred Some knowledge of global privacy and data protection concepts and frameworks (e.g., India DPDP Act, EU GDPR) Experience reviewing and negotiating vendor agreements Basic understanding of information technology concepts and environments, including technology platforms and SaaS solutions, is preferred Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Bengaluru",
-    "posting_date": "2026-04-21T06:36:00+0000Updated at :2026-04-21T15:15:07+0000",
-    "posted_at": "2026-04-28 09:59:31",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/32724",
-    "loaded_at": "2026-04-28 15:29:31"
-  },
-  {
-    "company": "ZS",
-    "role": "Senior Cloud FinOps Engineer Specialist",
-    "description": "description",
-    "responsibilities": "What you'll do: Senior Cloud FinOps Engineer Specialist in the Enterprise is responsible for end\u2011to\u2011end financial governance and optimization of large-scale multi\u2011cloud environments (AWS, Azure, GCP), managing annual cloud spend exceeding USD 5M+, and leading a FinOps team. The role partners closely with engineering leaders, architects, finance, and business stakeholders to drive cost accountability, improve unit economics, and embed FinOps best practices into cloud operating models. Own and govern enterprise cloud spend across AWS, Azure, and GCP, managing an annual cloud budget of $5M+. Drive cost optimization initiatives across compute, storage, data, and managed services with measurable savings outcomes. Define and enforce FinOps governance frameworks, including tagging standards, budget controls, and showback/chargeback models. Partner with architecture and platform teams to influence cost\u2011aware cloud design decisions during migrations and new deployments. Build and maintain cloud forecasting models aligned with business demand and growth plans. Deliver monthly executive\u2011level dashboards and reports highlighting trends, risks, anomalies, and optimization opportunities. Perform variance analysis and root cause investigations for unexpected spend spikes and communicate findings to senior stakeholders. Support annual budgeting and quarterly re\u2011forecasting cycles in partnership with Finance. Lead strategy and execution for Savings Plans, Reserved Instances, Committed Use Discounts, and other long\u2011term commitment programs across clouds. Track commitment utilization, expirations, and renewals; provide data\u2011driven recommendations to maximize ROI and minimize waste. Evaluate and adopt Graviton / newer instance families and cost\u2011efficient architectures where applicable. Leverage and optimize FinOps tools such as CloudHealth, AWS Cost Explorer, Azure Cost Management, GCP Billing, and similar platforms. Drive automation for cost reporting, anomaly detection, tagging compliance, and resource cleanup using native cloud services or scripts. Conduct FinOps maturity assessments and lead roadmap execution to advance organizational FinOps capabilities. Act as a trusted advisor to engineering leaders, delivery teams, and ZS Partners on cloud cost decisions. Manage relationships with cloud service providers and FinOps tool vendors, supporting negotiations for discounts, credits, and enterprise agreements. Prepare and present business cases and cost optimization proposals to senior leadership. Manage and mentor a team of 3\u20134 FinOps analysts/engineers, providing technical guidance and career development. Set clear goals, review performance, and build bench strength and operational resilience within the FinOps function. Lead training sessions and workshops to improve cloud cost awareness across project teams. ",
-    "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Computer Science, IT, Finance, Engineering, or related field. 6\u20137 years of overall experience, with 5+ years in Cloud Financial Management / FinOps roles. Proven experience managing multi\u2011cloud environments (AWS, Azure, GCP) at enterprise scale. Demonstrated ownership of $5M+ annual cloud spend with measurable optimization outcomes. Strong expertise in cloud pricing models, discount programs, and cost governance frameworks. Hands\u2011on experience with FinOps platforms (CloudHealth, Flexera, Vantage, or similar) and native cloud cost tools. Strong analytical, communication, and stakeholder management skills. Prior team leadership or mentoring experience is required. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
-    "location": "Pune",
-    "posting_date": "2026-04-21T06:12:00+0000Updated at :2026-04-21T15:15:07+0000",
-    "posted_at": "2026-04-28 09:59:31",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/26719",
-    "loaded_at": "2026-04-28 15:29:31"
+    "loaded_at": "2026-04-28 17:45:14"
   }
 ]
