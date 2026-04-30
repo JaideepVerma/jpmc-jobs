@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Senior Associate - ITAM",
+    "description": "description",
+    "responsibilities": "What you'll do: Senior Associate - ITAM in the Enterprise will be responsible for providing supports to all global users on their software needs. Primarily handles software asset management activities like creating, updating, tracking, monitoring, and maintaining software licenses in software management database, as well as monitoring application usage, and reporting compliance of software usage. IT Program associate works with different vendor to get the quote, review them internally and post approval process them for procurement. Working on opportunities to target unused or restricted software for re-harvest/redeployment. Person is responsible for tracking, Maintaining, and auditing the software records on periodic basis. Review new software requests for accuracy and adherence to standards and policies Responsible for collecting the information from end users and coordinating with additional support team to review the software needs. Initial assessment, research, and resolution of basic incidents and requests regarding use of software and components. Work with requestors on alternative options, and ensure the necessary data is captured for compliance, procurement. Escalate compliance matters, standards or policy deviations, and other software related issues to internal escalation teams Compile and maintain inventory of company software and systems assets for the purpose of tracking their corresponding licenses. Administer license change management and license closure. Utilization of the Inventory Tools/ Central repository for optimized use of software licenses / re-harvest or redeployment Ensures the end-to-end user experience and acts as a single point-of-contact for the end user. Periodic review of SaaS / critical tools to ensure that they are compliant with terms of usages Assignation of licenses or removal for various tools. Supporting various IT functions for operational support. Prepare of various reporting ranging from software status to financial spends Responds to requests from managers, and team members, for specific Programs Other duties as assigned. ",
+    "qualifications": "What you\u2019ll bring: Possess Bachelor\u2019s degree in information technology, computer science, or business administration, or in another related field 2 to 4 years of experience in software asset management Ability to translate licensing terms and conditions in License agreements Strong knowledge of contract, licensing, and data privacy regulations/laws and best practices Strong communication, interpersonal, team oriented, organizational, and service mindset. Proactively identify cost savings opportunities relating to software and software maintenance Strong end user service skills Self-motivated, goal oriented, and an innovative thinker Ability to work both independently and in a team-oriented, collaborative environment. Familiar with Microsoft O365 tools Able to prepare the reports in tools like excel. Must be able to handle multiple tasks and ensure proper follow up is maintained SAM certified professional will be a value add. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
+    "location": "Pune",
+    "posting_date": "2026-04-30T07:25:00+0000Updated at :2026-04-30T07:52:28+0000",
+    "posted_at": "2026-04-30 09:37:22",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/24307",
+    "loaded_at": "2026-04-30 15:07:22"
+  },
+  {
+    "company": "ZS",
     "role": "Senior Software Engineer",
     "description": "description",
     "responsibilities": "What You\u2019ll Do: Pair program, write unit tests, lead code reviews, and collaborate with QA analysts to ensure you develop the highest quality multi-tenant software that can be productized Work with junior developers to implement large features that are on the cutting edge of Big Data Be a technical leader to your team, and help them improve their technical skills Stand up for engineering practices that ensure quality products: automated testing, unit testing, agile development, continuous integration, code reviews, and technical design Work with product managers and architects to design product architecture and to work on POCs Take immediate responsibility for project deliverables Understand client business issues and design features that meet client needs Undergo on-the-job and formal trainings and certifications, and will constantly advance your knowledge and problem solving skills What You\u2019ll Bring: 3+ years of experience in developing software, ideally building SaaS products and services Bachelor's Degree in CS, EE, or related discipline Strong analytic, problem solving, and programming ability Experience in coding in an object-oriented language such as Python, Java, Ruby, C# etc. Hands on experience on Apache Spark, EMR, Hadoop, HDFS, or other big data technologies Experience with development on the AWS (Amazon Web Services) platform is preferable Experience in Linux shell or PowerShell scripting is preferable Experience in HTML5, JavaScript, and JavaScript libraries is preferable Angular 5/6 Python 2/3 on Flask Postgres DB and RDBMS Good hands on to work with AWS services (EC2, EMR, S3, Serverless stack, RDS, Sagemaker, IAM etc) Initiative and drive to contribute Excellent organizational and task management skills Strong communication skills Ability to work in global cross-office teams ZS is a global firm; fluency in English is required Fluency in English Client-first mentality Intense work ethic Collabrative spirit and probelm-solving approac",
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-29T13:27:00+0000Updated at :2026-04-29T13:49:00+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24434",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "ZS",
@@ -21,11 +35,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-29T11:00:00+0000Updated at :2026-04-29T11:47:53+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24123",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-28T12:35:00+0000Updated at :2026-04-28T13:44:44+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32704",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-28T12:10:00+0000Updated at :2026-04-29T11:47:53+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32895",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-04-28T11:36:00+0000Updated at :2026-04-28T11:44:21+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24217",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": "n",
     "location": "Pune",
     "posting_date": "2026-04-27T11:20:00+0000Updated at :2026-04-27T11:40:04+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24060",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-04-27T09:04:00+0000Updated at :2026-04-27T09:39:44+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32855",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": ";",
     "location": "Bengaluru",
     "posting_date": "2026-04-27T07:40:00+0000Updated at :2026-04-27T09:39:44+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/22203",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "ZS",
@@ -119,25 +133,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's/Master's degree with specialization in Computer Science, MIS, IT or other computer related disciplines. 6-8 years of relevant consulting-industry experience working on medium-large-scale technology solution delivery engagements. 5+ years of hands-on experience on designing, implementation Data processing solutions. Excellent in Programming languages like Python, Java, Scala, etc. and Programming basics - Data Structures; Strong knowledge on RDBMS Expertise in following AWS services (or equivalent services in Azure, GCP) is preferred. Good to have cloud warehousing solutions knowledge like Snowflake; Experience with dataflow and workflow tools like Apache Nifi, Apache Airflow Experience in designing and driving delivery of mid-large-scale solutions on Cloud platforms. Good handle on working in distributed computing and cloud services platform - AWS, Azure, GCP. Strong client presence. Ability to communicate verbally and in writing technical concepts to all audiences; Ability to manage a virtual global team environment that contributes to the overall timely delivery of multiple projects; Knowledge of current data modeling, and data warehouse concepts, issues, practices, methodologies, and trends in the Business Intelligence domain; Experience with analyzing and troubleshooting the interaction between databases, operating systems, and applications; Significant supervisory, coaching and hands-on project management skills; Willingness to travel to other global offices as needed to work with client or other internal project teams. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-27T04:50:00+0000Updated at :2026-04-27T05:39:01+0000",
-    "posted_at": "2026-04-30 07:13:02",
+    "posted_at": "2026-04-30 09:37:22",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23161",
-    "loaded_at": "2026-04-30 12:43:02"
-  },
-  {
-    "company": "ZS",
-    "role": "Associate - TAC",
-    "description": "description",
-    "responsibilities": "Associate - TAC We seek TAC Associates to join our WTC office in Pune, India. TAC Associates handle 1st level support calls/emails/chats from ZS offices worldwide in a user environment consisting of PC/MAC running the standard suite of business applications. What you'll do: Associate - TAC in the Enterprise will\u2026 Troubleshooting IT-related issues for a user population of ZS employees and clients using ZS proprietary software via telephone and remote access. Provide L1 Technical Support for the Windows/MAC machines, printer ZS proprietary software. Diagnose and resolve technical issues related to operating systems, applications, and hardware Familiarity with basic networking concepts and protocols. Common query topics include - VPN, Outlook (and other O365 Apps and Services), Active Directory and Exchange, Network Connectivity, Software Installation (using SCCM and Privilege Management), File Server and File Share access, FTP, Application specific issues, Intune Support & Management etc. Handling administrative tasks such as tracking TAC calls/chats, timely follow up of all assigned tickets in your bin until closure, re-assigning tickets to the relevant L2 teams and following up via emails as required, assisting with organizational efforts, maintaining chargebacks for licensed software etc Additional TAC projects/tasks as assigned based on performance. ",
-    "qualifications": "What you\u2019ll bring: Bachelor's degree required, Master's degree desirable 1-2 years of relevant experience in Customer Support, or preferably IT Helpdesk / Service Desk Strong customer service orientation Professional appearance and demeanor, with ability to exercise good judgment and discretion Ability to work varied hours, enabling support in a 24/7 environment A+ certification or Microsoft Certified Systems Administrator (desirable, not mandatory) Experience with Service Now tool (desirable, not mandatory) Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
-    "location": "Pune",
-    "posting_date": "2026-04-24T07:06:00+0000Updated at :2026-04-24T07:25:57+0000",
-    "posted_at": "2026-04-30 07:13:02",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/32839",
-    "loaded_at": "2026-04-30 12:43:02"
+    "loaded_at": "2026-04-30 15:07:22"
   },
   {
     "company": "JPMC",
@@ -225,20 +225,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer III",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734331",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Software Engineer III-Software Engineer III-DevOps \u2013 Cloud Platform",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -249,6 +235,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737141",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III- Mainframes",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-30",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737847",
     "loaded_at": null
   },
   {
@@ -291,6 +291,34 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740734",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Big Data",
+    "description": "We are looking for a Data Integration Professional to support all aspects of data integration design, build and transformation",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-30",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741829",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-30",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742335",
     "loaded_at": null
   },
   {
@@ -599,34 +627,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740396",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer -SRE (Grafana, Dynatrace, SLO/SLI)",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-29",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740406",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, React, AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-29",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740610",
     "loaded_at": null
   }
 ]
