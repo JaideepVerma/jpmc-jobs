@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Test Associate Consultant",
+    "description": "description",
+    "responsibilities": "What You\u2019ll Do \u2022 Develop and execute automated test scripts to validate software functionality, performance, reliability, and data accuracy across ETL and data warehousing pipelines. \u2022 Work closely with Test Consultants and Associate Consultants to contribute to the design and implementation of automation frameworks, including ETL and data validation frameworks. \u2022 Perform end-to-end ETL Testing, ensuring correctness of data extraction, transformation logic, loading processes, and reconciliation. \u2022 Validate data flows, perform source-to-target mapping verification, and ensure data integrity across databases, APIs, and reporting layers. \u2022 Assist in maintaining and enhancing existing automation frameworks by integrating new test cases (including SQL-based validation scripts) and improving script efficiency. \u2022 Execute test cases, maintain automation scripts, report defects, and perform root-cause analysis for both application-level and data-level issues. \u2022 Work on functional testing, regression testing, and system testing to ensure all features behave as expected across UI, API, and backend systems. \u2022 Collaborate with QA, development, data engineering, and product teams to understand testing requirements and create reusable automation test suites. \u2022 Debug and troubleshoot automation scripts, ETL jobs, and data issues, ensuring smooth execution of automated and data validation test cases. \u2022 Ensure test scripts align with business requirements and maintain comprehensive functional, data, and automation coverage. \u2022 Document and report test results, defects, data discrepancies, and issues\u2014providing clear SQL queries and repro steps where required. \u2022 Work with tools such as Selenium, Cucumber, Appium, TestNG, JUnit, as well as ETL tools and SQL scripting frameworks. \u2022 Support CI/CD pipelines by integrating automation and data validation test suites. \u2022 Ensure regression testing covers both UI/API functionality and data/ETL processes. \u2022 Follow industry best practices and maintain compliance with testing standards. \u2022 Should be well-versed with GenAI concepts and incorporate GenAI-based accelerators into functional, automation, and data testing processes. \u2022 Develop automation scripts using Python (preferred) or Java. \u2022 Work closely with data engineers to validate data models, transformations, and performance of large-volume data loads. What You\u2019ll Bring Bachelor's/master's degree in Computer Science, Electrical Engineering or other computer-related disciplines with minimum 60% marks throughout the education; 3.5-6 years of software testing experience in business intelligence domain Experience with end-to-end testing of the ETL process of a data warehouse system; Experience in one or more Big data technologies: Spark Databricks Redshift Azure Informatica cloud GCP Athena etc; Experience with DevOps/CICD/Jenkins will be an added advantage; Hands on experience with reporting and web based application testing will be an added advantage; Hands on experience in one or more automation technologies: Selenium+Java/Python Selenium IDE testproject.IO Python shell scripting VBA will be an added advantage; Experience in developing test plans, as well as translating them into test cases and executing them; In-depth understanding of defect management processes; SQL skills for development of expected results and troubleshooting problems found during testing; Identify test data requirements and generate required data to support testing; Evaluate and analyze application behavior and data for potential software issues; Experience with validated systems will be good to have. Additional Skills: Must be technical, creative, detail-oriented and a strong team player. ZS is a global consulting firm; English fluency is required, additional fluency in at least one European or Asian language is highly desired. Candidates must possess work authorization for their intended country of employment. An on-line application, including a cover letter expressing interest and a full set of transcripts (official or unofficial), is required to be considered",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-05-08T07:43:00+0000Updated at :2026-05-08T07:43:42+0000",
+    "posted_at": "2026-05-08 08:12:42",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/23041",
+    "loaded_at": "2026-05-08 13:42:42"
+  },
+  {
+    "company": "ZS",
     "role": "Visual Designer",
     "description": "description",
     "responsibilities": "We are seeking a Visual Designer (Associate) to join our Creative & Communications team. In this role, you will contribute to creating clear, concept-driven visual communication across formats and mediums - translating complex ideas into structured, engaging, and user-centric design solutions. You will work closely with cross-functional teams to understand requirements and develop outputs that align with brand systems, communication goals, and user needs. A strong focus on design craft, attention to detail, and consistency in execution is essential, along with a solid foundation in layout, typography, and information hierarchy. This role offers the opportunity to work across diverse projects while strengthening your approach to visual storytelling, system thinking, and high-quality execution within a collaborative and evolving design environment. What You\u2019ll Do:\u202f\u202f Design & Execution Develop visually compelling and conceptually rich communication across formats, including campaigns, visual narratives, and communication assets Create high-quality layouts, graphics, and visual systems for print and digital collaterals Translate complex information into clear, engaging, and well-structured visual outputs Apply strong design craft - typography, color, composition, and attention to detail - to ensure polished and consistent work. Collaboration & Delivery Work closely with internal, business and project teams to align on objectives, messaging, and visual direction Work on multiple projects with a focus on quality, timelines, and consistency Contribute to a collaborative workflow, ensuring smooth coordination and alignment. Growth & Innovation Stay updated on design trends, tools, and best practices Contribute ideas to enhance visual storytelling and communication approaches Leverage new technologies and tools to propose innovative solutions. What You\u2019ll Bring:\u202f\u202f \u22652 years of professional experience in visual design, preferably in a creative agency or design studio Bachelor\u2019s degree preferred in graphic design, visual arts, or a related field Proficiency in design software such as Adobe Creative Suite (Photoshop, Illustrator, InDesign) and Microsoft Office Suite (PowerPoint, Word) Solid understanding of typography, color theory, and design principles Excellent communication skills and ability to collaborate effectively with cross-functional teams Attention to detail and a passion for delivering high-quality work Curiosity about Generative AI and emerging design tech. Good to Have Basic skills in motion graphics/video editing (After Effects, Premiere Pro) Familiarity with web/UI tools (Figma, Adobe XD, Sketch, Framer) Experience with Google Slides, Sites, and other G Suite tools. Portfolio Requirement [ Must Included in Resume] Strong portfolio (at least 3\u20135 pieces) demonstrating conceptual thinking and execution across various\u202fmediums. What Success Looks Like Ability to take design projects from brief to final delivery with minimal supervision Deliver clean, well-structured handoffs and maintain efficient workflows Collaborate effectively as a proactive and dependable team player Maintain structured project management, including proper file and folder naming and organization. What You'll Bring Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-07T14:29:00+0000Updated at :2026-05-07T16:21:46+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33022",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "ZS",
@@ -21,11 +35,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-06T14:16:00+0000Updated at :2026-05-06T14:18:55+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32998",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-05-06T05:37:00+0000Updated at :2026-05-06T06:16:46+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32855",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": "What you\u2019ll bring: Experience & Domain Expertise 18+ years of experience in Life Sciences R&D, with strong expertise in clinical data management, biometrics, and analytics Deep understanding of the end-to-end drug development lifecycle Strong domain knowledge of clinical data, analytics, and digital R&D transformation Clinical Systems & Platforms Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Strong expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Working knowledge of R, Python, and SAS for clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutions in clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture design Leadership & Consulting Skills Strong communication and stakeholder management skills with ability to influence senior leaders Proven experience in GxP-compliant, large-scale enterprise programs Ability to lead global, cross-functional, and multi-vendor teams Strong leadership, mentoring, and team-building capabilities Solid understanding of agile, product-led, and digital transformation delivery models",
     "location": "Pune",
     "posting_date": "2026-05-04T12:30:00+0000Updated at :2026-05-04T14:10:19+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32711",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-04T06:16:00+0000Updated at :2026-05-06T14:18:55+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32964",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": "What you\u2019ll bring: Possess Bachelor\u2019s degree in information technology, computer science, or business administration, or in another related field 2 to 4 years of experience in software asset management Ability to translate licensing terms and conditions in License agreements Strong knowledge of contract, licensing, and data privacy regulations/laws and best practices Strong communication, interpersonal, team oriented, organizational, and service mindset. Proactively identify cost savings opportunities relating to software and software maintenance Strong end user service skills Self-motivated, goal oriented, and an innovative thinker Ability to work both independently and in a team-oriented, collaborative environment. Familiar with Microsoft O365 tools Able to prepare the reports in tools like excel. Must be able to handle multiple tasks and ensure proper follow up is maintained SAM certified professional will be a value add. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-30T07:25:00+0000Updated at :2026-04-30T07:52:28+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24307",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-29T13:27:00+0000Updated at :2026-04-29T13:49:00+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24434",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-28T12:35:00+0000Updated at :2026-04-28T13:44:44+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32704",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "ZS",
@@ -119,25 +133,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-28T12:10:00+0000Updated at :2026-04-29T11:47:53+0000",
-    "posted_at": "2026-05-08 06:19:50",
+    "posted_at": "2026-05-08 08:12:42",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32895",
-    "loaded_at": "2026-05-08 11:49:50"
-  },
-  {
-    "company": "ZS",
-    "role": "Lead R&D Technologist - Clinical Business Analyst (Clinical Data Solutions)",
-    "description": "description",
-    "responsibilities": "About ZS R&D (Life Sciences) ZS life science R&D team partners with clients to discover and develop innovative medicines that improve patient's lives. Our work spans consulting, analytics and technology (services and platforms) projects across the several domains. We have 3500+ zs professionals that deliver R&D programs, $100MM+ invested in R&D data, analytics and technology assets and 100+ clients on R&D programs. About the Expertise Centre \u2013 R&D Technologist The R&D Technologist Expertise Centre within ZS\u2019s Drug Development practice partners with biopharma organizations to design and deliver innovative clinical data solutions that accelerate drug development and reduce risk from portfolio to patient. The team operates at the intersection of key ZS drug development verticals\u2014including asset strategy, clinical trial design, clinical data management, statistical programming, regulatory, and risk-based quality. By combining deep clinical domain expertise, data standards, clinical programming, systems understanding, and consulting discipline, the team solves complex R&D challenges with speed, scale, and measurable impact. What You\u2019ll Do: Business Analysis Leadership & Agile Delivery Lead BA activities within Agile teams (Scrum / SAFe / Kanban) and act as the primary requirements owner for assigned workstreams. Drive discovery: plan and facilitate workshops, stakeholder interviews, and requirement walkthroughs with clinical, biometrics, data management, and technology teams. Convert complex clinical and business needs into clear deliverables (epics, features, user stories, acceptance criteria) with strong testability and traceability (RTM). Partner with Product Owners to shape the backlog (prioritization, refinement, scope management) and support sprint ceremonies (planning, reviews, retrospectives). Identify risks, dependencies, and gaps early; propose options and recommendations, and support timely decision-making. Mentor Associate Consultants / BAs on best practices for story writing, requirement quality, and stakeholder management. Clinical Data Hub & Repository Programs Lead requirements and solution definition for clinical data hubs/repositories, including source onboarding (EDC, Labs, eCOA, Imaging, Safety) and downstream consumption. Define data ingestion, mapping, transformation, reconciliation, and access-control requirements; ensure alignment with data governance expectations. Collaborate with architects/engineering to validate data flows, metadata strategy, and quality controls in GxP-compliant environments. Support UAT strategy, test scenario design, defect triage, and release readiness for repository/platform deployments. Clinical Data Products & AI-Driven Automation Own functional requirements for clinical data products and automation initiatives (e.g., SDTM/ADaM enablement, mapping accelerators, automated checks, reusable analytics components). Translate clinical/biometrics needs into automation use cases, ensure measurable acceptance criteria, and align stakeholders on expected outcomes. Work with data science/engineering teams to define training/validation datasets, quality thresholds, and operational workflows (human-in-the-loop, auditability). Statistical & risk based clinical data review Lead requirement definition for centralized/statistical monitoring solutions, including metrics, signals, dashboards, reports, and operational workflows for study oversight. Partner with statisticians, clinical operations, and quality stakeholders to ensure monitoring logic is transparent, testable, and fit for purpose. Stakeholder Collaboration & Delivery Management Serve as the day-to-day BA lead for client and internal stakeholders; manage expectations and ensure clarity of scope, decisions, and documentation. Coordinate with Engineering, AI, CDM, and Product teams to ensure requirements are feasible, complete, and aligned to target architecture. Maintain high-quality project artefacts (BRD/FRD, user stories, process flows, data flows, traceability, release notes) and support audits as needed What You\u2019ll Bring: Experience & Domain Expertise Bachelor\u2019s or Master\u2019s degree in Life Sciences, Pharmacy, Statistics, Data Science, Engineering, Computer Science, or a related field. 7 \u2013 12 years of experience in Life Sciences R&D Understanding of the end-to-end drug development lifecycle Strong domain knowledge in life sciences in either of the following domain: discovery/pre-clinical, clinical, regulatory Proven experience leading requirements end-to-end in Agile delivery (story mapping, backlog management, sprint execution support). Excellent communication, facilitation, and stakeholder management skills. Clinical Systems & Platforms Good to have Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Good to have Expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Good to have: Working knowledge of R, Python, and SASfor clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutionsin clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture desig",
-    "qualifications": "n",
-    "location": "Pune",
-    "posting_date": "2026-04-27T11:20:00+0000Updated at :2026-04-27T11:40:04+0000",
-    "posted_at": "2026-05-08 06:19:50",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/24060",
-    "loaded_at": "2026-05-08 11:49:50"
+    "loaded_at": "2026-05-08 13:42:42"
   },
   {
     "company": "JPMC",
@@ -183,6 +183,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Lead Software Engineer - IAM, Java Full Stack, Cloud",
+    "description": "\nCarry out critical tech solutions across multiple technical areas as an integral part of an agile team\n\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-08",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731257",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer II - SRE/ DevOps",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
     "responsibilities": null,
@@ -207,6 +221,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735684",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Manager of Software Engineering - Java with AWS",
+    "description": "Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-05-08",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738385",
     "loaded_at": null
   },
   {
@@ -599,34 +627,6 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Operations",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735129",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Data Domain Architect Lead - Data & Annotation",
-    "description": "Lead data annotation workflows for NLU and LLM, improving quality, scalability, automation, and outcome metrics.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-05-06",
-    "posted_at": null,
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744725",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Product Associate - MRGR",
-    "description": "Promote model risk tools and processes, partnering with stakeholders and designers to define, prioritize, and deliver strong validation",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-05-06",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741900",
     "loaded_at": null
   }
 ]
