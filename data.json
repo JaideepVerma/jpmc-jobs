@@ -6,12 +6,12 @@
     "responsibilities": "What You\u2019ll Do \u2022 Develop and execute automated test scripts to validate software functionality, performance, reliability, and data accuracy across ETL and data warehousing pipelines. \u2022 Work closely with Test Consultants and Associate Consultants to contribute to the design and implementation of automation frameworks, including ETL and data validation frameworks. \u2022 Perform end-to-end ETL Testing, ensuring correctness of data extraction, transformation logic, loading processes, and reconciliation. \u2022 Validate data flows, perform source-to-target mapping verification, and ensure data integrity across databases, APIs, and reporting layers. \u2022 Assist in maintaining and enhancing existing automation frameworks by integrating new test cases (including SQL-based validation scripts) and improving script efficiency. \u2022 Execute test cases, maintain automation scripts, report defects, and perform root-cause analysis for both application-level and data-level issues. \u2022 Work on functional testing, regression testing, and system testing to ensure all features behave as expected across UI, API, and backend systems. \u2022 Collaborate with QA, development, data engineering, and product teams to understand testing requirements and create reusable automation test suites. \u2022 Debug and troubleshoot automation scripts, ETL jobs, and data issues, ensuring smooth execution of automated and data validation test cases. \u2022 Ensure test scripts align with business requirements and maintain comprehensive functional, data, and automation coverage. \u2022 Document and report test results, defects, data discrepancies, and issues\u2014providing clear SQL queries and repro steps where required. \u2022 Work with tools such as Selenium, Cucumber, Appium, TestNG, JUnit, as well as ETL tools and SQL scripting frameworks. \u2022 Support CI/CD pipelines by integrating automation and data validation test suites. \u2022 Ensure regression testing covers both UI/API functionality and data/ETL processes. \u2022 Follow industry best practices and maintain compliance with testing standards. \u2022 Should be well-versed with GenAI concepts and incorporate GenAI-based accelerators into functional, automation, and data testing processes. \u2022 Develop automation scripts using Python (preferred) or Java. \u2022 Work closely with data engineers to validate data models, transformations, and performance of large-volume data loads. What You\u2019ll Bring Bachelor's/master's degree in Computer Science, Electrical Engineering or other computer-related disciplines with minimum 60% marks throughout the education; 3.5-6 years of software testing experience in business intelligence domain Experience with end-to-end testing of the ETL process of a data warehouse system; Experience in one or more Big data technologies: Spark Databricks Redshift Azure Informatica cloud GCP Athena etc; Experience with DevOps/CICD/Jenkins will be an added advantage; Hands on experience with reporting and web based application testing will be an added advantage; Hands on experience in one or more automation technologies: Selenium+Java/Python Selenium IDE testproject.IO Python shell scripting VBA will be an added advantage; Experience in developing test plans, as well as translating them into test cases and executing them; In-depth understanding of defect management processes; SQL skills for development of expected results and troubleshooting problems found during testing; Identify test data requirements and generate required data to support testing; Evaluate and analyze application behavior and data for potential software issues; Experience with validated systems will be good to have. Additional Skills: Must be technical, creative, detail-oriented and a strong team player. ZS is a global consulting firm; English fluency is required, additional fluency in at least one European or Asian language is highly desired. Candidates must possess work authorization for their intended country of employment. An on-line application, including a cover letter expressing interest and a full set of transcripts (official or unofficial), is required to be considered",
     "qualifications": ".",
     "location": "Pune",
-    "posting_date": "2026-05-08T07:43:00+0000Updated at :2026-05-08T07:43:42+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posting_date": "2026-05-08T07:43:00+0000Updated at :2026-05-08T08:24:09+0000",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23041",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -21,11 +21,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-07T14:29:00+0000Updated at :2026-05-07T16:21:46+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33022",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -35,11 +35,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-06T14:16:00+0000Updated at :2026-05-06T14:18:55+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32998",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -49,11 +49,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-05-06T05:37:00+0000Updated at :2026-05-06T06:16:46+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32855",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -63,11 +63,11 @@
     "qualifications": "What you\u2019ll bring: Experience & Domain Expertise 18+ years of experience in Life Sciences R&D, with strong expertise in clinical data management, biometrics, and analytics Deep understanding of the end-to-end drug development lifecycle Strong domain knowledge of clinical data, analytics, and digital R&D transformation Clinical Systems & Platforms Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Strong expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Working knowledge of R, Python, and SAS for clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutions in clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture design Leadership & Consulting Skills Strong communication and stakeholder management skills with ability to influence senior leaders Proven experience in GxP-compliant, large-scale enterprise programs Ability to lead global, cross-functional, and multi-vendor teams Strong leadership, mentoring, and team-building capabilities Solid understanding of agile, product-led, and digital transformation delivery models",
     "location": "Pune",
     "posting_date": "2026-05-04T12:30:00+0000Updated at :2026-05-04T14:10:19+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32711",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -77,11 +77,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-04T06:16:00+0000Updated at :2026-05-06T14:18:55+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32964",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -91,11 +91,11 @@
     "qualifications": "What you\u2019ll bring: Possess Bachelor\u2019s degree in information technology, computer science, or business administration, or in another related field 2 to 4 years of experience in software asset management Ability to translate licensing terms and conditions in License agreements Strong knowledge of contract, licensing, and data privacy regulations/laws and best practices Strong communication, interpersonal, team oriented, organizational, and service mindset. Proactively identify cost savings opportunities relating to software and software maintenance Strong end user service skills Self-motivated, goal oriented, and an innovative thinker Ability to work both independently and in a team-oriented, collaborative environment. Familiar with Microsoft O365 tools Able to prepare the reports in tools like excel. Must be able to handle multiple tasks and ensure proper follow up is maintained SAM certified professional will be a value add. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-30T07:25:00+0000Updated at :2026-04-30T07:52:28+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24307",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -105,11 +105,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-29T13:27:00+0000Updated at :2026-04-29T13:49:00+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24434",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -119,11 +119,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-04-28T12:35:00+0000Updated at :2026-04-28T13:44:44+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32704",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "ZS",
@@ -133,11 +133,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-04-28T12:10:00+0000Updated at :2026-04-29T11:47:53+0000",
-    "posted_at": "2026-05-08 08:12:42",
+    "posted_at": "2026-05-08 10:07:04",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32895",
-    "loaded_at": "2026-05-08 13:42:42"
+    "loaded_at": "2026-05-08 15:37:04"
   },
   {
     "company": "JPMC",
@@ -179,6 +179,20 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745123",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II - AIML Platform Reliability",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-08",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728779",
     "loaded_at": null
   },
   {
@@ -585,20 +599,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742730",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - DataBricks, SQL",
-    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-05-07",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745274",
     "loaded_at": null
   },
   {
