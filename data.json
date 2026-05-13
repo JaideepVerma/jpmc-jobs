@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Cloud Administrator",
+    "description": "description",
+    "responsibilities": "What You\u2019ll Do\u202f\u202f Manage day-to-day operations of AWS infrastructure across multiple accounts and environments (Prod, Stage, Dev). Handle incident management, troubleshooting, and root cause analysis for AWS services such as EC2, S3, RDS, Lambda, EMR, CloudWatch, and IAM. Ensure high availability, reliability, and performance of cloud-based applications. Monitor system health, utilization, and cost metrics using AWS-native tools (CloudWatch, Cost Explorer, etc.). Perform regular operational activities including access management, resource optimization, patching coordination, and service requests. Collaborate with Engineering, Security, and Data teams to enable secure and scalable cloud architectures. Support infrastructure provisioning and management using Terraform modules and templates. Assist in maintaining consistency between desired and actual cloud states (drift detection and remediation) Contribute to automation of repetitive operational tasks to improve efficiency and reduce manual effort. Work with CI/CD pipelines to enable infrastructure deployment and updates. Strong ownership mindset and accountability for platform stability. Proactive communication and stakeholder management. Ability to work collaboratively across teams. Continuous learning mindset with focus on cloud advancements. What You\u2019ll Bring\u202f\u202f BS/BE with record of high academic achievement\u202f\u202f Bachelor's Degree in CS, IT or EE with record of high academic achievement. 2+ years of experience in AWS and on-premise infrastructure security administration. Experience on participating MLPS and understanding of related controls is a plus. Possess strong verbal, written and team presentation communication skills. Ability to work within a global (US and India) team environment and contribute to the overall timely delivery of multiple projects. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
+    "location": "Pune",
+    "posting_date": "2026-05-13T09:31:00+0000Updated at :2026-05-13T09:31:44+0000",
+    "posted_at": "2026-05-13 10:07:50",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/33072",
+    "loaded_at": "2026-05-13 15:37:50"
+  },
+  {
+    "company": "ZS",
     "role": "Manager - ITAM",
     "description": "description",
     "responsibilities": "What you'll do: Hardware Lifecycle Management Manage the complete hardware lifecycle \u2014 from procurement, deployment, and tracking to maintenance, refresh, and retirement/disposal. Maintain accurate records of all hardware assets including laptops, desktops, servers, peripherals, and network equipment. Define and enforce hardware refresh cycles in alignment with ZS's technology standards and budget cycles. Coordinate with IT procurement and finance for hardware sourcing, vendor evaluation, and purchase approvals. Ensure proper decommissioning and environmentally compliant disposal (ITAD) of end-of-life assets. Software Lifecycle Management Oversee the full lifecycle of software assets including procurement, deployment, utilization tracking, compliance, and retirement. Conduct regular software license audits and reconciliation to ensure compliance with vendor agreements. Identify underutilized licenses and optimize the software portfolio to reduce waste and cost. Manage software packaging, deployment workflows, and version upgrade planning in coordination with IT operations teams. SaaS & End-User Software Management Serve as the central point of contact for end-user software and SaaS platform needs across the organization. Evaluate and onboard new SaaS tools by assessing business need, security posture, and licensing terms. Manage SaaS subscriptions, user provisioning/deprovisioning, and utilization reporting. Partner with business stakeholders to rationalize the SaaS portfolio and eliminate redundant tools. Maintain a healthy pool of pre-purchased licenses for frequently requested software to enable rapid provisioning. Set and manage minimum license stock thresholds to prevent fulfillment delays. Forecast license demand based on headcount trends, project pipelines, and historical usage patterns. Renewals Management Own the end-to-end renewals calendar for all hardware maintenance contracts and software/SaaS subscriptions. Proactively engage internal stakeholders and vendors well in advance of renewal dates to avoid lapses in coverage. Evaluate renewal terms, negotiate pricing, and recommend consolidation or discontinuation where appropriate. Maintain a renewal tracking system with automated alerts and approval workflows. Chargeback Management Design and administer an IT chargeback / show back model to allocate hardware and software costs accurately to business units. Work with Finance and IT leadership to define chargeback policies, cost allocation logic, and reporting cadence. Provide monthly/quarterly chargeback reports and resolve billing queries from internal teams. Asset Inventory & CMDB Accuracy Maintain a single, authoritative, and continuously updated asset inventory using an ITSM/ITAM tool (e.g., ServiceNow, Snow Software, Flexera). Conduct periodic physical and virtual audits to validate inventory accuracy. Integrate asset data with the CMDB (Configuration Management Database) to support incident, change, and problem management processes. Define and enforce asset tagging, naming conventions, and classification standards. Governance & Compliance Establish and institutionalize an IT Asset Management (ITAM) governance framework aligned with industry standards (ISO 19770, ITIL). Define policies, processes, and controls for asset request, approval, issuance, transfer, and return. Ensure compliance with software licensing agreements, audit readiness, and vendor contractual obligations. Prepare and present asset management KPIs, dashboards, and reports to IT leadership. Team Management Lead, mentor, and develop a team of IT asset analysts/coordinators. Set performance goals, conduct regular reviews, and foster a culture of accountability and continuous improvement. Delegate responsibilities effectively and build team capability in ITAM tools and processes. Stakeholder Collaboration Act as a trusted advisor to IT, Finance, Legal, Procurement, and business unit leaders on all asset-related matters. Drive cross-functional initiatives to improve asset utilization, reduce costs, and strengthen governance. Technical Knowledge Strong understanding of software licensing models \u2014 perpetual, subscription, concurrent, named-user, OEM, and enterprise agreements (Microsoft EA, Adobe VIP, etc.). Working knowledge of CMDB (Configuration Management Database) and its integration with ITAM tools. Familiarity with IT security principles as they relate to asset tracking, data wiping, and secure disposal (ITAD). Understanding of networking fundamentals \u2014 enough to track and manage network-attached hardware assets. Proficiency in data analysis tools \u2014 advanced Excel is a must; Power BI or Tableau is a strong plus. Certifications Candidates are expected to hold at least one core IAITAM certification, with the preferred progression being CSAM (software licensing & compliance) and CHAMP (hardware lifecycle management) leading up to the flagship CITAM (Certified IT Asset Manager) credential. Complementary certifications in ITIL v4 Foundation, CAMSE (ITAM + cybersecurity), and familiarity with ISO/IEC 19770-1 standards are strongly preferred Other Preferred Experience Exposure to FinOps principles and cloud asset management (AWS, Azure, GCP). Experience in professional services, consulting, or technology company environment. Experience with SOX, GDPR, or similar compliance audits as they relate to IT assets. Knowledge of responsible IT Asset Disposal (ITAD) practices and environmental regulations (e-waste). What you'll bring: Education Bachelor\u2019s degree in information technology, Computer Science, Business Administration, or a related field. A master\u2019s degree (MBA or MS in IT) is a plus. Experience 10\u201312 years of progressive experience in IT Asset Management Minimum 2\u20133 years of supervisory or team leadership experience. Demonstrated experience managing end-to-end hardware and software lifecycles in a mid-to-large enterprise environment. Hands-on experience with ITAM/ITSM platforms such as ServiceNow SAM, Snow Software, Flexera, Ivanti ITAM Suite, or Lansweeper. Proven experience in SaaS portfolio governance, including vendor onboarding, subscription management, and utilization reviews. Experience designing and administering IT chargeback/show back models in collaboration with Finance. Track record of managing software license compliance and successfully navigating vendor audits (Microsoft, Adobe, Oracle, etc.). Experience with hardware refresh programs and OEM vendor management (Dell, HP, Lenovo, Apple",
     "qualifications": ")",
     "location": "Pune",
     "posting_date": "2026-05-12T09:01:00+0000Updated at :2026-05-12T10:38:39+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33041",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "ZS",
@@ -20,12 +34,12 @@
     "responsibilities": "Finance Associate - Client Accounting (Sales Operations) We seek a financial professional for a Finance Associate - Client Accounting role in our Pune, India office. As an Associate in Sales Operations / Order Management, within Client Accounting, you will support the contract-to-project setup process for professional services engagements helping ensure signed client documents (e.g., MSA/SOW/PO) are translated into accurate SAP customer project/WBS and billing setup so delivery teams can execute and Finance can invoice and apply revenue policies. Your work is execution-focused and completed within defined SOPs, templates, and checklists, with routine review by senior team members and clear escalation paths for exceptions. What you\u2019ll do: Contract intake, completeness checks, and operational validation (under supervision) Perform initial review for completeness and readiness of incoming client documents (e.g., fully executed agreement, required fields/data present), and organize the contract record so it is accessible to internal stakeholders. Validate that key operational terms are clear enough to enable project setup and billing setup, and flag gaps/ambiguities for senior/Finance/Legal review rather than interpreting them independently. SAP services project setup support (functional end-user scope) You will support foundational setup activities that enable billing, using guided processes rather than configuration work. Support creation/maintenance of billing items for customer projects, in collaboration or overlap with billing team (including selecting contract type such as Fixed Price or Time & Expenses; assigning work packages; entering amounts/caps; maintaining billing due dates/billing plan items; and capturing customer references such as PO) Cross-functional coordination (primarily internal-facing) Coordinate with Sales, Delivery/Project teams, and finance to collect missing inputs, clarify basic items (e.g., dates, PO references, billing schedule), and keep the setup moving through the standard workflow. Provide routine status updates and document actions/decisions taken, maintaining an audit-ready trail of changes and approvals as required by the workflow. Documentation hygiene and operational reporting support Maintain organized records and trackers (e.g., contract intake status, setup progress, exception logs) to support day-to-day visibility and handoffs. Support basic operational reporting aligned to the process (e.g., volumes processed, cycle time, rework themes) as defined by the team\u2019s governance model. Contract elements you will typically review and validate within Associate scope of experience & expertise You will focus on operationally actionable contract elements that drive project setup and billing structure\u2014not legal interpretation. Common validation checklist items include: Scope/deliverables and timelines: ensuring deliverables, milestones, and timelines are stated clearly enough to align to project structure and billing phases. Payment structure and triggers: confirming whether billing is milestone-based, periodic, or time & expenses\u2014and ensuring the setup can reflect those triggers. Basic contract data required for setup: parties/contact information, effective/expiration dates, and required customer references (e.g., PO) for linkage to sales/billing documents. Billing plan and method alignment: verifying that the invoice method and revenue method classification selected/entered aligns to the contracted payment structure (and escalating mismatches). Revenue recognition awareness (coordination-only; no accounting ownership) You are expected to have awareness of ASC 606/IFRS 15 concepts and recognize when contract terms may impact Finance\u2019s revenue decisions; however, you do not determine accounting treatment, standalone selling price allocation, or final revenue recognition conclusions. Practical awareness expected: Familiarity with the five-step model structure (identify contract; identify performance obligations; determine transaction price; allocate price; recognize revenue) at a high level, so you can spot terms that could affect setup and downstream treatment. Accuracy and attention to detail: when translating contract terms into SAP billing/project setup fields. Process discipline: ability to follow SOPs, maintain documentation, and preserve required audit trails. Clear written communication: for internal coordination and structured escalation. Comfort working with global stakeholders: through defined handoffs, including support for contracts across regions via documented workflows. ",
     "qualifications": "What you\u2019ll bring: Master\u2019s degree in finance, economics, or business required, with a strong record of academic achievement. 0-3 years of Sales and Order Management experience. Strong working knowledge of Microsoft Office (Excel, Word, PPT, Outlook), SAP experience desirable; Strong analytic and critical thinking abilities. Effective oral and written communication skills that enable strong relationship-building and stakeholder management. Strong attention to detail. Motivated and proactive. Professional objectivity and judgment to know when to challenge activities. Ability to multi-task in a fast paced, rapidly-changing environment. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
-    "posting_date": "2026-05-12T06:14:00+0000Updated at :2026-05-12T06:36:55+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posting_date": "2026-05-12T06:14:00+0000Updated at :2026-05-13T08:41:34+0000",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31214",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Engineering, Computer Science, or related field; MBA preferred. 18+ years of professional experience spanning consulting and core industry roles, with a strong blend of strategic advisory, digital transformation leadership, and hands\u2011on operational exposure in manufacturing environments. Significant tenure in the consulting industry, driving large\u2011scale transformation programs for global clients, including roadmap definition, operating model design, capability building, and delivery oversight for digital manufacturing, IT\u2011OT integration, and Industry 4.0/5.0 initiatives. Prior foundational experience in the core manufacturing industry, providing deep understanding of real\u2011world plant operations, production processes, supply chain dynamics, and technology adoption challenges within complex industrial setups. Deep expertise in Industry 4.0/5.0, IoT/IIoT, cloud platforms, AI/ML, automation, and IT\u2011OT integration, along with hands\u2011on experience implementing digital manufacturing solutions (MES, QMS, LIMS, PIMS, SCADA, historians, edge computing, etc.). Strong knowledge of manufacturing processes across multiple sectors (e.g., Automotive, Life Sciences, Oil & Gas, FMCG), combining core industry exposure with consulting\u2011led transformation experience. Proven ability to lead cross\u2011functional and multi\u2011geography teams, manage P&L or portfolio-level financials, and deliver complex, multi\u2011tower digital programs in advisory and delivery roles. Certifications such as PMP, Scrum Master, SIRI Assessor, or equivalent are a plus. How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
     "posting_date": "2026-05-11T18:20:00+0000Updated at :2026-05-11T18:36:21+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23868",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-05-08T07:43:00+0000Updated at :2026-05-08T08:24:09+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23041",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-07T14:29:00+0000Updated at :2026-05-07T16:21:46+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33022",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-06T14:16:00+0000Updated at :2026-05-06T14:18:55+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32998",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-05-06T05:37:00+0000Updated at :2026-05-06T06:16:46+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32855",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-04T06:16:00+0000Updated at :2026-05-06T14:18:55+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32964",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "ZS",
@@ -119,25 +133,11 @@
     "qualifications": "What you\u2019ll bring: Possess Bachelor\u2019s degree in information technology, computer science, or business administration, or in another related field 2 to 4 years of experience in software asset management Ability to translate licensing terms and conditions in License agreements Strong knowledge of contract, licensing, and data privacy regulations/laws and best practices Strong communication, interpersonal, team oriented, organizational, and service mindset. Proactively identify cost savings opportunities relating to software and software maintenance Strong end user service skills Self-motivated, goal oriented, and an innovative thinker Ability to work both independently and in a team-oriented, collaborative environment. Familiar with Microsoft O365 tools Able to prepare the reports in tools like excel. Must be able to handle multiple tasks and ensure proper follow up is maintained SAM certified professional will be a value add. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-04-30T07:25:00+0000Updated at :2026-04-30T07:52:28+0000",
-    "posted_at": "2026-05-13 07:40:17",
+    "posted_at": "2026-05-13 10:07:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24307",
-    "loaded_at": "2026-05-13 13:10:17"
-  },
-  {
-    "company": "ZS",
-    "role": "Senior Software Engineer",
-    "description": "description",
-    "responsibilities": "What You\u2019ll Do: Pair program, write unit tests, lead code reviews, and collaborate with QA analysts to ensure you develop the highest quality multi-tenant software that can be productized Work with junior developers to implement large features that are on the cutting edge of Big Data Be a technical leader to your team, and help them improve their technical skills Stand up for engineering practices that ensure quality products: automated testing, unit testing, agile development, continuous integration, code reviews, and technical design Work with product managers and architects to design product architecture and to work on POCs Take immediate responsibility for project deliverables Understand client business issues and design features that meet client needs Undergo on-the-job and formal trainings and certifications, and will constantly advance your knowledge and problem solving skills What You\u2019ll Bring: 3+ years of experience in developing software, ideally building SaaS products and services Bachelor's Degree in CS, EE, or related discipline Strong analytic, problem solving, and programming ability Experience in coding in an object-oriented language such as Python, Java, Ruby, C# etc. Hands on experience on Apache Spark, EMR, Hadoop, HDFS, or other big data technologies Experience with development on the AWS (Amazon Web Services) platform is preferable Experience in Linux shell or PowerShell scripting is preferable Experience in HTML5, JavaScript, and JavaScript libraries is preferable Angular 5/6 Python 2/3 on Flask Postgres DB and RDBMS Good hands on to work with AWS services (EC2, EMR, S3, Serverless stack, RDS, Sagemaker, IAM etc) Initiative and drive to contribute Excellent organizational and task management skills Strong communication skills Ability to work in global cross-office teams ZS is a global firm; fluency in English is required Fluency in English Client-first mentality Intense work ethic Collabrative spirit and probelm-solving approac",
-    "qualifications": "h",
-    "location": "Pune",
-    "posting_date": "2026-04-29T13:27:00+0000Updated at :2026-04-29T13:49:00+0000",
-    "posted_at": "2026-05-13 07:40:17",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/24434",
-    "loaded_at": "2026-05-13 13:10:17"
+    "loaded_at": "2026-05-13 15:37:50"
   },
   {
     "company": "JPMC",
@@ -151,6 +151,20 @@
     "job_family": "Program Management",
     "job_function": "Finance",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746510",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Business Management - Associate",
+    "description": "The role is part of the Finance & Business Management organization supporting Consumer and Community Banking Technology. A",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-13",
+    "posted_at": null,
+    "job_family": "Business Management",
+    "job_function": "Finance",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743975",
     "loaded_at": null
   },
   {
@@ -169,6 +183,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Software Engineer III - SAP ABAP",
+    "description": "Design and deliver AI-powered solutions for SAP BTP to drive productivity and innovation.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-13",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736330",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Lead Software Engineer - Java, React, AWS",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
     "responsibilities": null,
@@ -179,6 +207,48 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740610",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Java/Python, AWS",
+    "description": "Job Description \u2014 Lead Software Engineer in Corporate Technologies at J.P.Morgan & Chase",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-13",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744272",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Apache Spark, AWS",
+    "description": "Lead Software Engineer in Corporate Technologies at J.P.Morgan & Chase",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-13",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744296",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Python and AI",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-13",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746542",
     "loaded_at": null
   },
   {
@@ -557,76 +627,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742921",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Transact SME",
-    "description": "Lead Transact solutions with deep expertise in integration, data handling, and high level support for upgrades and updates",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-05-12",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743136",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-05-12",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743988",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Manager of Software Engineering-Java, Flink,Kafka",
-    "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-05-12",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744839",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Front End Engineer",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-05-12",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745275",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Associate, FRRA Strategy & Innovations",
-    "description": "Firmwide Regulatory Reporting & Analysis - Innovation Associate",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-05-11",
-    "posted_at": null,
-    "job_family": "Program Management",
-    "job_function": "Finance",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725426",
     "loaded_at": null
   }
 ]
