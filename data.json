@@ -1,17 +1,31 @@
 [
   {
     "company": "ZS",
+    "role": "Senior IT Content Developer",
+    "description": "description",
+    "responsibilities": "Senior IT Content Developer We are seeking a Senior IT Content Developer to support ZS Enterprise IT communications and knowledge management initiatives. This role focuses on creating, optimizing, and governing high-quality, user-centric IT content on an intranet SharePoint platform. The role will work closely with Technical Assistance Center (TAC / IT Helpdesk), engineering teams, and program owners to improve self-service adoption and reduce support volume. What you'll do: Senior IT Content Developer in the Enterprise will\u2026 Own end-to-end lifecycle of IT Knowledge Base (ITKB) content including creation, updates, governance and archival Partner closely with TAC to analyze tickets, identify content gaps, and proactively create resolution-driven articles Drive standardization of IT communications (KBs, announcements, guides, newsletters, templates) Translate complex technical workflows (AVD, MFA) into user-friendly content Work with tools such as PowerPoint, Loop, Word, and SharePoint in the M365 ecosystem to publish and maintain content Develop structured, searchable, reusable content aligned to enterprise taxonomy and metadata standards Contribute to IT programs (e.g., migrations, rollouts) with communication plans, user guides, and FAQs Use analytics (ticket trends, search behavior) to continuously improve content effectiveness Ensure adherence to ZS branding, tone, and communication standards ",
+    "qualifications": "What you\u2019ll bring: BS/BA in English, Journalism, Communications, Technical Writing, Computer Science, or other relevant field of study required. 3+ years of technical content development experience. Fluent in M365 (Word, Excel, PowerPoint, Outlook, SharePoint), calendar management, email systems Strong technical writing and editing skills (enterprise IT context preferred) Experience with Visio or other process flow visualization tools Hands-on experience with M365 tools like PowerPoint, SharePoint, Word etc Ability to understand IT systems (networking, endpoints, cloud apps) and document clearly Experience working with support teams and ticketing workflows Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
+    "location": "Pune",
+    "posting_date": "2026-05-22T13:20:00+0000Updated at :2026-05-22T15:11:46+0000",
+    "posted_at": "2026-05-23 07:18:24",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/33231",
+    "loaded_at": "2026-05-23 12:48:24"
+  },
+  {
+    "company": "ZS",
     "role": "Lead Product Developer",
     "description": "description",
     "responsibilities": "What You\u2019ll Do: Developing and implementing in building scalable backend systems, APIs, and microservices. Instill best practices for software development, ensure designs meet requirements, and deliver high-quality work on schedule. Writing application backend codes using Python, SQL, NoSQL Troubleshooting backend application codes. Developing and implementing back-end architecture Documenting application changes and developing updates. What You\u2019ll Bring: A master\u2019s or bachelor\u2019s degree in computer science or related field from a top university. 6-10 years' overall experience. Experience in building and leading strong engineering team. Strong proficiency in Python and experience with FastAPI or similar asynchronous frameworks (e.g., Flask, Django). Proven experience in building scalable backend systems, APIs, and microservices. Knowledge of AI/ML concepts and experience in integrating AI models into backend services is highly desirable. Familiarity with database technology such as SQL and NoSQL databases (optional). Experience with cloud services (AWS, GCP, Azure) and containerization technologies (e.g., Docker, Kubernetes) is a plus. Good problem-solving skills and ability to work in a fast-paced, team-oriented environment. Experience in frontend technologies like React.js\\Vue.js\\Angular Fluency in English Client-first mentality Intense work ethic Collabrative spirit and probelm-solving approac",
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-05-19T17:43:00+0000Updated at :2026-05-19T19:01:55+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24436",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "ZS",
@@ -21,11 +35,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-05-19T17:42:00+0000Updated at :2026-05-19T19:01:55+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23933",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "ZS",
@@ -35,11 +49,11 @@
     "qualifications": "What you\u2019ll bring: Experience & Domain Expertise 18+ years of experience in Life Sciences R&D, with strong expertise in clinical data management, biometrics, and analytics Deep understanding of the end-to-end drug development lifecycle Strong domain knowledge of clinical data, analytics, and digital R&D transformation Clinical Systems & Platforms Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Strong expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Working knowledge of R, Python, and SAS for clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutions in clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture design Leadership & Consulting Skills Strong communication and stakeholder management skills with ability to influence senior leaders Proven experience in GxP-compliant, large-scale enterprise programs Ability to lead global, cross-functional, and multi-vendor teams Strong leadership, mentoring, and team-building capabilities Solid understanding of agile, product-led, and digital transformation delivery models",
     "location": "Pune",
     "posting_date": "2026-05-19T13:30:00+0000Updated at :2026-05-19T15:01:46+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32711",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "ZS",
@@ -49,11 +63,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-05-19T10:54:00+0000Updated at :2026-05-19T11:01:41+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33206",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "ZS",
@@ -63,11 +77,11 @@
     "qualifications": "What you\u2019ll bring: MBA & B. Pharma/BDS/Life Sciences (or equivalent related disciplines), with a strong record of academic achievement 6-18 months of relevant job experience; working with consultancy firms, life science companies, or healthcare data providers preferred (applicable only for Market hires) Ability to translate unstructured problems into actionable requirements and approaches Self-starter, with high motivation, maturity, and personal initiative Strong oral and written communication skills Empathy, adaptability, and customer service orientation Self-discipline for planning and organizing tasks, and delivering in an unstructured environment Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Noida",
     "posting_date": "2026-05-19T07:49:00+0000Updated at :2026-05-19T09:01:33+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33061",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "ZS",
@@ -77,11 +91,11 @@
     "qualifications": ".",
     "location": "Noida",
     "posting_date": "2026-05-19T07:44:00+0000Updated at :2026-05-19T11:01:41+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32670",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "ZS",
@@ -91,11 +105,11 @@
     "qualifications": "What you\u2019ll bring: Post-Secondary level education w/ proficiency in English required. (BS/BA in English preferred.) 3.5 - 6.5 years of user documentation and API creation experience, preferably with training material on software products and applications. Work samples of user documentation you\u2019ve created; please provide at our request. A Computer Science background is preferred but not required. Experience with MadCap Flare, Adobe Robohelp or similar XML authoring tools required Experience learning about and communicating technical topics, such as web-based software development and platform development. Superior writing, editing, and communication skills. Outstanding organizational/time management, planning and prioritization skills. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-05-18T06:35:00+0000Updated at :2026-05-18T06:56:53+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33127",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "ZS",
@@ -105,11 +119,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-05-15T14:30:00+0000Updated at :2026-05-15T14:49:05+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31437",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "ZS",
@@ -119,25 +133,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's/Master's degree with specialization in Computer Science, MIS, IT or other computer related disciplines. 4-6 years of relevant consulting-industry experience working on medium-large scale technology solution delivery engagements. At least 2 to 3 year of hands-on experience on Big data - Hive, Spark, Hadoop, MapReduce. Strong in at least one of the Programming languages - Python, Java, Scala, etc. and Programming basics - Data Structures. Strong understanding and hands on experience in RDBMS and NoSQL. Good handle on working in distributed computing and cloud services platform (but not limited to) - AWS, Azure, GCP. Additional Skills: Deep understanding of data management best practices and data analytics. Up to speed with latest technologies related (but not limited to) to cloud platform services, visualization, data management. Excellent verbal and written communication, with appropriate and logical structuring of thoughts process during discussion/ presentation. Lead project teams in driving end to end activities to meet set milestones and provide necessary mentorship/ guidance for the team growth. Ability to distill complex concepts into easy-to-understand frameworks and presentations. Strong verbal and written communication skills with ability to articulate results and issues to internal and client teams. Ability to work within a virtual global team environment and contribute to the overall timely delivery of multiple projects. Willingness to travel to other global offices as needed to work with client or other internal project teams.",
     "location": "Pune",
     "posting_date": "2026-05-15T09:16:00+0000Updated at :2026-05-15T10:48:39+0000",
-    "posted_at": "2026-05-22 11:28:32",
+    "posted_at": "2026-05-23 07:18:24",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/21277",
-    "loaded_at": "2026-05-22 16:58:32"
-  },
-  {
-    "company": "ZS",
-    "role": "Business Technology Solutions Associate - Data Engineer",
-    "description": "description",
-    "responsibilities": "Business Technology ZS\u2019s Technology group focuses on scalable strategies, assets and accelerators that deliver to our clients enterprise-wide transformation via cutting-edge technology. We leverage digital and technology solutions to optimize business processes, enhance decision-making, and drive innovation. Our services include, but are not limited to, Digital and Technology advisory, Product and Platform development and Data, Analytics and AI implementation. What you\u2019ll do: Business Technology Solutions Associate in Business Technology will Collaborate with ZS internal teams and client teams to shape and implement high quality technology solutions that address critical business problems Understand and analyze business problems thoroughly, and translate them into technical designs effectively Design and implement technical features using best practices for the specific technology stack being used Assist in the development phase of implementing technology solutions for client engagements, ensuring effective problem-solving Apply appropriate development methodologies (e.g., agile, waterfall, system integrated testing, mid-development client reviews, embedded QA procedures, unit testing) to ensure successful and timely completion of projects Provide guidance and support to team members in creating comprehensive project implementation plans Work closely with a development team to accurately interpret and implement business requirements ",
-    "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence Proficiency in RDBMS concepts, SQL, and programming languages such as Python Strong analytical and problem-solving skills to convert intricate business requirements into technology solutions Knowledge of algorithms and data structures Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: 0-3+ years of relevant professional experience in delivering small/medium-scale technology solutions Strong verbal and written communication skills to effectively convey results and issues to internal and client teams Familiarity with Big Data Concepts and Cloud Platforms like AWS, Azure, and Google Cloud Platform Understanding of productivity tools such as co-pilot and SQL generation Travel to other offices as required to collaborate with clients or internal project teams",
-    "location": "Pune",
-    "posting_date": "2026-05-15T09:14:00+0000Updated at :2026-05-15T10:48:39+0000",
-    "posted_at": "2026-05-22 11:28:32",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/24239",
-    "loaded_at": "2026-05-22 16:58:32"
+    "loaded_at": "2026-05-23 12:48:24"
   },
   {
     "company": "JPMC",
@@ -183,6 +183,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Lead Software Engineer - Java, SpringBoot, AWS, Kafka, Microservices",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-22",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743210",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer III - Java AWS",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -197,8 +211,8 @@
   },
   {
     "company": "JPMC",
-    "role": "Lead Software Engineer \u2013 Java, DevOps, Cloud, AI Solutions",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "role": "Lead Software Engineer - Devops & Infra",
+    "description": "Lead engineer delivering secure AWS cloud-native platforms with IaC, CI/CD automation, and resilient operations at scale",
     "responsibilities": null,
     "qualifications": null,
     "location": "Bengaluru, Karnataka, India",
@@ -206,7 +220,21 @@
     "posted_at": null,
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745447",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745375",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Senior Director of Software Engineering",
+    "description": "Direct multiple technical areas, manage the activities of multiple departments, and collaborate across technical domains",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-05-22",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748097",
     "loaded_at": null
   },
   {
@@ -221,20 +249,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750240",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Sr Product Associate - CCB Product",
-    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-05-21",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210681133",
     "loaded_at": null
   },
   {
@@ -361,20 +375,6 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750390",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Product Analyst - Fulfillment and Archival Services - Build My Docs",
-    "description": "Drive Agile product delivery, requirements, backlog, UAT, and stakeholder collaboration across enterprise content and card solutions.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-05-20",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747478",
     "loaded_at": null
   },
   {
@@ -547,20 +547,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Security Services Data Modelling and Engineering - Senior Associate",
-    "description": "Analyze business needs, translate to process improvements, oversee low-code automation, and manage tool administration.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-05-15",
-    "posted_at": null,
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748217",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Sr.Lead Software Engineer",
     "description": "Out of the successful launch of Chase in 2021, we\u2019re a new team, with a new mission.",
     "responsibilities": null,
@@ -603,20 +589,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Sr. Lead Software Engineer - Java17, Spring, Kubernetes, Linux",
-    "description": "Join a global technology organization delivering modern solutions for the Commercial & Investment Bank\u2019s electronic trading businesses",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-05-14",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721259",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Software Engineer III - Python, AWS, GenAI",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -627,6 +599,34 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745277",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Business Management - Associate",
+    "description": "The role is part of the Finance & Business Management organization supporting Consumer and Community Banking Technology. A",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-13",
+    "posted_at": null,
+    "job_family": "Business Management",
+    "job_function": "Finance",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743975",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Senior Product Associate - Payments Product",
+    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-05-13",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734441",
     "loaded_at": null
   }
 ]
