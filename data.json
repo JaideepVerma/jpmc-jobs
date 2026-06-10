@@ -1,6 +1,34 @@
 [
   {
     "company": "JPMC",
+    "role": "Software Engineer III - Python, Java, React",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-10",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731935",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Java, AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-10",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755826",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Data Domain Architect Associate",
     "description": "Promote innovation by applying advanced machine learning to unique data, transforming decision making across diverse business lines.",
     "responsibilities": null,
@@ -71,8 +99,8 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer II - Full-Stack",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "role": "Software Engineer III - Android",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team.",
     "responsibilities": null,
     "qualifications": null,
     "location": "Bengaluru, Karnataka, India",
@@ -80,7 +108,7 @@
     "posted_at": null,
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746840",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746445",
     "loaded_at": null
   },
   {
@@ -127,20 +155,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer III - Geneva RSL, Portfolio Accounting, SQL",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-09",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752741",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Lead Software Engineer ServiceNow platform",
     "description": "Collaborate with product team to gather requirements and translate them into technical solutions. Implement and configure ServiceNow functionalities, including employee self-service portals, and automated workflows. \nIntegrate ServiceNow with other systems and platforms as needed. Participate in troubleshooting and resolving various technical issues related to ServiceNow applications/ Custom processes. \nDevelop and implement various solutions for managing software product lifecycle events within ServiceNow. Customize and configure journey modules to align with organizational goals and employee needs. \nDevelop strategies for managing lifecycle events and employee journeys. Maintain and update ServiceNow configurations and documentation. \nEnsure compliance with best practices and standards in ServiceNow development. Provide technical support to team members in resolving various issues.",
     "responsibilities": null,
@@ -169,7 +183,7 @@
   },
   {
     "company": "JPMC",
-    "role": "Executive Director - Digital Lending Services",
+    "role": "Executive Director - Lending Service Product  Delivery",
     "description": "Lead wholesale lending servicing transformation to improve turnaround time, controls, workflow stability, and client experience.",
     "responsibilities": null,
     "qualifications": null,
@@ -207,20 +221,6 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756562",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java Full Stack",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-08",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739708",
     "loaded_at": null
   },
   {
@@ -337,20 +337,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer III",
-    "description": "Software Engineer III at JPMorgan Chase within the Consumer & Community Banking- Data Technology & ML Engineering",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-05",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747465",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Sr Director of Software Engineering - AI, LLM, MCP",
     "description": "Champion artificial intelligence in software development to boost productivity, improve quality, and reduce security risks.\n",
     "responsibilities": null,
@@ -421,34 +407,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Vice President - Investment Solutions -  Funds Product Development",
-    "description": "Are you keen in transforming and overseeing governance frameworks and due diligence frameworks?",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-04",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738305",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Associate, Investment Solutions, Funds Product Development",
-    "description": "Support fund governance, due diligence, and product development for pooled investment solutions across IPB markets globally",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-04",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741949",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Product Manager - Quant Research / Investment Solutions",
     "description": "Build scalable investment products to strengthen portfolios and improve client outcomes.",
     "responsibilities": null,
@@ -490,6 +448,48 @@
     "loaded_at": null
   },
   {
+    "company": "JPMC",
+    "role": "Sr Lead Software Engineer - Python,  Spark, Backend development,AWS",
+    "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n\nAs a Sr Lead Software Engineer at JPMorganChase within the corporate Technology\u2019s Data Platform Engineering organization, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas within various business functions in support of the firm\u2019s business objectives.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723654",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer Java / Spark/AWS",
+    "description": "",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725424",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Sr Director of Software Engineering - AI/ML platforms (Intelligent Agentic Systems, RAG, LLM Architectures)",
+    "description": "Direct multiple technical areas, manage the activities of multiple departments, and collaborate across technical domains",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738293",
+    "loaded_at": null
+  },
+  {
     "company": "ZS",
     "role": "Business Technology Solutions Associate - Data Engineer (Snowflake/Databricks",
     "description": "description",
@@ -497,11 +497,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence Proficiency in RDBMS concepts, SQL, and programming languages such as Python Strong analytical and problem-solving skills to convert intricate business requirements into technology solutions Knowledge of algorithms and data structures Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Gurugram",
     "posting_date": "2026-06-09T09:37:00+0000Updated at :2026-06-09T10:22:09+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33575",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -511,11 +511,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence 3+ years of relevant professional experience in delivering small/medium-scale technology solutions Ability to lead project teams, drive end-to-end activities, meet milestones, and provide mentorship/guidance for the team growth Strong understanding of RDBMS concepts, SQL, data warehousing and reporting Experience with big data concepts, data management, data analytics and cloud platforms Proficiency in programming languages like Python Strong analytical and problem-solving skills, including expertise in algorithms and data structures Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
     "posting_date": "2026-06-08T10:57:00+0000Updated at :2026-06-08T12:17:57+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33219",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -525,11 +525,11 @@
     "qualifications": "What you\u2019ll bring: 2 years of information systems experience with audit planning, risk assessment, and reporting/documentation Hardware, software, and networking information technologies IT security, controls, practices, and procedures Working knowledge of various control frameworks like mentioned below are desirable: COBIT \u2013 Control Objectives for Information and Related Technology ISO/IEC 27002:2005 \u2013 Code of Practice for Information Security Management ITIL \u2013 Information Technology Infrastructure Library SOX \u2013 Sarbanes-Oxley HIPAA HITECH \u2013 Health Insurance Portability and Accountability SAS 70 \u2013 Statement of Auditing Standards No. 70 SSAE 16 \u2013 Statement on Standards for Attestation PCI DSS \u2013 Payment Card Industry Data Security Standard Engagements ISAE 3402 \u2013 International Standard for Assurance Engagements NIST \u2013 National Institute of Standards and Technology Disaster Recovery planning and testing Fluency in English Client first mentality Intense work ethics Collaborative spirit and problem solving skills How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
     "posting_date": "2026-06-08T08:57:00+0000Updated at :2026-06-08T10:17:56+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24262",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -539,11 +539,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-04T06:15:00+0000Updated at :2026-06-04T08:03:36+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24409",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -553,11 +553,11 @@
     "qualifications": "s",
     "location": "Pune",
     "posting_date": "2026-06-04T06:14:00+0000Updated at :2026-06-04T08:03:36+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24408",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -567,11 +567,11 @@
     "qualifications": "What you\u2019ll bring: Strong analytical, problem-solving, and design-thinking skills. Proven experience in leading teams and managing offshore delivery. Excellent communication and client-facing abilities. A curious, innovation-driven mindset and eagerness to learn new Salesforce technologies. Ability to operate independently in dynamic, fast-paced environments. Certifications (Preferred) Salesforce Platform Developer I Salesforce Platform Developer II Salesforce Sales Cloud, Service Cloud, or Experience Cloud Consultant certifications Salesforce Application Architect, System Architect, or Data Cloud Consultant",
     "location": "Pune",
     "posting_date": "2026-06-04T06:12:00+0000Updated at :2026-06-04T08:03:36+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23967",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -581,11 +581,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-06-02T15:00:00+0000Updated at :2026-06-02T15:58:25+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24255",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -595,11 +595,11 @@
     "qualifications": "What you\u2019ll bring: Master\u2019s degree in finance, economics, or business required, with a strong record of academic achievement. 0-3 years of Sales and Order Management experience. Strong working knowledge of Microsoft Office (Excel, Word, PPT, Outlook), SAP experience desirable; Strong analytic and critical thinking abilities. Effective oral and written communication skills that enable strong relationship-building and stakeholder management. Strong attention to detail. Motivated and proactive. Professional objectivity and judgment to know when to challenge activities. Ability to multi-task in a fast paced, rapidly-changing environment. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
     "posting_date": "2026-06-02T07:38:00+0000Updated at :2026-06-02T07:57:55+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33222",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -609,11 +609,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-06-02T07:30:00+0000Updated at :2026-06-02T09:57:57+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32591",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   },
   {
     "company": "ZS",
@@ -623,10 +623,10 @@
     "qualifications": "What you\u2019ll bring : Bachelor\u2019s/Master\u2019s degree in Computer Science, Information Systems, or Engineering. 10\u201314 years in technology consulting or delivery with a strong focus on one or more industries: Travel, Hospitality, Retail, Financial Services, QSR, or Agri\u2011Tech. Understanding of core commercial/operational systems in chosen sectors (e.g., PMS, CRS, POS, FMS, CRM, loyalty systems in hospitality/retail). Strong hands\u2011on understanding of cloud\u2011native architectures, microservices, data engineering, and integration frameworks. Demonstrated experience leading multi\u2011disciplinary global teams through architecture design, delivery governance, and client relationship management. Hands-on experience with enterprise architecture frameworks such as TOGAF, and familiarity with methodologies like C4, UML, and RUP 4+1 is preferred. Proven ability to bridge business and technology\u2014from defining business drivers and KPIs to mapping enabling platforms and execution plans. Experience working with US or global enterprise clients; familiarity with large transformation or modernization programs preferred. Exposure to AI/ML or GenAI\u2011enabled automation use cases is an advantage. Excellent communication, presentation, and client engagement skills\u2014comfortable at both strategic and technical levels. Prior experience in a professional services/consulting environment preferred.",
     "location": "Bengaluru",
     "posting_date": "2026-05-29T16:02:00+0000Updated at :2026-06-03T08:02:09+0000",
-    "posted_at": "2026-06-09 11:43:00",
+    "posted_at": "2026-06-10 08:34:18",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23106",
-    "loaded_at": "2026-06-09 17:13:00"
+    "loaded_at": "2026-06-10 14:04:18"
   }
 ]
