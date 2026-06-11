@@ -1,6 +1,76 @@
 [
   {
     "company": "JPMC",
+    "role": "Analytics Engineer - Associate",
+    "description": "Build your career as an Analytics Engineer while working in the world\u2019s most innovative bank which values creativity and excellence.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-11",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757325",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II -AWS",
+    "description": "Join an agile team to design and deliver cutting-edge technology products securely and scalably.\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-06-11",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717750",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - AI/ML, Prompt Engineer",
+    "description": "Build your career in AI/ML while working in the world\u2019s most innovative bank which values creativity and excellence.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-11",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756314",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Analytics Solution- Associate",
+    "description": "Refine data models, enforce standards and controls, document for audits, and foster collaboration that promotes measurable business value",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-10",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733539",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Product Director \u2013 Branch Operations Product",
+    "description": "Define the product roadmap, inspire a high-performing team, and deliver exceptional applications for our branch employees",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-06-10",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736599",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Product Manager Regulatory Reporting - Vice President",
     "description": "Build your career as a Product Manager while working in the world\u2019s most innovative bank which values creativity and excellence.",
     "responsibilities": null,
@@ -29,6 +99,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Sr.Manager Software Engineer",
+    "description": "Sr Manager of Software Engineering at JPMorgan Chase within the Consumer and Community Banking - AIML Solutions technology",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-10",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721365",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer III - Python, Java, React",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -39,6 +123,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731935",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Applied AI Engineer (Agentic/ Gen AI)",
+    "description": "Promote impact by designing, building, and deploying advanced artificial intelligence solutions across the Markets technology platform.\n\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-10",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735812",
     "loaded_at": null
   },
   {
@@ -113,20 +211,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer III - Python, ETL",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-06-09",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738446",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Lead Software Engineer -SRE (Grafana, Dynatrace, SLO/SLI)",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
     "responsibilities": null,
@@ -165,20 +249,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750238",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, Spring Boot, Microservices",
-    "description": "\nJoin the award-winning Markets Execute team to develop, lead and partner closely with Product, Delivery and Sales and Trading",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-09",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751262",
     "loaded_at": null
   },
   {
@@ -253,20 +323,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Lead Software Engineer - Java AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-06-08",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745783",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Lead Software Engineer - Python and AI/ML",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
     "responsibilities": null,
@@ -277,20 +333,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751932",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java/Python, AWS, Spark",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Pune, Maharashtra, India",
-    "posting_date": "2026-06-08",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752692",
     "loaded_at": null
   },
   {
@@ -333,20 +375,6 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754816",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Vice President - Product Manager - Machine Learning & Intelligent Operations",
-    "description": "If you are interested in an exciting opportunity to drive impact by delivering AI-powered solutions, this is the role for you!",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-05",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718253",
     "loaded_at": null
   },
   {
@@ -462,32 +490,18 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Product Manager \u2013 Data Publishing and Processing",
-    "description": "Data Publishing and Processing Product Manager",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-06-04",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754173",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Sr Lead Software Engineer - Python,  Spark, Backend development,AWS",
-    "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n\nAs a Sr Lead Software Engineer at JPMorganChase within the corporate Technology\u2019s Data Platform Engineering organization, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas within various business functions in support of the firm\u2019s business objectives.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-04",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723654",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Cloud Administrator",
+    "description": "description",
+    "responsibilities": "Cloud Administrator We seek an experienced, professional Cloud Administrator to join our Pune, India office. This role is responsible for deploying and administering a cloud-based computing platform within ZS. What You\u2019ll Do: As an Cloud Administrator in the Enterprise you will - Manage day-to-day operations of AWS infrastructure across multiple accounts and environments (Prod, Stage, Dev). Handle incident management, troubleshooting, and root cause analysis for AWS services such as EC2, S3, RDS, Lambda, EMR, CloudWatch, and IAM. Ensure high availability, reliability, and performance of cloud-based applications. Monitor system health, utilization, and cost metrics using AWS-native tools (CloudWatch, Cost Explorer, etc.). Perform regular operational activities including access management, resource optimization, patching coordination, and service requests. Collaborate with Engineering, Security, and Data teams to enable secure and scalable cloud architectures. Support infrastructure provisioning and management using Terraform modules and templates. Assist in maintaining consistency between desired and actual cloud states (drift detection and remediation) Contribute to automation of repetitive operational tasks to improve efficiency and reduce manual effort. Work with CI/CD pipelines to enable infrastructure deployment and updates What You\u2019ll Bring\u202f\u202f Bachelor's Degree in CS, IT or EE with record of high academic achievement. 1-3 years of experience in AWS and on-premise infrastructure security administration. Experience on participating MLPS and understanding of related controls is a plus. Possess strong verbal, written and team presentation communication skills. Ability to work within a global (US and India) team environment and contribute to the overall timely delivery of multiple projects. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
+    "location": "Pune",
+    "posting_date": "2026-06-11T06:27:00+0000Updated at :2026-06-11T08:27:53+0000",
+    "posted_at": "2026-06-11 09:03:58",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/33738",
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -497,11 +511,11 @@
     "qualifications": "a",
     "location": "Bengaluru",
     "posting_date": "2026-06-10T09:05:00+0000Updated at :2026-06-10T10:23:38+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33775",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -510,12 +524,12 @@
     "responsibilities": "Business Technology Solutions Associate ZS\u2019s Technology group focuses on scalable strategies, assets and accelerators that deliver to our clients enterprise-wide transformation via cutting-edge technology. We leverage digital and technology solutions to optimize business processes, enhance decision-making, and drive innovation. Our services include, but are not limited to, Digital and Technology advisory, Product and Platform development and Data, Analytics and AI implementation. What you\u2019ll do: Collaborate with ZS internal teams and client teams to shape and implement high quality technology solutions that address critical business problems Understand and analyze business problems thoroughly, and translate them into technical designs effectively Design and implement technical features using best practices for the specific technology stack being used Assist in the development phase of implementing technology solutions for client engagements, ensuring effective problem-solving Apply appropriate development methodologies (e.g., agile, waterfall, system integrated testing, mid-development client reviews, embedded QA procedures, unit testing) to ensure successful and timely completion of projects Provide guidance and support to team members in creating comprehensive project implementation plans Work closely with a development team to accurately interpret and implement business requirements ",
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence Proficiency in RDBMS concepts, SQL, and programming languages such as Python Strong analytical and problem-solving skills to convert intricate business requirements into technology solutions Knowledge of algorithms and data structures Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Gurugram",
-    "posting_date": "2026-06-09T09:37:00+0000Updated at :2026-06-09T10:22:09+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posting_date": "2026-06-09T09:37:00+0000Updated at :2026-06-10T20:28:28+0000",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33575",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -524,12 +538,12 @@
     "responsibilities": "What you\u2019ll do: Collaborate with ZS internal teams and client teams to shape and implement high quality technology solutions that address critical business problems Develop a deep understanding of the business problems and effectively translate them into technical designs Lead modules and workstreams within projects while participating in hands on implementation Work with technical architects to validate the technical design and implementation approach Apply appropriate development methodologies and best practices to ensure exceptional client and project team experience Support the project lead in project delivery, including project planning, people management, staffing, and risk mitigation Manage a diverse team with various skill sets while providing mentorship and coaching to junior members Lead task planning and distribution among team members for timely completion of projects with high-quality results Guide the project deliverables such as business case development, solution vision and design, user requirements, prototypes, technical architecture, test cases, deployment plans and operations strategy ",
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence 3+ years of relevant professional experience in delivering small/medium-scale technology solutions Ability to lead project teams, drive end-to-end activities, meet milestones, and provide mentorship/guidance for the team growth Strong understanding of RDBMS concepts, SQL, data warehousing and reporting Experience with big data concepts, data management, data analytics and cloud platforms Proficiency in programming languages like Python Strong analytical and problem-solving skills, including expertise in algorithms and data structures Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
-    "posting_date": "2026-06-08T10:57:00+0000Updated at :2026-06-08T12:17:57+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posting_date": "2026-06-08T10:57:00+0000Updated at :2026-06-10T20:28:28+0000",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33219",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -538,12 +552,12 @@
     "responsibilities": "Compliance and Audit Adminisrator What You\u2019ll Do\u202f: As a Compliance and Audit Administrator in the Enterprise - Information Technology you will - Perform audits in accordance with the plan based on various control frameworks and standards; Establish, monitor, document, and update compliance controls and findings; Create remediation plans based on findings and initiate projects, as necessary, in order to meet commitments made within remediation plans; Participate in client directed audit and compliance initiatives, including but not limited to, SAS 70 (SSAE 16) audits, client SOX audit assistance requests and Vendor Data Security and Privacy assessments; Develop and update IT Policies, process maps, templates and supporting change management tools, as often as needed; Assist in the development of training material in support of IT Policy adoption enterprise wide; participate in compliance training workshops, as needed; Monitor compliance with existing IT Policies and supporting tools; Liaison with ZS Client Teams and the ZS SaaS Hosting Team Manager to ensure that all mutually agreed upon business operations SLAs are met; Plan and participate in DR planning and testing; Assist with vendor review and selection in support of on-going internal and client directed compliance initiatives; Assist the Legal team with the review of client contracts as it relates to technology specific compliance requirements; Assist the Legal team with the interpretation of various US and EU laws and technical compliance directives and determine potential impact to the organization. Assist with the completion of client RFPs and RFIs as it relates to compliance; Work with IT, consulting, SD Group and legal teams on compliance standards; Security and compliance projects as assigned. ",
     "qualifications": "What you\u2019ll bring: 2 years of information systems experience with audit planning, risk assessment, and reporting/documentation Hardware, software, and networking information technologies IT security, controls, practices, and procedures Working knowledge of various control frameworks like mentioned below are desirable: COBIT \u2013 Control Objectives for Information and Related Technology ISO/IEC 27002:2005 \u2013 Code of Practice for Information Security Management ITIL \u2013 Information Technology Infrastructure Library SOX \u2013 Sarbanes-Oxley HIPAA HITECH \u2013 Health Insurance Portability and Accountability SAS 70 \u2013 Statement of Auditing Standards No. 70 SSAE 16 \u2013 Statement on Standards for Attestation PCI DSS \u2013 Payment Card Industry Data Security Standard Engagements ISAE 3402 \u2013 International Standard for Assurance Engagements NIST \u2013 National Institute of Standards and Technology Disaster Recovery planning and testing Fluency in English Client first mentality Intense work ethics Collaborative spirit and problem solving skills How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
-    "posting_date": "2026-06-08T08:57:00+0000Updated at :2026-06-08T10:17:56+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posting_date": "2026-06-08T08:57:00+0000Updated at :2026-06-10T20:28:16+0000",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24262",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -552,12 +566,12 @@
     "responsibilities": "Role Overview: As a Senior Salesforce Technical Architect, you will serve as the senior-most technical authority for Salesforce-based solutions, responsible for shaping platform strategy, defining enterprise-scale architectures, and leading the delivery of complex, multi-cloud and multi-system implementations. You will partner closely with client executives, ZS leadership, and delivery teams to translate business strategy into secure, scalable, and high-performing Salesforce solutions, while also contributing to practice growth and thought leadership. As a Senior Salesforce Technical Architect you will be expected to work on multiple SF cloud including but not limited to Salesforce Lifesciences Cloud, Agentforce, Salesforce DataCloud, Salesforce Sales & Service Cloud. What You\u2019ll Do: Architecture & Technical Leadership Own and define end-to-end Salesforce architecture across multiple clouds, integrations, and enterprise systems Lead technical discovery, solution design, and architectural decision-making for complex Salesforce programs Architect scalable, reusable solutions using Apex, Lightning Web Components (LWC), Aura, Visualforce, APIs, and Salesforce configuration Design and govern cross-cloud and cross-system integrations using REST/SOAP APIs, Apex callouts, outbound messaging, middleware, ETL, and iPaaS tools Define data architecture, data migration strategies, and integration patterns for legacy-to-Salesforce transformations Establish environment strategy, CI/CD pipelines, release management, and deployment models appropriate to enterprise-scale programs Client & Delivery Leadership Confidently lead client discussions on technical strategy, integrations, and platform transformation initiatives Act as a trusted advisor to client executives by demonstrating deep business process and technical expertise Support sales and pursuit activities by shaping solution scope, technical estimates, and risk assessments Manage and coordinate technical delivery across multiple workstreams and development teams Identify, manage, and proactively mitigate technical risks, dependencies, and delivery challenges Governance, Quality & Enablement Review and govern solution designs and code to ensure quality, performance, security, and adherence to Salesforce best practices Own overall technical documentation, including architecture diagrams, integration flows, data models, and design standards Mentor and coach architects and developers, modeling high standards of technical excellence and delivery leadership Contribute to internal enablement, architecture forums, and knowledge-sharing initiatives Actively contribute thought leadership and help evolve ZS Salesforce architecture standards and best practices Required Skills & Experience Deep expertise across the Salesforce platform, including Sales Cloud, Service Cloud, and industry or specialist clouds Advanced hands-on experience with Apex, LWC, Aura, Visualforce, SLDS, and Salesforce APIs Proven experience architecting enterprise-scale, multi-cloud Salesforce solutions Strong understanding of system design, SDLC, security models, OAuth 2.0, REST/SOAP, and integration patterns Experience designing data models, migration strategies, and integration architectures Ability to lead large technical teams and influence stakeholders at all levels Strong analytical, problem-solving, and decision-making capabilities Experience working in Agile delivery environments Ability to work effectively in a global, client-facing, and fast-paced environment What You\u2019ll Bring: Bachelor\u2019s degree in Computer Science, Engineering, or a related field (preferred) 8+ years of Salesforce experience or equivalent enterprise CRM experience Advanced Salesforce certifications strongly preferred, including: Salesforce Administrator Certified App Builder Platform Developer I & II JavaScript Developer I Salesforce Architect certification (Domain or CTA path) Sales Cloud, Service Cloud, Health Cloud, or other specialist certifications Demonstrated experience acting as a Senior / Lead Technical Architect on complex Salesforce implementations Inclusive, values-driven culture where technical excellence is recognized and rewarded Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
     "qualifications": "h",
     "location": "Pune",
-    "posting_date": "2026-06-04T06:15:00+0000Updated at :2026-06-04T08:03:36+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posting_date": "2026-06-04T06:15:00+0000Updated at :2026-06-10T20:28:19+0000",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24409",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -566,12 +580,12 @@
     "responsibilities": "Role Overview: As a Salesforce Technical Architect, you will serve as the technical authority for Salesforce-based solutions, responsible for designing, governing, and overseeing the delivery of scalable, secure, and high-performing Salesforce architectures. You will lead technical discovery, define end-to-end solution architecture across Salesforce clouds and integrations, and guide development teams to successful delivery. This role requires deep Salesforce platform expertise, strong client-facing skills, and the ability to translate business strategy into robust technical designs. As a Salesforce Technical Architect you will be expected to work on multiple SF cloud including but not limited to Salesforce Lifesciences Cloud, Agentforce, Salesforce DataCloud, Salesforce Sales & Service Cloud. What You\u2019ll Do Lead technical architecture and solution design for Salesforce implementations across multiple clouds and integrated systems Own end-to-end Salesforce architecture, including application design, data models, security, integrations, environments, and release strategy Lead technical discovery sessions with clients to understand business requirements and translate them into scalable Salesforce solutions Design and govern implementations using Apex, Lightning Web Components (LWC), Aura, Visualforce, APIs, and Salesforce configuration Architect and oversee integrations using REST/SOAP APIs, Apex callouts, outbound messaging, middleware, ETL, and iPaaS tools Design scalable and reusable Lightning component frameworks aligned with Salesforce best practices Define data architecture, data migration strategies, and integration patterns when transitioning from legacy systems to Salesforce Create and review technical architecture documentation including architecture diagrams, data flows, integration designs, and deployment models Define environment strategy, CI/CD approach, and release management plans appropriate to project complexity Review code and technical designs to ensure quality, performance, security, and alignment with architectural standards Collaborate closely with Business Analysts, Solution Architects, Developers, and client stakeholders throughout the delivery lifecycle Support pre-sales activities by contributing to solution scoping, technical estimates, and risk identification Identify, manage, and proactively mitigate technical risks and dependencies Mentor and guide Salesforce developers and contribute to the growth of the Salesforce practice Stay current on Salesforce product releases, architectural patterns, and emerging platform capabilities What You\u2019ll Bring Deep expertise across the Salesforce platform, including Sales Cloud, Service Cloud, and related technologies Strong hands-on experience with Apex, LWC, Aura, Visualforce, SLDS, and Salesforce APIs Proven experience designing enterprise-scale Salesforce architectures and cross-system integrations Strong understanding of SDLC, system design, security models, OAuth 2.0, REST/SOAP, and integration best practices Experience defining data models, integration strategies, and deployment architectures Ability to lead technical teams and communicate complex concepts to both technical and non-technical stakeholders Strong analytical, problem-solving, and decision-making skills Experience working in Agile delivery environments Ability to work effectively in a global, virtual, and client-facing environmen Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Qualifications Bachelor\u2019s degree in Computer Science, Engineering, or a related field (preferred) 6+ years of Salesforce experience or equivalent enterprise CRM development experience Advanced Salesforce certifications strongly preferred, including: Salesforce Administrator Platform Developer I & II (or JavaScript Developer I) Certified App Builder Sales Cloud / Service Cloud / Health Cloud (or other specialist certifications) Proven experience acting as a technical lead or architect on Salesforce implementation",
     "qualifications": "s",
     "location": "Pune",
-    "posting_date": "2026-06-04T06:14:00+0000Updated at :2026-06-04T08:03:36+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posting_date": "2026-06-04T06:14:00+0000Updated at :2026-06-10T20:28:19+0000",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24408",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -580,12 +594,12 @@
     "responsibilities": "What you\u2019ll do: Solution Design & Development: Design, configure, and customize Salesforce solutions using Apex classes, triggers, Lightning Web Components (LWC), Aura Components, and Visualforce. Define robust data models, apply best practices in coding and configuration, and implement trigger frameworks and modular architectures for scalable development. Build and maintain API-led integrations using REST/SOAP APIs, Platform Events, and middleware tools such as MuleSoft, Boomi, or Informatica. Develop solutions across Sales Cloud, Service Cloud, Experience Cloud, and with exposure to Agentforce, Data Cloud, and Life Sciences Cloud Technical Leadership & Delivery Management: Lead and mentor a team of 3\u20136 Salesforce developers; provide technical guidance, conduct code reviews, and promote best practices. Manage project delivery from India \u2014 define technical tasks, oversee execution, and ensure quality and timely completion. Collaborating with client stakeholders, architects, and functional leads to ensure solution design aligns with business objectives. Client Interaction & Communication: Participate in requirements gathering, discovery workshops, and solution design sessions with business and IT teams. Communicate technical concepts clearly and effectively to both technical and non-technical stakeholders. Innovation & Problem Solving: Explore new Salesforce capabilities, lead proof-of-concept (POC) initiatives, and develop creative solutions for complex business challenges. Stay current with Salesforce product releases and industry trends to proactively bring forward innovative ideas. Domain Expertise (Preferred): Experience with Life Sciences (Pharma and MedTech) Exposure to Salesforce Health Cloud and Life Sciences Cloud with an understanding of regulated data and compliance processes. ",
     "qualifications": "What you\u2019ll bring: Strong analytical, problem-solving, and design-thinking skills. Proven experience in leading teams and managing offshore delivery. Excellent communication and client-facing abilities. A curious, innovation-driven mindset and eagerness to learn new Salesforce technologies. Ability to operate independently in dynamic, fast-paced environments. Certifications (Preferred) Salesforce Platform Developer I Salesforce Platform Developer II Salesforce Sales Cloud, Service Cloud, or Experience Cloud Consultant certifications Salesforce Application Architect, System Architect, or Data Cloud Consultant",
     "location": "Pune",
-    "posting_date": "2026-06-04T06:12:00+0000Updated at :2026-06-04T08:03:36+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posting_date": "2026-06-04T06:12:00+0000Updated at :2026-06-10T20:28:07+0000",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23967",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -594,12 +608,12 @@
     "responsibilities": "Skills, Experience & Qualifications Professional Experience 10\u201312 years in delivery excellence, program management, quality, operational excellence, or governance roles. Experience leading governance for large, multi-vendor, multi-team, or complex transformation programs. Exposure to large-scale delivery modernization or operational excellence initiatives. Strong background in delivery audits, readiness assessments, risk evaluation, and CAPA cycles. Experience collaborating across enterprise functions such as Legal, Finance, IT, Security, and PMO. Working knowledge of ISO 9001, CMMI, ITIL, ISO 27001, and other delivery/quality governance frameworks. Technical & Methodological Skills Strong grounding in Agile, Hybrid, and SDLC methodologies; planning, estimation, backlog management, and QA. Proficiency in delivery governance tools (e.g., JIRA, ServiceNow, Confluence, project management tools, risk platforms). Understanding of AI-enabled delivery approaches (AI-assisted planning, automated review, risk sensing). Ability to design governance processes, metrics frameworks, dashboards, and reporting models. Change Leadership & Communication Skills Demonstrated ability to drive behavior change and uplift delivery maturity across global teams. Strong facilitation skills\u2014able to lead workshops, training sessions, and leadership briefings. Outstanding communication and influence skills with senior stakeholders. Behavioral Competencies Structured, disciplined, and able to bring clarity in complex situations. Strong analytical and risk-sensing capability; proactive and solution-oriented. Consultative mindset\u2014able to define \u201cwhat good looks like\u201d and guide teams toward it. Commitment to fostering a culture of accountability, quality, and continuous improvement. Education & Certifications Bachelor\u2019s degree required; Master\u2019s degree preferred (MBA, Engineering, Operations). Preferred certifications: Lean Six Sigma Black Belt, CQE/CQA, Scrum Master/Agile Coach, CISA/CISM, ISO 9001/27001 Auditor/Implementer",
     "qualifications": ".",
     "location": "Pune",
-    "posting_date": "2026-06-02T15:00:00+0000Updated at :2026-06-02T15:58:25+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posting_date": "2026-06-02T15:00:00+0000Updated at :2026-06-10T20:28:16+0000",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24255",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   },
   {
     "company": "ZS",
@@ -608,25 +622,11 @@
     "responsibilities": "Finance Associate - Client Accounting (Sales Operations) We seek a financial professional for a Finance Associate - Client Accounting role in our Pune, India office. As an Associate in Sales Operations / Order Management, within Client Accounting, you will support the contract-to-project setup process for professional services engagements helping ensure signed client documents (e.g., MSA/SOW/PO) are translated into accurate SAP customer project/WBS and billing setup so delivery teams can execute and Finance can invoice and apply revenue policies. Your work is execution-focused and completed within defined SOPs, templates, and checklists, with routine review by senior team members and clear escalation paths for exceptions. What you\u2019ll do: Contract intake, completeness checks, and operational validation (under supervision) Perform initial review for completeness and readiness of incoming client documents (e.g., fully executed agreement, required fields/data present), and organize the contract record so it is accessible to internal stakeholders. Validate that key operational terms are clear enough to enable project setup and billing setup, and flag gaps/ambiguities for senior/Finance/Legal review rather than interpreting them independently. SAP services project setup support (functional end-user scope) You will support foundational setup activities that enable billing, using guided processes rather than configuration work. Support creation/maintenance of billing items for customer projects, in collaboration or overlap with billing team (including selecting contract type such as Fixed Price or Time & Expenses; assigning work packages; entering amounts/caps; maintaining billing due dates/billing plan items; and capturing customer references such as PO) Cross-functional coordination (primarily internal-facing) Coordinate with Sales, Delivery/Project teams, and finance to collect missing inputs, clarify basic items (e.g., dates, PO references, billing schedule), and keep the setup moving through the standard workflow. Provide routine status updates and document actions/decisions taken, maintaining an audit-ready trail of changes and approvals as required by the workflow. Documentation hygiene and operational reporting support Maintain organized records and trackers (e.g., contract intake status, setup progress, exception logs) to support day-to-day visibility and handoffs. Support basic operational reporting aligned to the process (e.g., volumes processed, cycle time, rework themes) as defined by the team\u2019s governance model. Contract elements you will typically review and validate within Associate scope of experience & expertise You will focus on operationally actionable contract elements that drive project setup and billing structure\u2014not legal interpretation. Common validation checklist items include: Scope/deliverables and timelines: ensuring deliverables, milestones, and timelines are stated clearly enough to align to project structure and billing phases. Payment structure and triggers: confirming whether billing is milestone-based, periodic, or time & expenses\u2014and ensuring the setup can reflect those triggers. Basic contract data required for setup: parties/contact information, effective/expiration dates, and required customer references (e.g., PO) for linkage to sales/billing documents. Billing plan and method alignment: verifying that the invoice method and revenue method classification selected/entered aligns to the contracted payment structure (and escalating mismatches). Revenue recognition awareness (coordination-only; no accounting ownership) You are expected to have awareness of ASC 606/IFRS 15 concepts and recognize when contract terms may impact Finance\u2019s revenue decisions; however, you do not determine accounting treatment, standalone selling price allocation, or final revenue recognition conclusions. Practical awareness expected: Familiarity with the five-step model structure (identify contract; identify performance obligations; determine transaction price; allocate price; recognize revenue) at a high level, so you can spot terms that could affect setup and downstream treatment. Accuracy and attention to detail: when translating contract terms into SAP billing/project setup fields. Process discipline: ability to follow SOPs, maintain documentation, and preserve required audit trails. Clear written communication: for internal coordination and structured escalation. Comfort working with global stakeholders: through defined handoffs, including support for contracts across regions via documented workflows. ",
     "qualifications": "What you\u2019ll bring: Master\u2019s degree in finance, economics, or business required, with a strong record of academic achievement. 0-3 years of Sales and Order Management experience. Strong working knowledge of Microsoft Office (Excel, Word, PPT, Outlook), SAP experience desirable; Strong analytic and critical thinking abilities. Effective oral and written communication skills that enable strong relationship-building and stakeholder management. Strong attention to detail. Motivated and proactive. Professional objectivity and judgment to know when to challenge activities. Ability to multi-task in a fast paced, rapidly-changing environment. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
-    "posting_date": "2026-06-02T07:38:00+0000Updated at :2026-06-02T07:57:55+0000",
-    "posted_at": "2026-06-10 11:57:08",
+    "posting_date": "2026-06-02T07:38:00+0000Updated at :2026-06-10T20:28:28+0000",
+    "posted_at": "2026-06-11 09:03:58",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33222",
-    "loaded_at": "2026-06-10 17:27:08"
-  },
-  {
-    "company": "ZS",
-    "role": "Technical Manager - Biometrics and Clinical Data",
-    "description": "description",
-    "responsibilities": "ZS is seeking a Tech Project Delivery Manager to lead a high-velocity team focused on the future of Biometrics and Clinical Data. We are looking for a delivery leader who excels at navigating the \u201chow\u201d of technical execution without losing sight of the \u201cwhy\u201d in the clinical domain\u2014and who can operate with depth, speed, and accountability in a consulting environment. What You\u2019ll Do Lead Strategic Delivery: Own the end-to-end SDLC for high-impact R&D technology programs, with a focus on Biometrics, Clinical Data Repositories (CDR), and Statistical Computing Environments (SCE). Be accountable for delivery quality, timelines, and technical decision-making. Build and Run a Specialized Squad: Recruit, coach, and manage a high-performing team of technologists. Drive day-to-day execution, skill development, and delivery rigor across multiple concurrent workstreams. Bridge Strategy & Tech: Act as a hands-on liaison between senior stakeholders and engineering teams\u2014translating clinical and business needs into executable roadmaps, detailed plans, and well-scoped technical solutions. Global Orchestration: Lead offshore-first delivery in a fast-paced, global model. Own execution cadence, risk management, and escalation, while ensuring compliance with GxP and client quality standards. Client Influence: Serve as a trusted delivery partner to clients\u2014guiding them on clinical data strategy, platform modernization, and the technical implementation of future-ready biometrics solutions. What You\u2019ll Bring Education: Bachelor\u2019s or master\u2019s degree in Computer Science, MIS, Business Administration, or a related discipline. Proven Delivery Leadership: 10+ years of experience leading technology programs in a consulting environment, including direct ownership of scope, staffing, timelines, and delivery outcomes. SDLC & Execution Depth: 8+ years leading teams through full SDLC, with demonstrated ability to manage delivery risk, architectural trade-offs, and evolving requirements. R&D Literacy: 8+ years in Life Sciences R&D, with strong working knowledge of: Clinical Data Standards: CDASH, SDTM, ADaM, OMOP, FHIR, HL7 Patient Data Systems: EDC, ePRO, Labs, CDMS Biometrics Platforms: Hands-on experience delivering CDR and/or SCE solutions Executive Presence: Strong communication and influence skills, with the ability to engage deeply with technical teams while credibly presenting to senior client and internal leadership. How You\u2019ll Grow Custom Learning Pathways: Structured development to deepen both leadership capabilities and advanced R&D technology expertise. Career S-Curves: Multiple growth paths across people leadership, complex program ownership, and cross-functional roles. Global Impact: Shape how leading life sciences organizations modernize biometrics and clinical data at scale",
-    "qualifications": ".",
-    "location": "Pune",
-    "posting_date": "2026-06-02T07:30:00+0000Updated at :2026-06-02T09:57:57+0000",
-    "posted_at": "2026-06-10 11:57:08",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/32591",
-    "loaded_at": "2026-06-10 17:27:08"
+    "loaded_at": "2026-06-11 14:33:58"
   }
 ]
