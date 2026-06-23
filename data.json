@@ -1,6 +1,146 @@
 [
   {
     "company": "JPMC",
+    "role": "Regulatory Reporting Data Strategy \u2013 Business Analyst- Associate",
+    "description": "Regulatory Reporting Data Strategy \u2013 Business Analyst (Associate)",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Program Management",
+    "job_function": "Finance",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761492",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "MIS Finance operations - Analyst",
+    "description": "Build your career in Finance Operations while working in the world\u2019s most innovative bank which values creativity and excellence.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738360",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Quant Model Risk Analyst",
+    "description": "This is an attractive career path for you as a model development and model validation quant in a dynamic and challenging setting.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Analysts",
+    "job_function": "Program Analysts & Associate",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702811",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Principal Software Engineer",
+    "description": "Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722037",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Director of Software Engineering - Java & AWS",
+    "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741232",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Manager of Software Engineering - Java",
+    "description": "Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752143",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - ReactJS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759505",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Java & ReactJS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761042",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Sr Lead Software Engineer - Python, AI ML",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761672",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Python",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761676",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Program Management - Associate",
     "description": "Partner with Finance partners to translate requirements into specs, build cross-functional relationships, and lead end-to-end delivery.",
     "responsibilities": null,
@@ -113,48 +253,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Sr Director of Software Engineering - AI/ML platforms (Intelligent Agentic Systems, RAG, LLM Architectures)",
-    "description": "Direct multiple technical areas, manage the activities of multiple departments, and collaborate across technical domains",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-22",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738293",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Director of Software Engineering - Java & AWS",
-    "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-06-22",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741232",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Director of Software Engineering - Java, AWS, RESTful, Containers",
-    "description": "Direct multiple technical areas, manage the activities of multiple teams, and collaborate across technical domains",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-06-22",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741851",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Principal Software Engineer - Java, AWS, RESTful",
     "description": "Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm",
     "responsibilities": null,
@@ -169,16 +267,16 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer III-UI Developer",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "role": "Director of Software Engineering",
+    "description": "If you are a software engineering leader ready to take the reins and drive impact, we\u2019ve got an opportunity just for you. ",
     "responsibilities": null,
     "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
+    "location": "Hyderabad, Telangana, India",
     "posting_date": "2026-06-22",
     "posted_at": null,
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750882",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749257",
     "loaded_at": null
   },
   {
@@ -365,20 +463,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer III-Java Full Stack/ React",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-19",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749771",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Lead Software Engineer - Python and AI/ML",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
     "responsibilities": null,
@@ -406,90 +490,6 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Python full stack",
-    "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-19",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756705",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Program Management - Controllers- Associate",
-    "description": "The SAIC team is responsible for analysis and execution of Financial Accounting architecture changes, supporting FC/ACC & PC.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-18",
-    "posted_at": null,
-    "job_family": "Program Management",
-    "job_function": "Finance",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735589",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Vice President - AI Product Strategy & Intelligence \u2013 Controls Transformation",
-    "description": "Shape & Drive CIB controls assessment transformation - turn business needs into AI-powered insights and scalable platform delivery.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-18",
-    "posted_at": null,
-    "job_family": "Program Management",
-    "job_function": "Oversight & Control",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755107",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Vice President - Legal - Product",
-    "description": "Product Owner to deliver workflow, reporting, and AI solutions\u2014own backlog, drive UAT, and enable data-driven stakeholder decisions.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-18",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760798",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Python, React",
-    "description": "We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-18",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735697",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Python , Fast API , AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-18",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749187",
-    "loaded_at": null
-  },
-  {
     "company": "ZS",
     "role": "Senior Lead - Product Management",
     "description": "description",
@@ -497,11 +497,11 @@
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-06-19T08:28:00+0000Updated at :2026-06-19T08:53:20+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/42104",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -511,11 +511,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-17T05:28:00+0000Updated at :2026-06-18T20:54:25+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31476",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -525,11 +525,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-06-16T10:26:00+0000Updated at :2026-06-18T20:54:31+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33507",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -539,11 +539,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-06-16T09:14:00+0000Updated at :2026-06-18T20:54:14+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24123",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -553,11 +553,11 @@
     "qualifications": ".",
     "location": "Gurugram",
     "posting_date": "2026-06-15T04:56:00+0000Updated at :2026-06-18T20:54:34+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33745",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -567,11 +567,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-11T06:27:00+0000Updated at :2026-06-18T20:54:31+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33738",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -581,11 +581,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence 3+ years of relevant professional experience in delivering small/medium-scale technology solutions Ability to lead project teams, drive end-to-end activities, meet milestones, and provide mentorship/guidance for the team growth Strong understanding of RDBMS concepts, SQL, data warehousing and reporting Experience with big data concepts, data management, data analytics and cloud platforms Proficiency in programming languages like Python Strong analytical and problem-solving skills, including expertise in algorithms and data structures Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
     "posting_date": "2026-06-08T10:57:00+0000Updated at :2026-06-18T20:54:31+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33219",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -595,11 +595,11 @@
     "qualifications": "What you\u2019ll bring: 2 years of information systems experience with audit planning, risk assessment, and reporting/documentation Hardware, software, and networking information technologies IT security, controls, practices, and procedures Working knowledge of various control frameworks like mentioned below are desirable: COBIT \u2013 Control Objectives for Information and Related Technology ISO/IEC 27002:2005 \u2013 Code of Practice for Information Security Management ITIL \u2013 Information Technology Infrastructure Library SOX \u2013 Sarbanes-Oxley HIPAA HITECH \u2013 Health Insurance Portability and Accountability SAS 70 \u2013 Statement of Auditing Standards No. 70 SSAE 16 \u2013 Statement on Standards for Attestation PCI DSS \u2013 Payment Card Industry Data Security Standard Engagements ISAE 3402 \u2013 International Standard for Assurance Engagements NIST \u2013 National Institute of Standards and Technology Disaster Recovery planning and testing Fluency in English Client first mentality Intense work ethics Collaborative spirit and problem solving skills How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
     "posting_date": "2026-06-08T08:57:00+0000Updated at :2026-06-18T20:54:18+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24262",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -609,11 +609,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-04T06:15:00+0000Updated at :2026-06-18T20:54:21+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24409",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   },
   {
     "company": "ZS",
@@ -623,10 +623,10 @@
     "qualifications": "s",
     "location": "Pune",
     "posting_date": "2026-06-04T06:14:00+0000Updated at :2026-06-18T20:54:21+0000",
-    "posted_at": "2026-06-22 15:37:01",
+    "posted_at": "2026-06-23 08:17:54",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24408",
-    "loaded_at": "2026-06-22 21:07:01"
+    "loaded_at": "2026-06-23 13:47:54"
   }
 ]
