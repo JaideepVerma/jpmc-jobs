@@ -1,6 +1,76 @@
 [
   {
     "company": "JPMC",
+    "role": "Global Program Management - Business Analyst - Associate",
+    "description": "Lead key regulatory projects, shape future reporting, and grow your skills on high profile work within a dynamic, supportive team.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Program Management",
+    "job_function": "Finance",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761532",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Senior Product Associate MORTGAGE",
+    "description": "Join a dynamic team at the forefront of mortgage innovation",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763502",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II - Backend Python, AIML",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710723",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Java, Spring boot, AWS Cloud & AI/ML (REST APIs, System Design, SDLC)",
+    "description": "Design and deliver cloud native Java services using Spring Boot and modern data and search tools, owning the full software lifecycle.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758622",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer- Java Fullstack",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759191",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Lead Software Engineer - UI - React , Typescript",
     "description": "UI/UX lead across multiple technical areas as an integral part of a global agile team",
     "responsibilities": null,
@@ -43,48 +113,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer II - Mainframe",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-25",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746341",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - UX/UI",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-25",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746817",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer II - UI Developer",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-25",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748558",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Lead Software Engineer - Java, Spring, Kubernetes, Linux",
     "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.",
     "responsibilities": null,
@@ -113,20 +141,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer III - Java, Kafka, Kubernetes",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-25",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750865",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Lead Software Engineer - Java, Spring Boot, Microservices",
     "description": "\nJoin the award-winning Markets Execute team to develop, lead and partner closely with Product, Delivery and Sales and Trading",
     "responsibilities": null,
@@ -151,20 +165,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752692",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Java, AWS, Kafka",
-    "description": "Serve as an emerging member of an agile team to enhance, build and deliver technology products with our dynamic, innovative team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-25",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759479",
     "loaded_at": null
   },
   {
@@ -365,20 +365,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer II - Python and kubernetes or Cloud Foundry",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-24",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747483",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Director of Software Engineering",
     "description": "If you are a software engineering leader ready to take the reins and drive impact, we\u2019ve got an opportunity just for you. ",
     "responsibilities": null,
@@ -389,20 +375,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749257",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - .NET and React",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-24",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759000",
     "loaded_at": null
   },
   {
@@ -490,6 +462,62 @@
     "loaded_at": null
   },
   {
+    "company": "JPMC",
+    "role": "Director of Software Engineering - Java & AWS",
+    "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741232",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Manager of Software Engineering - Java",
+    "description": "Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-23",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752143",
+    "loaded_at": null
+  },
+  {
+    "company": "ZS",
+    "role": "Decision Analytics Associate",
+    "description": "description",
+    "responsibilities": "ZS's Insights & Analytics group partners with clients to design and deliver solutions to help them tackle a broad range of business challenges. Our teams work on multiple projects simultaneously, leveraging advanced data analytics and problem-solving techniques. Our recommendations and solutions are based on rigorous research and analysis underpinned by deep expertise and thought leadership.\u202f\u202f\u202f What You\u2019ll Do Develop and apply advanced statistical models that help clients understand dynamic business issues. Leverage analytic techniques to use data to guide client and ZS team decision-making. Design custom analyses in R, Tableau, SAS, Visual Basic and Excel to investigate and inform client needs. Synthesize and communicate results to clients and ZS teams through oral and written presentations. Develop client relationships and serve as key point of contact on aspects of projects. Provide client and ZS teams project status updates. Create project deliverables and implement solutions. Advance problem-solving skills and improve ZS\u2019s capabilities. Guide and mentor Associates on teams. What You\u2019ll Bring Bachelor's or master's degree required in any discipline with strong record of academic success in quantitative and analytic coursework such as operations research, applied mathematics, management science, data science, statistics, econometrics or engineering. Up to 3 years of relevant post-collegiate job experience. Fluency in English. Knowledge of programming (e.g., Java/Python/R). Exposure to tools/platforms (e.g., Hadoop eco system and database systems). Demonstrated proficiency in a programming language or analytic tool such as R, SAS, Tableau, or VBA. High motivation, good work ethic, maturity, and personal initiative. Effective oral and written communication skills. Empathy, adaptability, and emotional intelligence. Strong attention to detail, with a quality-focused mindset. Self-discipline for planning and organizing tasks. Aptitude for, and enjoyment of, working in teams. Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: We are committed to giving our employees a flexible and connected way of working. A flexible and connected ZS allows us to combine work from home and on-site presence at clients/ZS offices for the majority of our week. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-06-26T07:30:00+0000Updated at :2026-06-26T07:39:41+0000",
+    "posted_at": "2026-06-26 08:18:39",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/24139",
+    "loaded_at": "2026-06-26 13:48:39"
+  },
+  {
+    "company": "ZS",
+    "role": "Associate Counsel",
+    "description": "description",
+    "responsibilities": "ZS\u2019s Corporate Enterprise Functions operate the firm\u2019s core internal functions. Our global teams comprise team-oriented, pragmatic and results-driven people who thrive in a challenging work environment. Our people come from diverse backgrounds but share a passion for quality customer service and dedication\u2014whether our customer is a client or another ZS employee. \u202f Associate\u202fCounsel Our\u202flegal\u202f\u202fteam\u202freviews\u202f\u202fcontracts,\u202fadvises\u202fthe\u202ffirm\u202fon\u202fmatters\u202fof\u202flegal\u202fconsequence,\u202f\u202fand\u202fproactively\u202f\u202fassesses\u202f\u202fand\u202fmanages\u202f\u202fthe\u202ffirm\u2019s\u202frisk\u202f\u202fexposure.\u202f\u202fThe\u202flegal\u202fteam\u202fis responsible\u202ffor\u202f\u202fstaying\u202fabreast\u202f\u202fof\u202f\u202flegal\u202f\u202fdevelopments\u202f\u202fimpacting\u202fthe\u202ffirm\u202fon\u202fa\u202fglobal\u202fbasis\u202fand\u202fthen\u202fadvising\u202f\u202fthe\u202ffirm\u202fbased\u202fon\u202fthe\u202fchanging\u202flegal\u202flandscape. What You\u2019ll Do\u202f\u202f Support global contracting process, which includes tasks such as: Reviewing, revising and negotiating client agreements such as confidentiality agreements, master services agreements, software licensing agreements, data access agreements, data processing agreements etc.; Drafting and managing ZS form contracts; Responding to legal queries for client Request for Proposals (RFP/RFIs) Helping to manage the overall contracting processes; Assist in providing legal support to business functions and across various client practice areas; Liaising with external and internal stakeholders What You\u2019ll Bring\u202f\u202f LLB degree with strong academic background required 1-3 years of relevant work experience, International legal experience and foreign language competencies preferred Superior oral and written communication skills Motivation, personal initiative and strong team/interpersonal skills Strong analytic skills and problem solving ability Proven attention to detail and high level of accuracy Excellent time management skills Flexibility to facilitate meeting with internal and external contacts globally Basic knowledge and prior experience with contract management tools Proficiency in leveraging proprietary AI tools to streamline workflows and drive productivity Additionally, service provider/vendor contract transactional experience is particularly valuable. ZS is a global consulting firm; fluency in English is required. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
+    "location": "Pune",
+    "posting_date": "2026-06-26T06:28:00+0000Updated at :2026-06-26T07:37:44+0000",
+    "posted_at": "2026-06-26 08:18:39",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/33658",
+    "loaded_at": "2026-06-26 13:48:39"
+  },
+  {
     "company": "ZS",
     "role": "Decision Analytics Associate Consultant - Forecasting",
     "description": "description",
@@ -497,25 +525,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-24T06:31:00+0000Updated at :2026-06-25T07:14:16+0000",
-    "posted_at": "2026-06-25 11:20:01",
+    "posted_at": "2026-06-26 08:18:39",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24155",
-    "loaded_at": "2026-06-25 16:50:01"
-  },
-  {
-    "company": "ZS",
-    "role": "Business Technology Solutions Associate Consultant (MES/PIMS)",
-    "description": "description",
-    "responsibilities": "BTS Associate Consultant \u2013 MES /PIMS (Manufacturing) ZS is seeking an experienced MES\u202f/\u202fPIMS\u202fSubject\u202fMatter\u202fExpert who will drive the design, implementation, and optimization of Manufacturing\u202fExecution\u202fSystems\u202f(MES) and Plant\u202fInformation\u202fManagement\u202fSystems\u202f(PIMS) within regulated pharmaceutical environments. This role focuses on bridging manufacturing operations, compliance, and technology, ensuring that digital solutions enable efficiency, traceability, and regulatory adherence. The ideal candidate combines hands\u2011on experience with MES/PIMS platforms and deep understanding of pharma\u202fmanufacturing processes\u2014from batch execution and electronic\u202fbatch\u202frecords to data contextualization and performance analytics. The position also demands familiarity with current Industry\u202f4.0\u202fintegration frameworks, UNS, and MCP concepts for connected plants. What you\u2019ll do: Lead or support the end to end design and deployment of MES and\u202fPIMS\u202fsolutions aligning with manufacturing workflows (Batch\u202fExecution,\u202fEBR,\u202fProcess\u202fData\u202fAcquisition,\u202fOEE\u202fMonitoring). Serve as SME for pharma manufacturing operations, mapping process requirements into digital system configurations in compliance with GxP,\u202f21\u202fCFR\u202fPart\u202f11,\u202fand\u202fAnnex\u202f11 guidelines. Collaborate with IT and automation teams to integrate MES/PIMS with related enterprise systems\u2014ERP\u202f(SAP),\u202fLIMS,\u202fQMS,\u202fand\u202fdata\u202fplatforms\u2014using standards such as ISA 95,\u202fOPC\u202fUA,\u202fand\u202fMQTT. Ensure system configurations meet validation and data integrity requirements (ALCOA+,\u202fCSV/CSA\u202fapproach) and maintain appropriate documentation. Bridge plant floor equipment (PLC,\u202fSCADA,\u202fhistorians) data into enterprise applications through secure interfaces and data contextualization models. Contribute to initiatives involving Unified\u202fNamespace\u202farchitectures, Manufacturing\u202fConnectivity\u202fPlatforms, IIoT\u202fimplementations, or cloud enabled\u202fMES\u202fsolutions. Recommend enhancements to manufacturing data utilization, KPI definitions, and analytics enablement for process optimization and decision\u202fsupport. Partner with manufacturing, quality, automation, and IT\u202fstakeholders to harmonize processes and technology objectives across global\u202foperations. Engage with global manufacturing leaders on digital\u202fplant\u202fand\u202fmanufacturing\u202ftransformation\u202fprograms, focusing on MES/PIMS modernization and IT OT convergence. Work with next generation Industry\u202f4.0\u202fframeworks, including Unified\u202fNamespace,\u202fMCP,\u202fdigital\u202ftwin,\u202fand\u202fadvanced\u202fdata\u202fanalytics. Collaborate with experts in automation,\u202fdata\u202fengineering,\u202fand\u202farchitecture to deliver integrated and compliant manufacturing\u202fsolutions. What you'll bring: 6\u20139\u202fyears of professional experience with at least 4\u202fyears in MES\u202f/\u202fPIMS\u202ffunctional deployment or manufacturing\u202fsystems\u202fintegration within pharmaceutical\u202for\u202flife sciences manufacturing. Bachelor\u2019s or Master\u2019s degree in Engineering (Computer\u202fScience,\u202for\u202fInstrumentation)\u202for\u202frelated\u202ffield. Preferred platform\u202fexpertise:\u202fWerum\u202fPASX,\u202fSiemens\u202fOpcenter\u202fExecution\u202f(Process/Pharma),\u202fRockwell\u202fFactoryTalk\u202fProductionCentre,\u202fEmerson\u202fSyncade Strong understanding of ISA 95 manufacturing standards Knowledge of ETL\u202fprocesses,\u202fdata\u202fmodels,\u202fand\u202fcloud based\u202fintegration patterns\u202f(Azure,\u202fAWS) Awareness of UNS,\u202fMCP,\u202fand\u202fIIoT\u202fconcepts supporting smart\u202fmanufacturing\u202finitiatives Familiarity with cybersecurity\u202fand\u202fnetwork\u202fsegregation practices in regulated\u202fmanufacturing\u202fenvironments Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project team",
-    "qualifications": "s",
-    "location": "Pune",
-    "posting_date": "2026-06-24T05:41:00+0000Updated at :2026-06-25T07:14:19+0000",
-    "posted_at": "2026-06-25 11:20:01",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/24381",
-    "loaded_at": "2026-06-25 16:50:01"
+    "loaded_at": "2026-06-26 13:48:39"
   },
   {
     "company": "ZS",
@@ -525,11 +539,11 @@
     "qualifications": "What you\u2019ll bring: BA/BS degree required with strong academic performance 1 year of relevant work experience Training, education, or experience must be relevant to the role Excellent organizational skills and an ability to multi-task Strong analytic skills/comfort with data analysis Strong verbal and written communication skills Attention to detail and commitment Proficiency with MS Office Suite (Word, Excel, PowerPoint, Outlook) Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-06-23T15:29:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-25 11:20:01",
+    "posted_at": "2026-06-26 08:18:39",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61747",
-    "loaded_at": "2026-06-25 16:50:01"
+    "loaded_at": "2026-06-26 13:48:39"
   },
   {
     "company": "ZS",
@@ -539,11 +553,11 @@
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-06-19T08:28:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-25 11:20:01",
+    "posted_at": "2026-06-26 08:18:39",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/42104",
-    "loaded_at": "2026-06-25 16:50:01"
+    "loaded_at": "2026-06-26 13:48:39"
   },
   {
     "company": "ZS",
@@ -553,11 +567,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-17T05:28:00+0000Updated at :2026-06-25T07:14:25+0000",
-    "posted_at": "2026-06-25 11:20:01",
+    "posted_at": "2026-06-26 08:18:39",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31476",
-    "loaded_at": "2026-06-25 16:50:01"
+    "loaded_at": "2026-06-26 13:48:39"
   },
   {
     "company": "ZS",
@@ -567,11 +581,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-06-16T10:26:00+0000Updated at :2026-06-25T07:14:28+0000",
-    "posted_at": "2026-06-25 11:20:01",
+    "posted_at": "2026-06-26 08:18:39",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33507",
-    "loaded_at": "2026-06-25 16:50:01"
+    "loaded_at": "2026-06-26 13:48:39"
   },
   {
     "company": "ZS",
@@ -581,11 +595,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-06-16T09:14:00+0000Updated at :2026-06-25T07:14:13+0000",
-    "posted_at": "2026-06-25 11:20:01",
+    "posted_at": "2026-06-26 08:18:39",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24123",
-    "loaded_at": "2026-06-25 16:50:01"
+    "loaded_at": "2026-06-26 13:48:39"
   },
   {
     "company": "ZS",
@@ -595,11 +609,11 @@
     "qualifications": ".",
     "location": "Gurugram",
     "posting_date": "2026-06-15T04:56:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-25 11:20:01",
+    "posted_at": "2026-06-26 08:18:39",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33745",
-    "loaded_at": "2026-06-25 16:50:01"
+    "loaded_at": "2026-06-26 13:48:39"
   },
   {
     "company": "ZS",
@@ -609,24 +623,10 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-11T06:27:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-25 11:20:01",
+    "posted_at": "2026-06-26 08:18:39",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33738",
-    "loaded_at": "2026-06-25 16:50:01"
-  },
-  {
-    "company": "ZS",
-    "role": "Business Technology Solutions Associate Consultant _ Data Engineer",
-    "description": "description",
-    "responsibilities": "What you\u2019ll do: Collaborate with ZS internal teams and client teams to shape and implement high quality technology solutions that address critical business problems Develop a deep understanding of the business problems and effectively translate them into technical designs Lead modules and workstreams within projects while participating in hands on implementation Work with technical architects to validate the technical design and implementation approach Apply appropriate development methodologies and best practices to ensure exceptional client and project team experience Support the project lead in project delivery, including project planning, people management, staffing, and risk mitigation Manage a diverse team with various skill sets while providing mentorship and coaching to junior members Lead task planning and distribution among team members for timely completion of projects with high-quality results Guide the project deliverables such as business case development, solution vision and design, user requirements, prototypes, technical architecture, test cases, deployment plans and operations strategy ",
-    "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence 3+ years of relevant professional experience in delivering small/medium-scale technology solutions Ability to lead project teams, drive end-to-end activities, meet milestones, and provide mentorship/guidance for the team growth Strong understanding of RDBMS concepts, SQL, data warehousing and reporting Experience with big data concepts, data management, data analytics and cloud platforms Proficiency in programming languages like Python Strong analytical and problem-solving skills, including expertise in algorithms and data structures Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
-    "location": "Pune",
-    "posting_date": "2026-06-08T10:57:00+0000Updated at :2026-06-25T11:13:31+0000",
-    "posted_at": "2026-06-25 11:20:01",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/33219",
-    "loaded_at": "2026-06-25 16:50:01"
+    "loaded_at": "2026-06-26 13:48:39"
   }
 ]
