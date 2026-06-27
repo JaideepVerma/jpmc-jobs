@@ -15,6 +15,34 @@
   },
   {
     "company": "JPMC",
+    "role": "Analytics Solutions - Associate",
+    "description": "Promote data strategy, lead transformation, and partner across teams to enhance data processes and quality.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762755",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Senior Product Associate - Payments Digital & Design",
+    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736278",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Senior Product Delivery Associate \u2013 Analytics Observability & Data Product Assurance",
     "description": "Facilitate product delivery by overcoming challenges, handling dependencies, and participating in change management",
     "responsibilities": null,
@@ -43,16 +71,30 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer II - Backend Python, AIML",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "role": "Lead Software Engineer - Java & AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
     "responsibilities": null,
     "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
+    "location": "Hyderabad, Telangana, India",
     "posting_date": "2026-06-26",
     "posted_at": null,
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710723",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739776",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - .NET & AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746485",
     "loaded_at": null
   },
   {
@@ -81,6 +123,34 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759191",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - (ADLC , Python)",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762139",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Sr. Lead Software Engineer - Data Engineer, AWS,AI",
+    "description": "Join the Sales & Research technology team to deliver technology solutions across cloud and data platforms",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-26",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762245",
     "loaded_at": null
   },
   {
@@ -193,20 +263,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761079",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer",
-    "description": "Out of the successful launch of Chase in 2021, we\u2019re a new team, with a new mission.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-25",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761697",
     "loaded_at": null
   },
   {
@@ -434,62 +490,6 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Quant Model Risk Analyst",
-    "description": "This is an attractive career path for you as a model development and model validation quant in a dynamic and challenging setting.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-23",
-    "posted_at": null,
-    "job_family": "Analysts",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702811",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "CIB Risk Analyst",
-    "description": "Counterparty Risk (CCR) is part of Wholesale Credit Risk division, and is responsible for counterparty exposure measurement, monitoring and escalating where appropriate, ad-hoc risk investigations and analyses in collaboration with credit officers, sales and senior management, assessment of CSA terms adequacy, determination of initial margin requirements including corresponding eligible collateral and valuations where applicable, ownership and maintenance of all credit exposure metrics, all related exposure calculation/reporting engines and their development agendas and priorities, and collateral stress testing.\n\nAs a member of CCR Coverage, the candidate will work closely with Credit Officers, Front Office, and Sales, to assess the client level exposures, determine the appropriate execution limits, while maintaining an oversight of the overall Portfolio exposure by monitoring and escalating relevant concentrated exposures, liquidity, and market risks.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-23",
-    "posted_at": null,
-    "job_family": "Analysts",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761234",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Director of Software Engineering - Java & AWS",
-    "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-06-23",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741232",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Manager of Software Engineering - Java",
-    "description": "Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-23",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752143",
-    "loaded_at": null
-  },
-  {
     "company": "ZS",
     "role": "Associate Counsel",
     "description": "description",
@@ -497,11 +497,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-26T06:28:00+0000Updated at :2026-06-26T09:20:26+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33658",
-    "loaded_at": "2026-06-26 16:59:43"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -511,11 +511,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-24T06:31:00+0000Updated at :2026-06-25T07:14:16+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24155",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -525,11 +525,11 @@
     "qualifications": "What you\u2019ll bring: BA/BS degree required with strong academic performance 1 year of relevant work experience Training, education, or experience must be relevant to the role Excellent organizational skills and an ability to multi-task Strong analytic skills/comfort with data analysis Strong verbal and written communication skills Attention to detail and commitment Proficiency with MS Office Suite (Word, Excel, PowerPoint, Outlook) Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-06-23T15:29:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61747",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -539,11 +539,11 @@
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-06-19T08:28:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/42104",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -553,11 +553,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-17T05:28:00+0000Updated at :2026-06-25T07:14:25+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31476",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -567,11 +567,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-06-16T10:26:00+0000Updated at :2026-06-25T07:14:28+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33507",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -581,11 +581,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-06-16T09:14:00+0000Updated at :2026-06-25T07:14:13+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24123",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -595,11 +595,11 @@
     "qualifications": ".",
     "location": "Gurugram",
     "posting_date": "2026-06-15T04:56:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33745",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -609,11 +609,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-11T06:27:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33738",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   },
   {
     "company": "ZS",
@@ -623,10 +623,10 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence 3+ years of relevant professional experience in delivering small/medium-scale technology solutions Ability to lead project teams, drive end-to-end activities, meet milestones, and provide mentorship/guidance for the team growth Strong understanding of RDBMS concepts, SQL, data warehousing and reporting Experience with big data concepts, data management, data analytics and cloud platforms Proficiency in programming languages like Python Strong analytical and problem-solving skills, including expertise in algorithms and data structures Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
     "posting_date": "2026-06-08T10:57:00+0000Updated at :2026-06-26T09:20:26+0000",
-    "posted_at": "2026-06-26 11:29:44",
+    "posted_at": "2026-06-27 07:38:41",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33219",
-    "loaded_at": "2026-06-26 16:59:44"
+    "loaded_at": "2026-06-27 13:08:41"
   }
 ]
