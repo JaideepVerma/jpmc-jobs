@@ -1,6 +1,104 @@
 [
   {
     "company": "JPMC",
+    "role": "Product Manager - Vice President",
+    "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-30",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752139",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Data & AI Lead Product Manager",
+    "description": "Lead Unity product vision to transform client experiences with innovative workflows that reduce risk and boost efficiency globally.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-30",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763823",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Senior Manager of Software Engineering - Java, Kafka",
+    "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams ",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-30",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702786",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Senior Lead Software Engineer - Java, AWS",
+    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-30",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704982",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - ICERTIS CLM Configurator",
+    "description": "Looking for candidates with Icertis CLM experience. preferably Administrator Certification through ICI Academy\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-06-30",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746879",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Sr. Lead Software Engineer",
+    "description": "Lead Software Engineer - Java/Cloud\n\nWe have an exciting and rewarding opportunity for you to take your software engineering career to the next level. \nAs a Lead Software Engineer at JPMorgan Chase within the Commercial and Investment Bank's Post Trade Tech Team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm\u2019s business objectives.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-30",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760024",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - AI/ML, Java/Python, REACT",
+    "description": "Build resilient AI-enabled platforms improving risk/controls; partner cross-functionally; Java/Python, AWS, APIs, React, CI/CD",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-30",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762306",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Chief Data Office - Data Storage - Associate",
     "description": "Chief Data Office Privacy, Protection and Storage is responsible for governance of Data Privacy, Protection and Storage controls for the Global CIB.",
     "responsibilities": null,
@@ -39,62 +137,6 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760156",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Manager of Software Engineering - Java, Kafka",
-    "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams ",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-29",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702786",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - UI",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-29",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710677",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer II - UI Developer + React",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-29",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710718",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer II - Backend Python, AIML",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-29",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710723",
     "loaded_at": null
   },
   {
@@ -155,6 +197,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Lead Software Engineer - Full Stack",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Seattle, WA, United States",
+    "posting_date": "2026-06-29",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745183",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Lead Software Engineer - SRE",
     "description": "Promote digital investment banking, designing and delivering secure, scalable, market leading technology products as a key team member.",
     "responsibilities": null,
@@ -197,20 +253,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Lead Software Engineer",
-    "description": "Out of the successful launch of Chase in 2021, we\u2019re a new team, with a new mission.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-29",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759378",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Sr Lead Software Engineer",
     "description": "Transform your career by enhancing and migrating our trade processing platform to a cloud-native code-base.",
     "responsibilities": null,
@@ -249,20 +291,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762856",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Python, AWS, AI",
-    "description": "Join the team that is driving the talent attraction strategy for one of the world\u2019s most innovative banks",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-06-29",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763329",
     "loaded_at": null
   },
   {
@@ -323,20 +351,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Senior Product Associate - Payments Digital & Design",
-    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-26",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736278",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Senior Product Associate MORTGAGE",
     "description": "Join a dynamic team at the forefront of mortgage innovation",
     "responsibilities": null,
@@ -361,34 +375,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739776",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - .NET & AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-26",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746485",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, Spring boot, AWS Cloud & AI/ML (REST APIs, System Design, SDLC)",
-    "description": "Design and deliver cloud native Java services using Spring Boot and modern data and search tools, owning the full software lifecycle.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-06-26",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758622",
     "loaded_at": null
   },
   {
@@ -490,6 +476,34 @@
     "loaded_at": null
   },
   {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Java, Spring Boot, Microservices",
+    "description": "\nJoin the award-winning Markets Execute team to develop, lead and partner closely with Product, Delivery and Sales and Trading",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-06-25",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751262",
+    "loaded_at": null
+  },
+  {
+    "company": "ZS",
+    "role": "Senior Cloud Administrator",
+    "description": "description",
+    "responsibilities": "Senior Cloud Administrator We seek an experienced, professional Sr. Cloud Administrator to join our Pune, India office. This role is responsible for deploying and administering a cloud-based computing platform within ZS. What You\u2019ll Do: As an Sr. Cloud Administrator in the Enterprise you will - Manage end-to-end Salesforce deployments across Dev, QA, UAT, Pre-Prod, and Production environments. Design and maintain CI/CD pipelines using SFDX CLI with Jenkins, Azure DevOps, and GitHub Actions. Work with Salesforce deployment tools such as Copado and Gearset. Manage release planning, deployment execution, release notes, approvals, and post-release validation. Define and support branching strategies including feature, release, hotfix, and main branches. Implement quality gates such as validation deployments, Apex test execution, code coverage checks, and static code analysis. Support rollback planning, deployment recovery, and production issue resolution. Manage back sync activities to ensure production changes are aligned with lower environments and source branches. Support Salesforce backup and recovery processes before major releases. Plan and execute sandbox refreshes and post-refresh activities. Support sandbox seeding and test data preparation for QA and UAT. Ensure data masking and data privacy controls are applied in lower environments. Maintain metadata consistency across Salesforce environments. Support multi-country Salesforce implementations with country-specific configurations and release dependencies. Ensure security and compliance considerations are followed during deployments. Maintain DevOps documentation, release checklists, rollback plans, and environment governance standards. Required Skills 3\u20136 years of Salesforce experience with strong focus on DevOps and Release Management. Hands-on experience with SFDX CLI and Metadata-based Salesforce deployments. Experience with Jenkins, Azure DevOps, and GitHub Actions. Experience with Copado and/or Gearset. Strong understanding of Git version control and branching strategy. Good knowledge of Salesforce Admin concepts including profiles, permission sets, roles, sharing rules, objects, fields, flows, and validation rules. Experience managing Salesforce releases across multiple environments. Experience with rollback, back sync, backup, sandbox refresh, sandbox seeding, and data masking. Understanding of Salesforce security model and deployment governance. Experience with Sales Cloud, Service Cloud, and Experience Cloud. Experience working on multi-country Salesforce implementations. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
+    "location": "Pune",
+    "posting_date": "2026-06-30T05:55:00+0000Updated at :2026-06-30T07:45:41+0000",
+    "posted_at": "2026-06-30 08:18:31",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/61873",
+    "loaded_at": "2026-06-30 13:48:31"
+  },
+  {
     "company": "ZS",
     "role": "Senior Associate - Brand & Reputation | ZS Impact Institute",
     "description": "description",
@@ -497,11 +511,11 @@
     "qualifications": "What you\u2019ll bring: BA or BS required. 3-6 years of marketing experience, preferably in professional services or B2B marketing. Experience working in entrepreneurial-driven, matrixed organizations. Strong project management skills with a demonstrated ability to manage multi-disciplinary projects that drive consistent and measurable results. Excellent written and verbal communication skills. Creative thinker with the ability to come up with innovative solutions. Experience working with data tools, AI tools, ChatGPT, design and web tools like Canva and Folloze is a plus. Flexibility to work evening hours and effectively leverage time with global colleagues to maximize individual work impact. Must be a self-starter who can learn quickly and independently. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Gurugram",
     "posting_date": "2026-06-29T11:23:00+0000Updated at :2026-06-29T11:40:41+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61831",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   },
   {
     "company": "ZS",
@@ -511,11 +525,11 @@
     "qualifications": "d",
     "location": "Pune",
     "posting_date": "2026-06-29T09:25:00+0000Updated at :2026-06-29T09:40:39+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61880",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   },
   {
     "company": "ZS",
@@ -525,11 +539,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s in computer science /management of computer information/information assurance or Cybersecurity 3-5+ years of DevSecOps / Secure DevOps /Security Engineer/ Application & Cloud Security roles Preferred Certifications: CSSLP / AWS CLP / AWS Certified Solutions Architect / AWS Security Specialty Expertise in implementing DevSecOps practices in cloud-native CI/CD pipelines (e.g., GitLab CI, GitHub Actions, Jenkins, TeamCity, Azure DevOps, Bit-Bucket). Strong hands-on experience with application security tools such as SonarQube, Fortify, Checkmarx, Snyk, Veracode, BlackDuck, Burp Suite, OWASP ZAP. Knowledge of containerization and orchestration security (Docker, Kubernetes, Helm) and tools like Trivy, Kube-bench, and Aqua. Working knowledge of programming/scripting languages like Python, Java, JavaScript, C#, .Net or go. Familiarity with cloud-native security controls (AWS Security Hub, Azure Defender, GCP Security Command Center). Strong scripting skills in Python, Bash, or PowerShell for automation and tool integration. Ability to develop and enforce security guardrails, policies, and standards in automated and scalable ways. In-depth understanding of OWASP, CWE, CVE scoring, and secure SDLC methodologies. Solid understanding of emerging threats and vulnerabilities Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-06-29T05:38:00+0000Updated at :2026-06-29T05:40:32+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61812",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   },
   {
     "company": "ZS",
@@ -539,11 +553,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-26T06:28:00+0000Updated at :2026-06-26T09:20:26+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33658",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   },
   {
     "company": "ZS",
@@ -553,11 +567,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-06-24T06:31:00+0000Updated at :2026-06-25T07:14:16+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24155",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   },
   {
     "company": "ZS",
@@ -567,11 +581,11 @@
     "qualifications": "What you\u2019ll bring: BA/BS degree required with strong academic performance 1 year of relevant work experience Training, education, or experience must be relevant to the role Excellent organizational skills and an ability to multi-task Strong analytic skills/comfort with data analysis Strong verbal and written communication skills Attention to detail and commitment Proficiency with MS Office Suite (Word, Excel, PowerPoint, Outlook) Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-06-23T15:29:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61747",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   },
   {
     "company": "ZS",
@@ -581,25 +595,11 @@
     "qualifications": "h",
     "location": "Bengaluru",
     "posting_date": "2026-06-19T08:28:00+0000Updated at :2026-06-25T07:14:31+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/42104",
-    "loaded_at": "2026-06-29 19:22:50"
-  },
-  {
-    "company": "ZS",
-    "role": "Engineering Specialist _ R&D Content Authoring",
-    "description": "description",
-    "responsibilities": "Architecture & Engineering Specialist \u2013 ML Engineering ZS\u2019s India Capability & Expertise Center (CEC) houses more than 60% of ZS people across three offices in New Delhi, Pune and Bengaluru. Our teams work with colleagues across North America, Europe and East Asia to create and deliver real world solutions to the clients who drive our business. The CEC maintains standards of analytical, operational and technological excellence across our capability groups. Together, our collective knowledge enables each ZS team to deliver superior results to our clients. ZS's Scaled AI\u202fpractice\u202fis part of ZS's rich and advanced AI ecosystem, in the Architecture & Engineering Expertise Center, focused on creating\u202fcontinuous business value for\u202fclients\u202fusing\u202fa range of innovative machine learning,\u202fdeep learning, and engineering capabilities.\u202f\u202f Being part of Scaled AI practice allows you to collaborate with data scientists to create state-of-the-art AI models, create and use cutting-edge ML platforms, create and deploy advanced ML pipelines and manage the complete ML lifecycle. What You\u2019ll Do Design, architect, and implement complex technical features, applying best practices across the chosen technology stack and ensuring scalability, reliability, and maintainability. Collaborate closely with client\u2011facing and cross\u2011functional teams to understand business context, contribute to requirements gathering, and translate solution needs into actionable technical designs. Partner with technical architects to validate design decisions, review alternatives, and jointly define implementation approaches for high\u2011impact components. Write high\u2011quality, production\u2011ready code that is modular, testable, maintainable, and resilient to edge cases and failure scenarios. Ensure delivery excellence by adhering to architecture guidelines, coding standards, and contributing actively to design and code reviews. Develop unit tests and higher\u2011level automated tests to ensure coverage of both expected and edge scenarios, improving overall solution reliability. Use engineering tools effectively \u2014 version control, code review platforms, issue tracking systems, observability/monitoring tools \u2014 to plan, organize, and deliver work. Participate in Agile ceremonies (scrum calls, sprint planning, retrospectives) and provide structured updates, blockers, and risk signals in a timely manner. Drive technical exploration by rapidly evaluating emerging technologies, conducting proofs\u2011of\u2011concept, and presenting insights and recommendations to the broader team. Support the technical architect in shaping module\u2011level and component\u2011level architecture, ensuring alignment with the broader product or project blueprint. Break down complex, multi\u2011step features into clear, estimable tasks, lead the estimation process, and effectively communicate rationale to internal teams and clients. Independently lead implementation of complex or cross\u2011cutting features that span multiple services, components, or application layers. Troubleshoot and systematically debug issues using logs, alerts, monitoring dashboards, and diagnostic tools to drive quick and root\u2011cause\u2011level resolution. Perform peer code reviews, including reviewing work from senior engineers, ensuring quality, consistency, and adherence to engineering standards. Mentor, coach, and develop technical talent within the team, providing guidance on best practices, design patterns, and coding workflows. Author and maintain product, asset, and technical documentation\u2014particularly for content/authoring workflows within the R&D domain\u2014ensuring clarity, consistency, and knowledge continuity What You\u2019ll Bring 5+ years of hands\u2011on experience in deploying, productionizing, and scaling ML or GenAI applications in real\u2011world environments. Deep expertise in ML Engineering platforms such as SageMaker, MLflow, Kubeflow, or equivalent orchestration frameworks. Strong command of distributed data technologies: Hive, Spark, Hadoop, and messaging/streaming systems such as Kafka, RabbitMQ, or AWS Kinesis. Ability to quickly learn new technologies, run independent POCs, and document insights in a structured, consumable format. Strong proficiency in at least one programming language: Python, PySpark, Java, or Scala, combined with a solid foundation in data structures and algorithmic thinking. Hands\u2011on experience creating metadata\u2011driven, reusable patterns for data ingestion, orchestration, and pipeline automation (batch + real\u2011time). Experience designing and implementing solutions on distributed/cloud platforms: AWS, Azure, GCP. Practical exposure to CI/CD pipelines, DevOps practices, and application monitoring/observability tools Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Pune",
-    "posting_date": "2026-06-17T05:28:00+0000Updated at :2026-06-25T07:14:25+0000",
-    "posted_at": "2026-06-29 13:52:50",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/31476",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   },
   {
     "company": "ZS",
@@ -609,11 +609,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-06-16T10:26:00+0000Updated at :2026-06-25T07:14:28+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33507",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   },
   {
     "company": "ZS",
@@ -623,10 +623,10 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-06-16T09:14:00+0000Updated at :2026-06-29T07:40:38+0000",
-    "posted_at": "2026-06-29 13:52:50",
+    "posted_at": "2026-06-30 08:18:31",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24123",
-    "loaded_at": "2026-06-29 19:22:50"
+    "loaded_at": "2026-06-30 13:48:31"
   }
 ]
