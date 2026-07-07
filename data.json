@@ -1,6 +1,62 @@
 [
   {
     "company": "JPMC",
+    "role": "Wholesale Client Profitability - Associate",
+    "description": "Build your career in Client Profitability while working in the world\u2019s most innovative bank which values creativity and excellence.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-07",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762801",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Product Manager",
+    "description": "Vice President Digital Channels Secure Web Platform Product Manager",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-07",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754454",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - UI - React , Typescript",
+    "description": "UI/UX lead across multiple technical areas as an integral part of a global agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-07-07",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724160",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II - Java Full Stack Developer + AWS + AI",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-07",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762793",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Senior Associate \u2014 Data Scientist, Applied AI/ML",
     "description": "Build AI/ML models, solutions & GenAI agents to enhance Control Management.",
     "responsibilities": null,
@@ -15,16 +71,30 @@
   },
   {
     "company": "JPMC",
-    "role": "Senior Product Associate - Client Onboarding",
-    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
+    "role": "Credit Risk Analyst \u2013 Middle Market Corporates",
+    "description": "\nDrive credit decisions by analyzing corporate clients, managing portfolios, and partnering with stakeholders on complex problems.\n\n",
     "responsibilities": null,
     "qualifications": null,
     "location": "Bengaluru, Karnataka, India",
     "posting_date": "2026-07-06",
     "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750862",
+    "job_family": "Analysts",
+    "job_function": "Program Analysts & Associate",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766032",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Cloud Platform Engineer",
+    "description": "Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-06",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685393",
     "loaded_at": null
   },
   {
@@ -85,20 +155,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer III - Java AWS Kafka",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-06",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754239",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Manager of Software Engineering - .Net, C#",
     "description": "Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration",
     "responsibilities": null,
@@ -113,16 +169,16 @@
   },
   {
     "company": "JPMC",
-    "role": "Software Engineer II - Techno Functional Quality Engineer",
-    "description": "We are looking for a hands on techno functional quality engineer capable supporting critical multi-year initiatives. ",
+    "role": "Lead Software Engineer - Java, AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
     "responsibilities": null,
     "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
+    "location": "Bengaluru, Karnataka, India",
     "posting_date": "2026-07-06",
     "posted_at": null,
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765981",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766514",
     "loaded_at": null
   },
   {
@@ -179,20 +235,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725944",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Big Data",
-    "description": "We are looking for a Data Integration Professional to support all aspects of data integration design, build and transformation",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-07-03",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741829",
     "loaded_at": null
   },
   {
@@ -407,20 +449,6 @@
   },
   {
     "company": "JPMC",
-    "role": "Senior Lead Software Engineer - Python, AWS",
-    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-01",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730921",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
     "role": "Lead Software Engineer -SRE (Grafana, Dynatrace, SLO/SLI)",
     "description": "Lead and conduct resiliency design reviews, break up complex problems, and act as a technical lead for medium to large sized products",
     "responsibilities": null,
@@ -462,46 +490,60 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Apache Spark, AWS",
-    "description": "Lead Software Engineer in Corporate Technologies at J.P.Morgan & Chase",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-01",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744296",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Manager of Software Engineering-Java, Flink,Kafka",
-    "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-01",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744839",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Business Technology Solutions Associate Consultant- Anaplan",
+    "description": "description",
+    "responsibilities": "What you\u2019ll do: Collaborate with ZS internal teams and client teams to shape and implement high quality technology solutions that address critical business problems Develop a deep understanding of the business problems and effectively translate them into technical designs Lead modules and workstreams within projects while participating in hands on implementation Work with technical architects to validate the technical design and implementation approach Apply appropriate development methodologies and best practices to ensure exceptional client and project team experience Support the project lead in project delivery, including project planning, people management, staffing, and risk mitigation Manage a diverse team with various skill sets while providing mentorship and coaching to junior members Lead task planning and distribution among team members for timely completion of projects with high-quality results Guide the project deliverables such as business case development, solution vision and design, user requirements, prototypes, technical architecture, test cases, deployment plans and operations strategy ",
+    "qualifications": "What you\u2019ll bring: Undertake primary ownership in driving self and team effort across all phases of a project lifecycle Translate business requirements into technical designs and drive team efforts to design, build, and manage Anaplan-based Sales Performance Management (SPM) solutions that solve complex business problems Lead requirements gathering workshops and collaborate with business stakeholders to understand planning, sales operations, incentive compensation, territory, and quota management requirements Design and implement scalable Anaplan solutions supporting Territory Planning, Quota Planning, Incentive Compensation Management, Sales Forecasting, Workforce Planning, and Sales Planning processes Own solution architecture, including model design, dimensional design, security framework, integration architecture, deployment strategy, and governance processes Apply appropriate development methodologies (Agile, Waterfall, Hybrid) and implementation best practices to ensure successful and timely completion of projects Partner with Project Leads and Program Leads in delivering projects and assist with project management responsibilities including project planning, staffing, risk mitigation, and stakeholder communication Lead and mentor a team of 3\u20135 Anaplan developers/model builders, providing technical guidance, design reviews, implementation oversight, and quality assurance Collaborate with global teams and stakeholders to ensure seamless communication, delivery execution, and knowledge sharing Lead task planning and task distribution across team members and ensure timely completion of deliverables with high quality standards Lead project deliverables including solution vision and design, business requirements, user stories, model architecture, integration design, testing strategy, deployment planning, and operational readiness Manage direct and indirect client communications and act as a trusted advisor during solution design and implementation activities Design and implement integrations between Anaplan and enterprise systems such as Salesforce, SAP, Snowflake, Databricks, Azure, AWS, and other enterprise platforms Drive testing activities across SIT, UAT, deployment, and hypercare phases, ensuring alignment between business requirements and delivered functionality Review and optimize Anaplan models for scalability, maintainability, performance, and governance compliance Support business development activities including solution demonstrations, effort estimation, proposal development, staffing strategy, and capability-building initiatives Exhibit continuous improvement and innovation by adopting new technologies, implementation methodologies, and planning frameworks while helping team members do the same Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Qualification & Experience Bachelor\u2019s/Master\u2019s degree with specialization in Computer Science, MIS, IT, Engineering, Business Analytics, Operations Research, or other related disciplines 4\u20136 years of relevant consulting-industry experience working on medium to large-scale technology solution delivery engagements Master Anaplanner certification is mandatory At least 3 years of hands-on experience implementing Anaplan solutions across Sales Performance Management (SPM), Territory Planning, Quota Planning, Incentive Compensation, Sales Forecasting, Workforce Planning, or related planning use cases Experience leading requirements gathering workshops and translating business requirements into scalable solution designs Strong understanding of solution architecture, model design patterns, integration architecture, security design, and enterprise planning frameworks Demonstrated experience leading teams of 3\u20135 developers/model builders across multiple workstreams and managing delivery quality, timelines, and stakeholder expectations Experience designing and implementing enterprise-scale Anaplan models, including model architecture, dimensional design, ALM, security, and performance optimization Experience building and managing Data Hub architectures and enterprise planning ecosystems Experience integrating Anaplan with Salesforce, SAP, Snowflake, Databricks, Azure, AWS, or similar enterprise platforms Strong understanding of sales planning processes, territory design methodologies, quota allocation processes, incentive compensation management, and forecasting best practices Experience leading implementation, SIT, UAT, deployment, training, and client enablement activities Experience creating solution blueprints, technical specifications, test strategies, deployment plans, and operational support models Prior consulting experience working directly with client stakeholders and business leadership teams Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
+    "location": "Pune",
+    "posting_date": "2026-07-07T05:51:00+0000Updated at :2026-07-07T06:30:38+0000",
+    "posted_at": "2026-07-07 08:01:46",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/62034",
+    "loaded_at": "2026-07-07 13:31:46"
   },
   {
     "company": "ZS",
-    "role": "Business Technology Solutions Associate Consultant",
+    "role": "Business Technology Solutions Associate- Anaplan",
     "description": "description",
-    "responsibilities": "What you\u2019ll do: Undertake primary ownership in driving self and team effort across all phases of a project lifecycle; Translate business requirements into technical terms and drive team effort to design, build and manage technology solutions that solve business problems; Apply appropriate development methodologies (e.g.: agile, waterfall) and best practices (e.g.: mid-development client reviews, embedded QA procedures, unit testing) to ensure successful and timely completion; Partner with Project lead/ Program lead in delivering projects and assist in project management responsibility like - project plans, people management, staffing and risk mitigation; Collaborate with other team members across the globe and ensure seamless communication and sharing/ undertaking tasks; Manage team of diverse skill sets (programmer, cloud analyst, BI developer, reporting, operations, etc.); Mentor/coach the junior members in the team; Lead task planning and task distribution across team members and ensure timely completion with high quality and report accurate status to seniors; Lead the project deliverables such as business case development, solution vision and design, user requirements, solution mockup, prototypes, and technical architecture, test cases, deployment plans, operations strategy and planning, etc.; Manage direct / indirect client communications as per the assigned responsibility in the project; Exhibit outlook to bring continuous improvement, innovation and exhibit capability to learn new areas (technology, business domain, project management process) and drive the similar effort of team members: Understand the problem statement, client requirements and design and build complex solutions using Programing languages, ETL platform, etc.; Ability to take right and timely decision on problem solving by considering broader picture, especially on approach, technical nuances and planning. Experience & Qualifications: Bachelor's/Master's degree with specialization in Computer Science, MIS, IT or other computer related disciplines; 4-6 years of relevant consulting-industry experience working on medium-large scale technology solution delivery engagements: Big Data Technologies: Proficiency in working with big data technologies, particularly in the context of Databricks, which may include Apache Spark for distributed data processing. Databricks: In-depth knowledge of Databricks for data engineering tasks, including data transformations, ETL processes, and job scheduling. SQL and Query Optimization: Strong SQL skills for data manipulation and retrieval, along with the ability to optimize queries for performance in Snowflake. ETL (Extract, Transform, Load): Expertise in designing and implementing ETL processes to move and transform data between systems, utilizing tools and frameworks available in Databricks. Data Integration: Experience with integrating diverse data sources into a cohesive and usable format, ensuring data quality and integrity. Python/PySpark: Knowledge of programming languages like Python and PySpark for scripting and extending the functionality of Databricks notebooks. Version Control: Familiarity with version control systems, such as Git, for managing code and configurations in a collaborative environment. Monitoring and Optimization: Ability to monitor data pipelines, identify bottlenecks, and optimize performance for both Snowflake and Databricks. Security and Compliance: Understanding of security best practices and compliance considerations when working with sensitive data in AWS and Snowflake environments. Snowflake Data Warehouse: Experience in designing, implementing, and optimizing data warehouses using Snowflake, including schema design, performance tuning, and query optimization. Data Modeling: Proficient in data modeling concepts and practices, especially in the context of designing and maintaining data structures in Snowflake. Additional Skills Deep understanding of data management best practices and data analytics; Up to speed with latest technologies related (but not limited to) to cloud platform services, visualization, data management; Excellent verbal and written communication, with appropriate and logical structuring of thoughts process during discussion/ presentation; Lead project teams in driving end to end activities to meet set milestones and provide necessary mentorship/ guidance for the team growth; Ability to distill complex concepts into easy-to-understand frameworks and presentations; Strong verbal and written communication skills with ability to articulate results and issues to internal and client teams; Ability to work within a virtual global team environment and contribute to the overall timely delivery of multiple projects; Willingness to travel to other global offices as needed to work with client or other internal project teams",
-    "qualifications": ".",
+    "responsibilities": "Business Technology ZS\u2019s Technology group focuses on scalable strategies, assets and accelerators that deliver to our clients enterprise-wide transformation via cutting-edge technology. We leverage digital and technology solutions to optimize business processes, enhance decision-making, and drive innovation. Our services include, but are not limited to, Digital and Technology advisory, Product and Platform development and Data, Analytics and AI implementation. What you\u2019ll do: Undertake primary ownership in driving self-effort across all phases of a project lifecycle Translate business requirements into technical specifications and support the design, build, and maintenance of Anaplan-based planning solutions Apply appropriate development methodologies (e.g.: Agile, Waterfall) and best practices to ensure successful and timely project delivery Collaborate with Project Leads, Solution Architects, and team members to support project execution, testing, deployment, and operational activities Work closely with global delivery teams and stakeholders to ensure seamless communication and execution of assigned tasks Configure and develop Anaplan models, modules, lists, hierarchies, dashboards, UX pages, workflows, and business rules Support development of Territory Planning, Quota Planning, Incentive Compensation, Sales Planning, Forecasting, and Workforce Planning solutions Create and maintain project deliverables such as user stories, design documents, test cases, deployment documentation, training materials, and operational support documents Participate in SIT, UAT, deployment, and post-production support activities Support client meetings, requirement discussions, solution walkthroughs, and status reporting activities Exhibit continuous learning and innovation while building expertise across Anaplan platform capabilities and planning processes Understand client requirements and develop scalable Anaplan solutions based on approved designs and implementation standards Demonstrate strong analytical and problem-solving skills while supporting solution development and testing activities Additional Skills: Strong understanding of Anaplan platform capabilities including Model Building, UX, Data Hub, CloudWorks, ALM, and model optimization techniques Good understanding of Sales Performance Management (SPM), Territory Planning, Quota Planning, Incentive Compensation Management, and Sales Planning processes Excellent verbal and written communication skills with appropriate and logical structuring of thought process during discussions and presentations Strong analytical and problem-solving skills with attention to detail and quality Ability to work independently and collaboratively within a global team environment Ability to distill complex business requirements into scalable technical solutions Strong stakeholder engagement skills and ability to communicate effectively with both business and technical teams Willingness to travel to other global offices as needed to work with clients or other internal project teams What You'll Bring Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
     "location": "Pune",
-    "posting_date": "2026-07-06T09:50:00+0000Updated at :2026-07-06T10:25:26+0000",
-    "posted_at": "2026-07-06 13:07:37",
+    "posting_date": "2026-07-07T05:50:00+0000Updated at :2026-07-07T06:30:38+0000",
+    "posted_at": "2026-07-07 08:01:46",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/21336",
-    "loaded_at": "2026-07-06 18:37:37"
+    "apply_link": "https://jobs.zs.com/all/jobs/62030",
+    "loaded_at": "2026-07-07 13:31:46"
+  },
+  {
+    "company": "ZS",
+    "role": "Director - R&D Technologist",
+    "description": "description",
+    "responsibilities": "About the Expertise Centre \u2013 R&D Technologist The R&D Technologist Expertise Centre within ZS\u2019s Drug Development practice partners with biopharma organizations to design and deliver innovative clinical data solutions that accelerate drug development and reduce risk from portfolio to patient. The team operates at the intersection of key ZS drug development verticals\u2014including asset strategy, clinical trial design, clinical data management, statistical programming, regulatory, and risk-based quality. By combining deep clinical domain expertise, data standards, clinical programming, systems understanding, and consulting discipline, the team solves complex R&D challenges with speed, scale, and measurable impact. Director Expertise Center R&D Technologist \u2013 Clinical data solutions The Director \u2013 R&D Technologist (Clinical Data Solutions) provides strategic and scientific leadership across clinical data management, analytics, biostatistics, statistical programming, and clinical data standards. This role is central to the R&D Technologist Expertise Centre and focuses on designing and delivering innovative clinical data solutions across the drug development lifecycle\u2014with a strong emphasis on clinical data standards, transformation, and analytics-driven decision-making. You will combine deep technical expertise, consulting leadership, and practice-building capabilities to serve as a trusted advisor to senior stakeholders, driving next-generation clinical data and analytics solutions that improve development outcomes and accelerate regulatory submissions What You\u2019ll Do: Strategic & Client Leadership Provide strategic leadership across clinical data management, biometrics, and advanced analytics for end-to-end drug development programs Serve as ZS\u2019s go-to leader for clinical data solutions, bringing a strong techno-functional perspective across clinical data flow and systems Lead complex client engagements spanning clinical data strategy, analytics enablement, and digital R&D transformation Facilitate senior-level workshops to align stakeholders on study design, data standards, analytics approaches, and operating models Clinical Data & Standards Leadership Bring deep expertise in clinical data standards (e.g., CDISC \u2013 CDASH, SDTM, ADaM, TLF) Define innovative approaches to clinical data collection, transformation, and analytics Integrate clinical programming, analytics, and data science into trial design, execution, and regulatory workflows Drive adoption of standardized, scalable, and future-ready clinical data models Technology & Innovation Apply a techno-functional lens across clinical systems, data platforms, and enterprise architectures Leverage AI/ML and GenAI approaches to transform clinical data processing and analytics Define future-state operating models and digital ecosystems for clinical data and analytics Delivery Excellence & Governance Oversee quality, scientific rigor, and compliance of deliverables, including analytics, data models, and regulatory outputs Ensure alignment with GxP standards, regulatory expectations, and industry best practices Act as a bridge between scientific, business, and engineering teams Team & Practice Building Lead and grow a high-performing clinical data and analytics team Mentor senior talent and establish standards for delivery excellence Contribute to capability building, accelerators, and new offerings within the Expertise Centre Support business development through solutioning, client pursuits, and long-term relationship building ",
+    "qualifications": "What you\u2019ll bring: Experience & Domain Expertise 18+ years of experience in Life Sciences R&D, with strong expertise in clinical data management, biometrics, and analytics Deep understanding of the end-to-end drug development lifecycle Strong domain knowledge of clinical data, analytics, and digital R&D transformation Clinical Systems & Platforms Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Strong expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Working knowledge of R, Python, and SAS for clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutions in clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture design Leadership & Consulting Skills Strong communication and stakeholder management skills with ability to influence senior leaders Proven experience in GxP-compliant, large-scale enterprise programs Ability to lead global, cross-functional, and multi-vendor teams Strong leadership, mentoring, and team-building capabilities Solid understanding of agile, product-led, and digital transformation delivery models",
+    "location": "Pune",
+    "posting_date": "2026-07-06T13:30:00+0000Updated at :2026-07-06T14:25:35+0000",
+    "posted_at": "2026-07-07 08:01:46",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/32711",
+    "loaded_at": "2026-07-07 13:31:46"
+  },
+  {
+    "company": "ZS",
+    "role": "Technical Manager - Biometrics and Clinical Data",
+    "description": "description",
+    "responsibilities": "ZS is seeking a Tech Project Delivery Manager to lead a high-velocity team focused on the future of Biometrics and Clinical Data. We are looking for a delivery leader who excels at navigating the \u201chow\u201d of technical execution without losing sight of the \u201cwhy\u201d in the clinical domain\u2014and who can operate with depth, speed, and accountability in a consulting environment. What You\u2019ll Do Lead Strategic Delivery: Own the end-to-end SDLC for high-impact R&D technology programs, with a focus on Biometrics, Clinical Data Repositories (CDR), and Statistical Computing Environments (SCE). Be accountable for delivery quality, timelines, and technical decision-making. Build and Run a Specialized Squad: Recruit, coach, and manage a high-performing team of technologists. Drive day-to-day execution, skill development, and delivery rigor across multiple concurrent workstreams. Bridge Strategy & Tech: Act as a hands-on liaison between senior stakeholders and engineering teams\u2014translating clinical and business needs into executable roadmaps, detailed plans, and well-scoped technical solutions. Global Orchestration: Lead offshore-first delivery in a fast-paced, global model. Own execution cadence, risk management, and escalation, while ensuring compliance with GxP and client quality standards. Client Influence: Serve as a trusted delivery partner to clients\u2014guiding them on clinical data strategy, platform modernization, and the technical implementation of future-ready biometrics solutions. What You\u2019ll Bring Education: Bachelor\u2019s or master\u2019s degree in Computer Science, MIS, Business Administration, or a related discipline. Proven Delivery Leadership: 10+ years of experience leading technology programs in a consulting environment, including direct ownership of scope, staffing, timelines, and delivery outcomes. SDLC & Execution Depth: 8+ years leading teams through full SDLC, with demonstrated ability to manage delivery risk, architectural trade-offs, and evolving requirements. R&D Literacy: 8+ years in Life Sciences R&D, with strong working knowledge of: Clinical Data Standards: CDASH, SDTM, ADaM, OMOP, FHIR, HL7 Patient Data Systems: EDC, ePRO, Labs, CDMS Biometrics Platforms: Hands-on experience delivering CDR and/or SCE solutions Executive Presence: Strong communication and influence skills, with the ability to engage deeply with technical teams while credibly presenting to senior client and internal leadership. How You\u2019ll Grow Custom Learning Pathways: Structured development to deepen both leadership capabilities and advanced R&D technology expertise. Career S-Curves: Multiple growth paths across people leadership, complex program ownership, and cross-functional roles. Global Impact: Shape how leading life sciences organizations modernize biometrics and clinical data at scale",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-07-06T13:30:00+0000Updated at :2026-07-06T14:25:35+0000",
+    "posted_at": "2026-07-07 08:01:46",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/32591",
+    "loaded_at": "2026-07-07 13:31:46"
   },
   {
     "company": "ZS",
@@ -511,11 +553,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-07-02T14:30:00+0000Updated at :2026-07-02T16:00:41+0000",
-    "posted_at": "2026-07-06 13:07:37",
+    "posted_at": "2026-07-07 08:01:46",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31437",
-    "loaded_at": "2026-07-06 18:37:37"
+    "loaded_at": "2026-07-07 13:31:46"
   },
   {
     "company": "ZS",
@@ -525,11 +567,11 @@
     "qualifications": "What you\u2019ll bring: 1+ years\u2019 experience working as a Site Reliability Engineer or an equivalent position 1+ years\u2019 experience with AWS cloud technologies and at least one AWS certifications is required (Solution Architect / DevOps Engineer) 1+ years\u2019 experience functioning as a senior member in an infrastructure/software team Hands-on experience with AWS services like CodeBuild, Config, Systems Manager, ServiceCatalog, Lambda, etc. Full-stack IT experience with *nix, Windows, network/firewall concepts, source control (BitBucket) and build/dependency management and continuous integration systems (TeamCity, Jenkins) Expertise in at least one scripting language, Python preferred Firm understanding of networking concepts and technologies Exposure to big data technologies (Spark, Hadoop, Scala, etc.) stack is preferred Good understanding of RDBMS and Cloud Database engines like PostgreSQL, MySQL etc. Basic understanding of Clusters, Load balancers and CDN Experience in fault-tolerant system design Familiarity with Splunk data analysis, Dynatrace APM, or similar tools is a plus A Bachelor\u2019s degree (Master\u2019s preferred) in a related technical field Excellent analytical, troubleshooting and communication skills Possess strong verbal, written and team presentation communication skills. ZS is a global firm; fluency in English is required This role requires healthy doses of initiative and the ability to remain flexible and responsive in a very dynamic environment Ability to quickly learn new platforms, languages, tools, and techniques as needed to meet project requirement Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-07-02T10:18:00+0000Updated at :2026-07-02T12:00:38+0000",
-    "posted_at": "2026-07-06 13:07:37",
+    "posted_at": "2026-07-07 08:01:46",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33113",
-    "loaded_at": "2026-07-06 18:37:37"
+    "loaded_at": "2026-07-07 13:31:46"
   },
   {
     "company": "ZS",
@@ -539,11 +581,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-02T08:04:00+0000Updated at :2026-07-02T10:00:32+0000",
-    "posted_at": "2026-07-06 13:07:37",
+    "posted_at": "2026-07-07 08:01:46",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33769",
-    "loaded_at": "2026-07-06 18:37:37"
+    "loaded_at": "2026-07-07 13:31:46"
   },
   {
     "company": "ZS",
@@ -552,12 +594,12 @@
     "responsibilities": "What you\u2019ll do: Lead end to end projects using cloud technologies to solve complex business problems Provide technology expertise to maximize value for clients and project teams Drive strong delivery methodology to ensure projects are delivered on time, within budget and to client\u2019s satisfaction Ensure technology solutions are scalable, resilient, and optimized for performance and cost Guide coach and mentor project team members for continuous learning and professional growth Demonstrate expertise, facilitation, and strong interpersonal skills in internal and client interactions Collaborate with ZS experts to drive innovation and minimize project risks Work globally with team members to ensure a smooth project delivery Bring structure to unstructured work for developing business cases with clients Assist ZS Leadership with business case development, innovation, thought leadership and team initiatives ",
     "qualifications": "What you\u2019ll bring: Candidates must either be in their junior year of a Bachelor's degree or in their first year of a Master's degree specializing in Business Analytics, Computer Science, MIS, MBA, or a related field with academic excellence 5+ years of consulting experience in leading large-scale technology implementations Strong communication skills to convey technical concepts to diverse audiences Significant supervisory, coaching, and hands on project management skills Extensive experience with major cloud platforms like AWS, Azure and GCP Deep knowledge of enterprise data management, advanced analytics, process automation, and application development Familiarity with industry- standard products and platforms such as Snowflake, Databricks, Redshift, Salesforce, Power BI, Cloud. Experience in delivering projects using agile methodologies Additional skills: Capable of managing a virtual global team for the timely delivery of multiple projects Experienced in analyzing and troubleshooting interactions between databases, operating systems, and applications Travel to global offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
-    "posting_date": "2026-06-30T11:11:00+0000Updated at :2026-06-30T11:49:33+0000",
-    "posted_at": "2026-07-06 13:07:37",
+    "posting_date": "2026-06-30T11:11:00+0000Updated at :2026-07-06T16:29:29+0000",
+    "posted_at": "2026-07-07 08:01:46",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24003",
-    "loaded_at": "2026-07-06 18:37:37"
+    "loaded_at": "2026-07-07 13:31:46"
   },
   {
     "company": "ZS",
@@ -567,11 +609,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence 3+ years of relevant professional experience in delivering small/medium-scale technology solutions Ability to lead project teams, drive end-to-end activities, meet milestones, and provide mentorship/guidance for the team growth Strong understanding of RDBMS concepts, SQL, data warehousing and reporting Experience with big data concepts, data management, data analytics and cloud platforms Proficiency in programming languages like Python Strong analytical and problem-solving skills, including expertise in algorithms and data structures Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
     "posting_date": "2026-06-30T11:10:00+0000Updated at :2026-06-30T11:49:33+0000",
-    "posted_at": "2026-07-06 13:07:37",
+    "posted_at": "2026-07-07 08:01:46",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24002",
-    "loaded_at": "2026-07-06 18:37:37"
+    "loaded_at": "2026-07-07 13:31:46"
   },
   {
     "company": "ZS",
@@ -581,52 +623,10 @@
     "qualifications": "What you\u2019ll bring: Comprehensive understanding of the ITIL framework, with hands-on application of Incident, Problem, and Change Management processes. Strong experience with SolarWinds, including infrastructure and network monitoring, alert configuration, and performance optimization. Hands-on with Splunk (SIEM) for advanced log analysis, alert correlation, and event investigation. Solid grasp of network fundamentals, including TCP/IP, routing, switching, DNS, and connectivity troubleshooting. Practical experience in Windows Server and Linux administration, including system monitoring and troubleshooting. Working knowledge of VMware ESXi and vCenter, with the ability to monitor and maintain virtualized environments. Familiarity with remote server management tools such as iDRAC for hardware diagnostics. Strong documentation and communication skills, with experience using ticketing and ITSM tools like ServiceNow or Jira. Ability to work effectively in a 24x7 support and shift-based operational environment. AWS Cloud monitoring and troubleshooting experience, preferred Exposure to CI/CD tools such as TeamCity for automation and reporting, preferred ITIL Foundation Certification, preferred Basic scripting knowledge (e.g., PowerCLI, PowerShell, or Python) for reporting and automation , preferred Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-06-30T10:07:00+0000Updated at :2026-06-30T11:49:33+0000",
-    "posted_at": "2026-07-06 13:07:37",
+    "posted_at": "2026-07-07 08:01:46",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24306",
-    "loaded_at": "2026-07-06 18:37:37"
-  },
-  {
-    "company": "ZS",
-    "role": "Administrative Coordinator",
-    "description": "description",
-    "responsibilities": "What you'll do: Administrative Coordinator is responsible for providing comprehensive administrative support to Principals and Managers, ensuring the smooth functioning of day-to-day tasks. The role involves managing calendars, travel, meetings, office coordination, and supporting employees with administrative queries, while working independently with minimal supervision. Manage and maintain schedules for Principal and Manager. Make travel arrangements, including booking flights, cars, and boarding and lodging. Provide real-time scheduling support, including booking appointments and managing conflicts. Handle general office tasks and day-to-day administrative activities. Manage expense filing and related documentation. Coordinate inter-office requirements across India and global offices. Oversee time entry management for Principals and Managers. Assist employees with administrative queries and direct them to the appropriate point of contact. Organize team dine-in / dine-out arrangements. Manage meeting room reservations. Prepare agendas and plan for client and other internal meetings. Compile, transcribe, and distribute minutes of meetings. Set up and oversee administrative policies and procedures for the office and/or organization. Interpret and implement administrative and operating policies and procedures. Arrange mementos / gifts for clients. Coordinate internal / external conferences / meetings at hotels or other venues. Coach junior team members and guide them in their day-to-day work. Manage logistics for office-level events and leadership visits ",
-    "qualifications": "What you\u2019ll bring: Graduate in any discipline or Diploma in Business Administration . At least 4\u20135 years of administrative experience. Computer literate, with proficiency in Microsoft Outlook (calendar), Word, Excel, and PowerPoint. Possesses a pleasant disposition and professional mannerism. Good spoken and written English. Able to work independently with minimum supervision Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
-    "location": "Bengaluru",
-    "posting_date": "2026-06-30T08:48:00+0000Updated at :2026-06-30T09:49:29+0000",
-    "posted_at": "2026-07-06 13:07:37",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/33114",
-    "loaded_at": "2026-07-06 18:37:37"
-  },
-  {
-    "company": "ZS",
-    "role": "Senior Cloud Administrator",
-    "description": "description",
-    "responsibilities": "Senior Cloud Administrator We seek an experienced, professional Sr. Cloud Administrator to join our Pune, India office. This role is responsible for deploying and administering a cloud-based computing platform within ZS. What You\u2019ll Do: As an Sr. Cloud Administrator in the Enterprise you will - Manage end-to-end Salesforce deployments across Dev, QA, UAT, Pre-Prod, and Production environments. Design and maintain CI/CD pipelines using SFDX CLI with Jenkins, Azure DevOps, and GitHub Actions. Work with Salesforce deployment tools such as Copado and Gearset. Manage release planning, deployment execution, release notes, approvals, and post-release validation. Define and support branching strategies including feature, release, hotfix, and main branches. Implement quality gates such as validation deployments, Apex test execution, code coverage checks, and static code analysis. Support rollback planning, deployment recovery, and production issue resolution. Manage back sync activities to ensure production changes are aligned with lower environments and source branches. Support Salesforce backup and recovery processes before major releases. Plan and execute sandbox refreshes and post-refresh activities. Support sandbox seeding and test data preparation for QA and UAT. Ensure data masking and data privacy controls are applied in lower environments. Maintain metadata consistency across Salesforce environments. Support multi-country Salesforce implementations with country-specific configurations and release dependencies. Ensure security and compliance considerations are followed during deployments. Maintain DevOps documentation, release checklists, rollback plans, and environment governance standards. Required Skills 3\u20136 years of Salesforce experience with strong focus on DevOps and Release Management. Hands-on experience with SFDX CLI and Metadata-based Salesforce deployments. Experience with Jenkins, Azure DevOps, and GitHub Actions. Experience with Copado and/or Gearset. Strong understanding of Git version control and branching strategy. Good knowledge of Salesforce Admin concepts including profiles, permission sets, roles, sharing rules, objects, fields, flows, and validation rules. Experience managing Salesforce releases across multiple environments. Experience with rollback, back sync, backup, sandbox refresh, sandbox seeding, and data masking. Understanding of Salesforce security model and deployment governance. Experience with Sales Cloud, Service Cloud, and Experience Cloud. Experience working on multi-country Salesforce implementations. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Pune",
-    "posting_date": "2026-06-30T05:55:00+0000Updated at :2026-06-30T07:45:41+0000",
-    "posted_at": "2026-07-06 13:07:37",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/61873",
-    "loaded_at": "2026-07-06 18:37:37"
-  },
-  {
-    "company": "ZS",
-    "role": "Senior Associate - Brand & Reputation | ZS Impact Institute",
-    "description": "description",
-    "responsibilities": "What you'll do: Senior Corporate Communications & Brand Associate in the Enterprise will be a dynamic B2B marketer with 3-5 years of experience to join our Marketing and Communications team. As the Senior Associate for the ZS Impact Institute you will collaborate closely with the Senior Lead, Institute Program Director and Senior Content Lead as well as other team members across marketing & communications functions to create and executive effective marketing programs that build reputation, credibility, and sustained engagement with senior executive audiences for ZS\u2019s Institute program. Work cross-functionally with marketing & communications colleagues to execute high-quality marketing activities (email, social, etc.) that build reputation, credibility, and sustained engagement with senior executive audiences. Collaborate with internal comms team and leverage internal channels to increase awareness of Institute reports and activities. Create and manage ticketing system for new marketing projects. Develop a deep understanding of our industries and competitive landscape Support marketing efforts for related Institute events, webinars and podcasts Review, analyze, interpret data to create reporting decks to evaluate the impact of marketing activities at both the strategy and campaign levels to understand activity and ROI generated. Contribute to the creation of campaign plans and the development of assets, personas, and customer journeys for Institute research. Perform market research and competitive analysis to support the marketing strategy. ",
-    "qualifications": "What you\u2019ll bring: BA or BS required. 3-6 years of marketing experience, preferably in professional services or B2B marketing. Experience working in entrepreneurial-driven, matrixed organizations. Strong project management skills with a demonstrated ability to manage multi-disciplinary projects that drive consistent and measurable results. Excellent written and verbal communication skills. Creative thinker with the ability to come up with innovative solutions. Experience working with data tools, AI tools, ChatGPT, design and web tools like Canva and Folloze is a plus. Flexibility to work evening hours and effectively leverage time with global colleagues to maximize individual work impact. Must be a self-starter who can learn quickly and independently. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
-    "location": "Gurugram",
-    "posting_date": "2026-06-29T11:23:00+0000Updated at :2026-06-29T11:40:41+0000",
-    "posted_at": "2026-07-06 13:07:37",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/61831",
-    "loaded_at": "2026-07-06 18:37:37"
+    "loaded_at": "2026-07-07 13:31:46"
   }
 ]
