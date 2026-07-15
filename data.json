@@ -1,6 +1,20 @@
 [
   {
     "company": "JPMC",
+    "role": "Controls Program Manager - Associate",
+    "description": "Ensure accurate recording, reconciliation, and reporting of operational risk event losses \n\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-07-15",
+    "posted_at": null,
+    "job_family": "Program Management",
+    "job_function": "Oversight & Control",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757919",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer III - Full Stack",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -81,6 +95,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756626",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Java & ReactJS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-15",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761039",
     "loaded_at": null
   },
   {
@@ -462,32 +490,32 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java & Kafka Developer",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-13",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749206",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Senior Cloud Administrator",
+    "description": "description",
+    "responsibilities": "What You\u2019ll Do\u202f\u202f Manage end-to-end Salesforce deployments across development, QA, staging, and production environments in Agile/Scrum settings. Implement and maintain CI/CD pipelines using tools like Jenkins, Bitbucket, and Git and TeamCity. Utilize Salesforce DX (SFDX) CLI for source-driven development and metadata deployments. Manage version control, branching strategies, and release cycles. Handle sandbox provisioning, data seeding, and environment refreshes. Define and implement DevOps processes and automation for improved deployment efficiency and quality. Collaborate with developers, admins, testers, and release managers to ensure deployment readiness. Maintain and manage backup strategies and rollback plans for Salesforce metadata and data. Provide technical expertise in resolving deployment-related issues, and work with stakeholders to drive root cause analysis. Ensure compliance with Salesforce security and governance standards. Troubleshooting the application from Salesforce Admin. What You\u2019ll Bring\u202f\u202f 3 to 6 years of hands-on experience with Salesforce Administration & DevOps, including release management, CI/CD, and environment management. Strong understanding of SFDX CLI and source/metadata formats. Working Experience with CI/CD tools like Copado, Jenkins, Bitbucket, Git. Strong understanding of branching and deployment strategies (feature branching, Git Flow, etc.). Understanding of DevSecOps \u2013 Static Application Security Testing (SonarQube or similar tool) Salesforce Sandbox Management, including seeding and refresh strategy. Salesforce Security model understanding profiles, permission sets, OWD, role hierarchy, and sharing settings. com Certification (Administrator, Platform App Builder or Platform Developer I minimum). Experience with declarative tools development: Flows, Reports & Dashboards. Understanding of Apex, Visualforce, LWC, and JavaScript within the Salesforce platform. Excellent communication and collaboration skills with cross-functional teams. Strong troubleshooting and analytical skills Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Good-to-Have Skills: Min 1 year Health Cloud Experience Experience with Salesforce backup solutions (OwnBackup, Spanning, etc.). Scripting languages like PowerShell, Python, or Bash for automation. Experience in monitoring and alerting tools for Salesforce environments. Platform Developer II or Architect certifications. Experience with third-party Salesforce DevOps tools. Knowledge of Salesforce limits and best practices to optimize performance on a scale. Experience working with external systems via APIs and Salesforce integrations. Exposure to Agile/Scrum ceremonies and tools (JIRA, Confluence)",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-07-15T09:14:00+0000Updated at :2026-07-15T09:20:41+0000",
+    "posted_at": "2026-07-15 09:32:08",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/31397",
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
-    "company": "JPMC",
-    "role": "Alternative Fund Services - Private Equity - Team Leader - Bangalore",
-    "description": "Build your career in Hedge Fund & Private Equity operations components while working in the world's most innovative bank.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-10",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764943",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Decision Analytics Consultant - Value & Access (Market Access)",
+    "description": "description",
+    "responsibilities": "Insights & Analytics ZS's Insights & Analytics group partners with clients to design and deliver solutions to help them tackle a broad range of business challenges. Our teams work on multiple projects simultaneously, leveraging advanced data analytics and problem-solving techniques. Our recommendations and solutions are based on rigorous research and analysis underpinned by deep expertise and thought leadership.\u202f\u202f\u202f What You\u2019ll Do Design and execute market access projects, including payer landscape assessments, formulary access analyses, deep dives into access barriers, contracting scenario modeling, and contract operations etc. Analyze and interpret quantitative/ qualitative research data to provide clear, actionable insights. Collaborate with internal leadership and client teams to define project objectives, deliverables, and timelines. Present analytical findings and recommendations through compelling slide decks and/or excel workbooks to effectively communicate insights and support stakeholder decision\u2011making. Manage overall project, stakeholder and clients, day-to-days tasks and lead a team of Associates and Associate Consultants. Act as a Market Access subject matter expert, guiding and onboarding Associates and Associate Consultants. Work closely with cross-functional teams across geographies on a day-to-day basis and on multiple projects simultaneously. What You\u2019ll Bring A bachelor\u2019s or master\u2019s degree in engineering (any discipline) with strong academic performance, particularly in analytics and quantitative coursework 5 \u2013 7 years of relevant job experience. An MBA/PhD may substitute in lieu of work experience Good to have a deep understanding of the U.S. healthcare system, including payer mix (commercial, Medicaid, Medicare) and market access levers (rebates, contracting) Hands\u2011on experience with claims and formulary databases Strong analytical mindset with meticulous attention to detail Advanced skills in MS Excel, SQL, MS PowerPoint for report creation, familiarity with Power BI, Tableau and Python/R is a plus Structured communication skills, with the ability to present complex information in a clear and concise manner to clients Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
+    "location": "Gurugram",
+    "posting_date": "2026-07-15T07:46:00+0000Updated at :2026-07-15T09:20:41+0000",
+    "posted_at": "2026-07-15 09:32:08",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/33799",
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
     "company": "ZS",
@@ -497,11 +525,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Business Analytics, Computer Science, MIS or related field with academic excellence Proficiency in RDBMS concepts, SQL, and programming languages such as Python Strong analytical and problem-solving skills to convert intricate business requirements into technology solutions Knowledge of algorithms and data structures Additional Skills: 0-3+ years of relevant professional experience in delivering small/medium-scale technology solutions Strong verbal and written communication skills to effectively convey results and issues to internal and client teams Familiarity with Big Data Concepts and Cloud Platforms like AWS, Azure, and Google Cloud Platform Understanding of productivity tools such as co-pilot and SQL generation Travel to other offices as required to collaborate with clients or internal project teams How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are on-site at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Bengaluru",
     "posting_date": "2026-07-14T07:09:00+0000Updated at :2026-07-14T07:15:32+0000",
-    "posted_at": "2026-07-15 06:58:11",
+    "posted_at": "2026-07-15 09:32:08",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23640",
-    "loaded_at": "2026-07-15 12:28:11"
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
     "company": "ZS",
@@ -511,11 +539,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-07-13T12:40:00+0000Updated at :2026-07-13T13:10:38+0000",
-    "posted_at": "2026-07-15 06:58:11",
+    "posted_at": "2026-07-15 09:32:08",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62134",
-    "loaded_at": "2026-07-15 12:28:11"
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
     "company": "ZS",
@@ -525,11 +553,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-13T09:21:00+0000Updated at :2026-07-13T11:10:32+0000",
-    "posted_at": "2026-07-15 06:58:11",
+    "posted_at": "2026-07-15 09:32:08",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62121",
-    "loaded_at": "2026-07-15 12:28:11"
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
     "company": "ZS",
@@ -539,11 +567,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's/master's degree with specialization in Computer or IT, MCA or other computer related disciplines. 4\u20136 years of overall experience in the platform engineering space, delivering medium to large-scale technology solutions. Strong leadership, verbal and written communication skills with the ability to articulate results and issues to internal and client teams. Strong problem-solving and analytical skills, with the ability to debug complex platform issues. Good communication skills, with the ability to collaborate effectively across teams. A proactive, can-do attitude, ownership mindset, and willingness to learn and mentor others. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-07-10T04:19:00+0000Updated at :2026-07-10T04:50:32+0000",
-    "posted_at": "2026-07-15 06:58:11",
+    "posted_at": "2026-07-15 09:32:08",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62117",
-    "loaded_at": "2026-07-15 12:28:11"
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
     "company": "ZS",
@@ -553,11 +581,11 @@
     "qualifications": "What you\u2019ll bring: Undertake primary ownership in driving self and team effort across all phases of a project lifecycle Translate business requirements into technical designs and drive team efforts to design, build, and manage Anaplan-based Sales Performance Management (SPM) solutions that solve complex business problems Lead requirements gathering workshops and collaborate with business stakeholders to understand planning, sales operations, incentive compensation, territory, and quota management requirements Design and implement scalable Anaplan solutions supporting Territory Planning, Quota Planning, Incentive Compensation Management, Sales Forecasting, Workforce Planning, and Sales Planning processes Own solution architecture, including model design, dimensional design, security framework, integration architecture, deployment strategy, and governance processes Apply appropriate development methodologies (Agile, Waterfall, Hybrid) and implementation best practices to ensure successful and timely completion of projects Partner with Project Leads and Program Leads in delivering projects and assist with project management responsibilities including project planning, staffing, risk mitigation, and stakeholder communication Lead and mentor a team of 3\u20135 Anaplan developers/model builders, providing technical guidance, design reviews, implementation oversight, and quality assurance Collaborate with global teams and stakeholders to ensure seamless communication, delivery execution, and knowledge sharing Lead task planning and task distribution across team members and ensure timely completion of deliverables with high quality standards Lead project deliverables including solution vision and design, business requirements, user stories, model architecture, integration design, testing strategy, deployment planning, and operational readiness Manage direct and indirect client communications and act as a trusted advisor during solution design and implementation activities Design and implement integrations between Anaplan and enterprise systems such as Salesforce, SAP, Snowflake, Databricks, Azure, AWS, and other enterprise platforms Drive testing activities across SIT, UAT, deployment, and hypercare phases, ensuring alignment between business requirements and delivered functionality Review and optimize Anaplan models for scalability, maintainability, performance, and governance compliance Support business development activities including solution demonstrations, effort estimation, proposal development, staffing strategy, and capability-building initiatives Exhibit continuous improvement and innovation by adopting new technologies, implementation methodologies, and planning frameworks while helping team members do the same Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Qualification & Experience Bachelor\u2019s/Master\u2019s degree with specialization in Computer Science, MIS, IT, Engineering, Business Analytics, Operations Research, or other related disciplines 4\u20136 years of relevant consulting-industry experience working on medium to large-scale technology solution delivery engagements Master Anaplanner certification is mandatory At least 3 years of hands-on experience implementing Anaplan solutions across Sales Performance Management (SPM), Territory Planning, Quota Planning, Incentive Compensation, Sales Forecasting, Workforce Planning, or related planning use cases Experience leading requirements gathering workshops and translating business requirements into scalable solution designs Strong understanding of solution architecture, model design patterns, integration architecture, security design, and enterprise planning frameworks Demonstrated experience leading teams of 3\u20135 developers/model builders across multiple workstreams and managing delivery quality, timelines, and stakeholder expectations Experience designing and implementing enterprise-scale Anaplan models, including model architecture, dimensional design, ALM, security, and performance optimization Experience building and managing Data Hub architectures and enterprise planning ecosystems Experience integrating Anaplan with Salesforce, SAP, Snowflake, Databricks, Azure, AWS, or similar enterprise platforms Strong understanding of sales planning processes, territory design methodologies, quota allocation processes, incentive compensation management, and forecasting best practices Experience leading implementation, SIT, UAT, deployment, training, and client enablement activities Experience creating solution blueprints, technical specifications, test strategies, deployment plans, and operational support models Prior consulting experience working directly with client stakeholders and business leadership teams Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Pune",
     "posting_date": "2026-07-07T05:51:00+0000Updated at :2026-07-07T06:30:38+0000",
-    "posted_at": "2026-07-15 06:58:11",
+    "posted_at": "2026-07-15 09:32:08",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62034",
-    "loaded_at": "2026-07-15 12:28:11"
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
     "company": "ZS",
@@ -567,11 +595,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-07T05:50:00+0000Updated at :2026-07-07T06:30:38+0000",
-    "posted_at": "2026-07-15 06:58:11",
+    "posted_at": "2026-07-15 09:32:08",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62030",
-    "loaded_at": "2026-07-15 12:28:11"
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
     "company": "ZS",
@@ -581,11 +609,11 @@
     "qualifications": "What you\u2019ll bring: Experience & Domain Expertise 18+ years of experience in Life Sciences R&D, with strong expertise in clinical data management, biometrics, and analytics Deep understanding of the end-to-end drug development lifecycle Strong domain knowledge of clinical data, analytics, and digital R&D transformation Clinical Systems & Platforms Experience working with: EDC Platforms: Medidata Rave, Veeva EDC, Oracle InForm Clinical Systems: ePRO, laboratory systems, CTMS, eTMF, CDMS Clinical Data Repositories: SAS LSAF, Oracle LSH, eClinical Elluminate Metadata Repositories: Nurocor, Sycamore, Formedix Statistical Computing: SAS, SAS Viya, Domino Data Standards & Interoperability Strong expertise in: CDISC: CDASH, SDTM, ADaM, TLF Interoperability: FHIR, HL7, USDM Technical & Analytical Skills Working knowledge of R, Python, and SAS for clinical data transformation and analysis Exposure to AI/ML and GenAI-based solutions in clinical data and analytics Strong capability in business process modeling, data flow modeling, and solution architecture design Leadership & Consulting Skills Strong communication and stakeholder management skills with ability to influence senior leaders Proven experience in GxP-compliant, large-scale enterprise programs Ability to lead global, cross-functional, and multi-vendor teams Strong leadership, mentoring, and team-building capabilities Solid understanding of agile, product-led, and digital transformation delivery models",
     "location": "Pune",
     "posting_date": "2026-07-06T13:30:00+0000Updated at :2026-07-06T14:25:35+0000",
-    "posted_at": "2026-07-15 06:58:11",
+    "posted_at": "2026-07-15 09:32:08",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32711",
-    "loaded_at": "2026-07-15 12:28:11"
+    "loaded_at": "2026-07-15 15:02:08"
   },
   {
     "company": "ZS",
@@ -595,38 +623,10 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-07-06T13:30:00+0000Updated at :2026-07-06T14:25:35+0000",
-    "posted_at": "2026-07-15 06:58:11",
+    "posted_at": "2026-07-15 09:32:08",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32591",
-    "loaded_at": "2026-07-15 12:28:11"
-  },
-  {
-    "company": "ZS",
-    "role": "Business Technology Solutions Manager - Patient Strategy & Services",
-    "description": "description",
-    "responsibilities": "We are looking for experienced leaders with strong Patient Support Services (PSS) and Salesforce CRM/PRM implementation expertise to lead large, complex patient services transformation programs. This role is accountable for end\u2011to\u2011end delivery, solution development, team leadership (including contractors and techno\u2011functional specialists), and growth of new client programs. The Manager sits at the intersection of strategy, solution architecture, delivery execution, and business development, working closely with senior client stakeholders, ZS leadership, and multi\u2011disciplinary delivery teams. The ideal candidate brings hands\u2011on implementation experience, a proven ability to build and lead diverse delivery teams, and demonstrated success in selling and scaling new programs across global life sciences clients. What You\u2019ll Do Program Leadership & Delivery Ownership Own end\u2011to\u2011end delivery of large\u2011scale Patient CRM / PRM implementations on Salesforce Health Cloud and Life Sciences Cloud, from discovery through go\u2011live and hypercare. Lead multiple workstreams across enrollment, case management, reimbursement, patient engagement, nurse educator workflows, and AI\u2011enabled capabilities. Establish delivery governance including scope, roadmap, release planning, risk management, quality assurance, and executive reporting. Ensure solutions are scalable, compliant, and reusable across brands, markets, and therapeutic areas. Solution Development & Architecture Leadership Lead solution development by shaping end\u2011to\u2011end functional and technical designs in partnership with solution architects and engineering leads. Drive key design decisions across Health Cloud data models, service processes, integrations, security, and extensibility patterns. Ensure alignment between business objectives, Salesforce platform capabilities, and long\u2011term client technology strategy. Champion an OOTB\u2011first, accelerator\u2011driven approach to improve speed\u2011to\u2011value and consistency across programs. Team Leadership & Resource Management Build, lead, and mentor diverse delivery teams, including ZS consultants, offshore/onshore resources, contractors, and specialized techno\u2011functional roles. Own staffing strategy, onboarding, performance management, and capability development across programs. Foster strong collaboration across business analysts, architects, developers, QA, data/integration specialists, and change management teams. Stakeholder Management & Client Advisory Serve as the senior client advisor, engaging with executive stakeholders across business, IT, operations, and compliance. Lead executive\u2011level workshops to define future\u2011state operating models, KPIs, governance structures, and transformation roadmaps. Advise clients on best practices in patient services, reimbursement models, digital adherence, specialty and rare disease programs. Manage escalations, align expectations, and ensure sustained client satisfaction and value realization. Selling & Program Expansion Identify, shape, and sell new programs within existing and new client accounts. Lead or significantly contribute to pursuits, RFPs, and proposals, including solutioning, scope definition, estimates, resourcing models, and delivery approach. Partner with ZS leadership to grow long\u2011term client relationships and expand PSS technology footprint. Contribute to development of reusable assets, accelerators, and thought leadership to support go\u2011to\u2011market efforts. Data, Integration & Insights Leadership Provide oversight on integration strategy across HUB vendors, specialty pharmacies, EMR partners, and broader patient ecosystems. Guide data and reporting strategy for therapy initiation, adherence, operational performance, and patient outcomes. Ensure analytics and insights are embedded into solution design to support decision\u2011making and continuous improvement. What You\u2019ll Bring 10\u201314 years of experience in technology consulting, with significant hands\u2011on Salesforce implementation experience. Proven track record leading end\u2011to\u2011end CRM/PRM implementations, preferably on Salesforce Health Cloud or Life Sciences Cloud. Strong background in life science/pharma essential. Experience and exposure to pharma patient services is preferable. This includes HUB operations, reimbursement, specialty therapies, oncology, or rare disease programs. Demonstrated experience managing large, diverse teams, including contractors and specialized techno\u2011functional roles. Proven ability to sell, scope, and grow new programs with senior client stakeholders. Excellent leadership, communication, and executive\u2011level presentation skills. Preferred Qualifications Salesforce certifications: Health Cloud Consultant, Life Sciences Cloud, or Architecture certifications. Experience working with large global pharma clients across multi\u2011brand and multi\u2011market programs. Exposure to AI\u2011driven, agentic, or automation\u2011led workflows in patient services or CRM ecosystems",
-    "qualifications": ".",
-    "location": "Bengaluru",
-    "posting_date": "2026-07-02T14:30:00+0000Updated at :2026-07-02T16:00:41+0000",
-    "posted_at": "2026-07-15 06:58:11",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/31437",
-    "loaded_at": "2026-07-15 12:28:11"
-  },
-  {
-    "company": "ZS",
-    "role": "Cloud Site Reliability Engineer",
-    "description": "description",
-    "responsibilities": "What you'll do: Cloud Site Reliability Engineer in the Enterprise will be working with a team of operations engineers and software developers to analyze, maintain and nurture our Cloud solutions/products to support the ever-growing company\u2019s clientele. You will be working closely with various teams to ensure the stability of the environment by: Analyzing the current state, designing appropriate solutions and working with the team to implement them. Coordinate emergency responses, perform root cause analysis, identify and implement solutions to prevent re-occurrences Work with the team to identify ways to increase MTBF and lower MTTR for the environment Review each entire application stack and execute initiatives to reduce failures, defects and issues with the overall performance Identifying and working with the team to implement more efficient system procedures Maintaining environment monitoring systems to provide the best visibility into the state of the deployed products/solutions Perform root cause analysis on incoming infrastructure alerts and work with teams to resolve them Maintaining performance analysis tools, identifying any adverse changes to performance and working with the teams to resolve them Researching industry trends and technologies, and promote adoption of best-in-class tools and technologies Taking the initiative to advance the quality, performance, or scalability of our Cloud Solutions, by influencing the architecture or design of our products Design, develop and execute automated tests to validate solutions and environments Troubleshoot issues across the entire stack \u2013 infrastructure, software, application and network ",
-    "qualifications": "What you\u2019ll bring: 1+ years\u2019 experience working as a Site Reliability Engineer or an equivalent position 1+ years\u2019 experience with AWS cloud technologies and at least one AWS certifications is required (Solution Architect / DevOps Engineer) 1+ years\u2019 experience functioning as a senior member in an infrastructure/software team Hands-on experience with AWS services like CodeBuild, Config, Systems Manager, ServiceCatalog, Lambda, etc. Full-stack IT experience with *nix, Windows, network/firewall concepts, source control (BitBucket) and build/dependency management and continuous integration systems (TeamCity, Jenkins) Expertise in at least one scripting language, Python preferred Firm understanding of networking concepts and technologies Exposure to big data technologies (Spark, Hadoop, Scala, etc.) stack is preferred Good understanding of RDBMS and Cloud Database engines like PostgreSQL, MySQL etc. Basic understanding of Clusters, Load balancers and CDN Experience in fault-tolerant system design Familiarity with Splunk data analysis, Dynatrace APM, or similar tools is a plus A Bachelor\u2019s degree (Master\u2019s preferred) in a related technical field Excellent analytical, troubleshooting and communication skills Possess strong verbal, written and team presentation communication skills. ZS is a global firm; fluency in English is required This role requires healthy doses of initiative and the ability to remain flexible and responsive in a very dynamic environment Ability to quickly learn new platforms, languages, tools, and techniques as needed to meet project requirement Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
-    "location": "Pune",
-    "posting_date": "2026-07-02T10:18:00+0000Updated at :2026-07-02T12:00:38+0000",
-    "posted_at": "2026-07-15 06:58:11",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/33113",
-    "loaded_at": "2026-07-15 12:28:11"
+    "loaded_at": "2026-07-15 15:02:08"
   }
 ]
