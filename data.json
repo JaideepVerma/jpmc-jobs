@@ -15,6 +15,48 @@
   },
   {
     "company": "JPMC",
+    "role": "Senior Product Associate - Identity",
+    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-07-29",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755521",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Android",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-29",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732162",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II - Java, Springboot, AWS",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-07-29",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759982",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Sr Lead Software Engineer - Agentic AI Solutions",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
     "responsibilities": null,
@@ -43,6 +85,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Lead Software Engineer - Pyspark, AWS, Databricks",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-29",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769350",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer II - Full Stack (Java and React)",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
     "responsibilities": null,
@@ -57,6 +113,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Lead Software Engineer - SQL and PLSQL",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-07-29",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772797",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Site Reliability Engineer II",
     "description": "Design, operate, and optimize highly available platforms through automation and cloud infrastructure as a Site Reliability Engineer.",
     "responsibilities": null,
@@ -67,6 +137,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773071",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - Java (Spring Boot), Python, UI",
+    "description": "Join an agile engineering team modernizing a lending platform by building secure, scalable services and cloud-native workflows",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-29",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773213",
     "loaded_at": null
   },
   {
@@ -406,90 +490,6 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "AWM Risk Program Associate",
-    "description": "The Wealth Management US Home Lending Risk Management Quality Review team identifies risk for Wealth Management Mortgage Underwriting practices within Wealth Management. The quality review is performed to validate the effectiveness of risk analysis as well as adherence to policies, procedures, and regulations, where applicable. The Reviewer is responsible for analyzing transactions and identifying risks/gaps including determining differences and/or inconsistencies, across various products and global regions.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-07-27",
-    "posted_at": null,
-    "job_family": "Analysts",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772935",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Specialized Risk Analyst - AWM",
-    "description": "The Wealth Management US Home Lending Risk Management Quality Review team identifies risk for Wealth Management Mortgage Underwriting practices within Wealth Management. The quality review is performed to validate the effectiveness of risk analysis as well as adherence to policies, procedures, and regulations, where applicable. The Reviewer is responsible for analyzing transactions and identifying risks/gaps including determining differences and/or inconsistencies, across various products and global regions",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-07-27",
-    "posted_at": null,
-    "job_family": "Analysts",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772979",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Product Associate",
-    "description": "Unleash your expertise in product development and optimization by leveraging user research, analyzing metrics, and collaborating across",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-27",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734340",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-27",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718928",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - UI - React , Typescript",
-    "description": "UI/UX lead across multiple technical areas as an integral part of a global agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-07-27",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724160",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III- Java, AWS, Kafka",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-27",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737829",
-    "loaded_at": null
-  },
-  {
     "company": "ZS",
     "role": "Executive Recruiter (Leadership Hiring)",
     "description": "description",
@@ -497,11 +497,11 @@
     "qualifications": "y",
     "location": "Pune",
     "posting_date": "2026-07-28T10:49:00+0000Updated at :2026-07-28T12:51:36+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62809",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -511,11 +511,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-28T09:02:00+0000Updated at :2026-07-28T10:51:30+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62636",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -525,11 +525,11 @@
     "qualifications": ".",
     "location": "Gurugram",
     "posting_date": "2026-07-27T10:35:00+0000Updated at :2026-07-27T10:46:00+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61878",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -539,11 +539,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-24T10:01:00+0000Updated at :2026-07-24T10:21:14+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62400",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -553,11 +553,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-07-22T10:30:00+0000Updated at :2026-07-22T12:06:17+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31437",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -567,11 +567,11 @@
     "qualifications": "What you\u2019ll bring: Exp 2-5 years Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-07-17T05:40:00+0000Updated at :2026-07-21T09:56:36+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62237",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -581,11 +581,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-07-15T09:14:00+0000Updated at :2026-07-15T11:24:30+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31397",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -595,11 +595,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-07-15T07:46:00+0000Updated at :2026-07-15T09:20:41+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33799",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -609,11 +609,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-07-13T12:40:00+0000Updated at :2026-07-13T13:10:38+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62134",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   },
   {
     "company": "ZS",
@@ -623,10 +623,10 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-13T09:21:00+0000Updated at :2026-07-13T11:10:32+0000",
-    "posted_at": "2026-07-29 07:29:11",
+    "posted_at": "2026-07-29 10:16:05",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62121",
-    "loaded_at": "2026-07-29 12:59:11"
+    "loaded_at": "2026-07-29 15:46:05"
   }
 ]
