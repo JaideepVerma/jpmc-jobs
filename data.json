@@ -1,6 +1,20 @@
 [
   {
     "company": "JPMC",
+    "role": "Finance Data and Insights - Analytics Solutions Manager",
+    "description": "Build your career in Analytics Solutions while working in the world\u2019s most innovative bank which values creativity and excellence",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773175",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Data Domain Architect - Associate",
     "description": "Enhance finance operations by improving business processes, data flows, and strengthening operational controls.\n",
     "responsibilities": null,
@@ -25,6 +39,20 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775725",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "VP - Product Manager - Tech Product Management",
+    "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768845",
     "loaded_at": null
   },
   {
@@ -67,6 +95,34 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738249",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Director of Software Engineering - Java & AWS",
+    "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741232",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineering",
+    "description": "Lead a full stack team, promote sprint delivery, build quality software, and mentor engineers in technical execution and team growth.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742635",
     "loaded_at": null
   },
   {
@@ -165,6 +221,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768551",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - Java , Kubernetics, Infrastructure",
+    "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774909",
     "loaded_at": null
   },
   {
@@ -420,76 +490,6 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Lead Software Engineer",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767993",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, AWS, kdb+",
-    "description": "Lead Software Engineer - Recon Technology - Java, AWS & KDB+",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771257",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Java, AWS, React",
-    "description": "Java, React, SQL & AWS - Lead Software Engineer",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771934",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Lead Software Engineer -Java/Kotlin , Python programmer, APIs",
-    "description": "Lead and inspire as a Senior Software Engineer, promoting quality solutions and mentoring teams to deliver impactful results.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772426",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Software Engineer - Python",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772491",
-    "loaded_at": null
-  },
-  {
     "company": "ZS",
     "role": "Finance Associate - Accounts Payable",
     "description": "description",
@@ -497,11 +497,11 @@
     "qualifications": "What you\u2019ll bring: B.Com with a strong record of academic success (60% minimum) required, MBA desirable; 2-3.5 years of relevant work experience, IT Industry experience preferred; Experience with SAP Finance modules, knowledge of accounts payable function; Effective oral and written communication skills; Motivation, personal initiative and strong team/interpersonal skills; Strong analytic skills and problem-solving ability; Proven attention to detail and high level of accuracy; Excellent time management skills. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-07-31T06:32:00+0000Updated at :2026-07-31T07:12:48+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62858",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -511,11 +511,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-07-30T11:00:00+0000Updated at :2026-07-30T11:07:49+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62582",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -525,11 +525,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or master's degree required in Chemical Engineering, Mechanical Engineering, Material Engineering, Computer Science, Chemistry, Biotechnology or similar degree 1+ years of relevant post-collegiate job experience. A PhD may substitute in lieu of work experience. Hands-on experience with at least one of the functions in CMC development such as Process Chemistry, Process Engineering, Formulation, and Analytical Chemistry Understanding of the different data and information systems such as ELN, LIMS, ERP systems, and LCM or PLM systems Experience contributing to the implementation of LIMS, ELN, or GLP-compliant digital systems, with focus on improving CMC data integrity, regulatory readiness, and lab-to-business process alignment Willingness to develop expertise in system configuration, validation, and compliance aspects of pharmaceutical digital lab solutions. Knowledge of key concepts including unit operations, processes, quality by design (QbD), tech transfer, process validation, quality attributes, and regulatory milestones across pharma development Understanding of the CMC related regulatory submission requirements Experience with at least one tech transfer, explore to analytics, AI and/or technology implementation in CMC preferred Strong ability to identify data anomalies, design data validation rules, and perform data cleanup to ensure high-quality data. Project management and task planning experience, ensuring smooth execution of deliverables and timelines. Strong communication and interpersonal skills to collaborate with both technical and non-technical teams. Experience with automation testing High motivation, good work ethic, maturity and personal initiative. Self-discipline for planning and organizing tasks Aptitude for, and enjoyment of, working in teams Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Gurugram",
     "posting_date": "2026-07-30T09:44:00+0000Updated at :2026-07-30T11:07:49+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61875",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -539,11 +539,11 @@
     "qualifications": "y",
     "location": "Pune",
     "posting_date": "2026-07-28T10:49:00+0000Updated at :2026-07-28T12:51:36+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62809",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -553,11 +553,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-28T09:02:00+0000Updated at :2026-07-28T10:51:30+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62636",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -567,11 +567,11 @@
     "qualifications": ".",
     "location": "Bengaluru",
     "posting_date": "2026-07-22T10:30:00+0000Updated at :2026-07-22T12:06:17+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31437",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -581,11 +581,11 @@
     "qualifications": "What you\u2019ll bring: Exp 2-5 years Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-07-17T05:40:00+0000Updated at :2026-07-21T09:56:36+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62237",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -595,11 +595,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-07-15T09:14:00+0000Updated at :2026-07-15T11:24:30+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31397",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -609,11 +609,11 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-07-15T07:46:00+0000Updated at :2026-07-15T09:20:41+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33799",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   },
   {
     "company": "ZS",
@@ -623,10 +623,10 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-07-13T12:40:00+0000Updated at :2026-07-13T13:10:38+0000",
-    "posted_at": "2026-07-31 10:13:06",
+    "posted_at": "2026-07-31 12:30:40",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62134",
-    "loaded_at": "2026-07-31 15:43:06"
+    "loaded_at": "2026-07-31 18:00:40"
   }
 ]
