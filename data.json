@@ -1,6 +1,20 @@
 [
   {
     "company": "JPMC",
+    "role": "Predictive Science -  AI Engineering & Prompt Architecture Lead - Vice President",
+    "description": "Promote AI teams to design, build, and refine intelligent document processing and data extraction for complex financial workflows\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752662",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Finance Data and Insights - Analytics Solutions Manager",
     "description": "Build your career in Analytics Solutions while working in the world\u2019s most innovative bank which values creativity and excellence",
     "responsibilities": null,
@@ -39,6 +53,20 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775725",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Vice President - Investment Solutions -  Funds Product Development",
+    "description": "Are you keen in transforming and overseeing governance frameworks and due diligence frameworks?",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738305",
     "loaded_at": null
   },
   {
@@ -95,6 +123,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738249",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Site Reliability Engineer",
+    "description": "Lead and conduct resiliency design reviews, break up complex problems, and act as a technical lead for medium to large sized products",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739862",
     "loaded_at": null
   },
   {
@@ -225,6 +267,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Lead Software Engineer - FinOps, Cloud Platform",
+    "description": "Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772817",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Lead Software Engineer - Java , Kubernetics, Infrastructure",
     "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
     "responsibilities": null,
@@ -249,6 +305,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775720",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-07-31",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776310",
     "loaded_at": null
   },
   {
@@ -420,74 +490,18 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Software Engineer III - Java",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754327",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Oracle ICM",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764991",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Manager of Software Engineering - .Net, C#",
-    "description": "Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765008",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Manager of Software Engineering",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766586",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Java Full Stack Developer + AWS + AI",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-30",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767375",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Technology Leader - Supply Chain and Manufacturing",
+    "description": "description",
+    "responsibilities": "ZS\u2019s Supply Chain & Manufacturing (SCM) Practice helps organizations unlock value across the end-to-end supply chain and manufacturing ecosystem by combining domain knowledge, advanced analytics, AI, and digital innovation. With a team of over 300 experts and practitioners, ZS partners with leading organizations worldwide to drive transformation across planning, procurement, manufacturing, logistics, quality, and operations. The team has successfully delivered more than 100 transformation programs globally across industries including Life Sciences, Consumer Products, Industrials, Automotive, High-Tech, and Energy. As enterprises increasingly embrace AI, Generative AI, intelligent automation, and data-driven decision-making, ZS is helping clients reimagine supply chains and manufacturing organizations as connected, predictive, resilient, and autonomous ecosystems. As a Technology Associate Principal, Supply Chain & Manufacturing, you will lead strategic technology and business transformation initiatives for global clients. You will advise senior executives on supply chain and manufacturing modernization, leveraging AI, Generative AI, advanced analytics, digital platforms, Industry 4.0 technologies, and intelligent automation to drive measurable business outcomes. This is a senior client-facing leadership role responsible for shaping transformation agendas, growing strategic client relationships, building market-leading offerings, and driving business growth for ZS's Supply Chain & Manufacturing Practice. You will collaborate closely with client executives, practice leaders, data scientists, engineers, and consultants to deliver innovative solutions that improve planning effectiveness, operational efficiency, supply chain resilience, manufacturing productivity, and enterprise performance. The successful candidate will serve as a trusted advisor to executive stakeholders while contributing significantly to practice development, thought leadership, and revenue growth. What you'll do: Develop and execute digital transformation strategies for supply chain and manufacturing clients, from vision to value realization. Lead large-scale supply chain transformation, Industry 4.0/5.0 programs, including IoT, IIoT, cloud, AI/ML, and automation projects across sectors such as Automotive, Life Sciences, Oil & Gas, Agriculture, and Consumer Products.Manage end-to-end project delivery, ensuring on-time, within-budget execution and alignment with client objectives. Develop and manage client relationships on projects. Deeply understand client\u2019s business challenges and provide thought leadership in addressing issues. Identify opportunities and contribute to the selling of additional work to new and existing clients; Active involvement in pre-sales opportunities, building new assets and platforms that will support ZS strategic growth Architect and implement digital solution (e.g., digital twins, predictive analytics, smart sensors, process automation) to optimize manufacturing operations, supply chain, quality and maintenance. Have an eye on Industrial/technology disruptions and develop POVs on how to help clients deal with the same. Drive organizational change management, ensuring adoption of new technologies and digital ways of working. Lead workshops, training, and stakehoder engagement to foster a culture of innovation and data-driven decision making. Serve as a trusted advisor to C-level executives, shaping their digital agendas and guiding strategic investments. Represent ZS at industry forums, publish thought leadership, and contribute to the firm\u2019s digital manufacturing practice growth. ",
+    "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Engineering, Computer Science, or related field; MBA preferred. 18+ years of professional experience spanning consulting and core industry roles, with a strong blend of strategic advisory, digital transformation leadership, and hands\u2011on operational exposure in manufacturing environments. Significant tenure in the consulting industry, driving large\u2011scale transformation programs for global clients, including roadmap definition, operating model design, capability building, and delivery oversight for digital supply chain and manufacturing, IT\u2011OT integration, control towers, and Industry 4.0/5.0 initiatives. Prior foundational experience in the core manufacturing industry, providing deep understanding of real\u2011world plant operations, production processes, supply chain dynamics, and technology adoption challenges within complex industrial setups. Deep expertise in Digital Supply Chain, Industry 4.0/5.0, IoT/IIoT, cloud platforms, Supply Chain Control Towers, AI/ML, automation, and IT\u2011OT integration, along with hands\u2011on experience implementing digital manufacturing solutions (MES, QMS, LIMS, PIMS, SCADA, historians, edge computing, etc.). Strong knowledge of supply chain and manufacturing processes across multiple sectors (e.g., Automotive, Life Sciences, Oil & Gas, FMCG), combining core industry exposure with consulting\u2011led transformation experience. Proven ability to lead cross\u2011functional and multi\u2011geography teams, manage P&L or portfolio-level financials, and deliver complex, multi\u2011tower digital programs in advisory and delivery roles. Certifications such as PMP, Scrum Master, SIRI Assessor, or equivalent are a plus. How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
+    "location": "Pune",
+    "posting_date": "2026-07-31T13:30:00+0000Updated at :2026-07-31T15:13:05+0000",
+    "posted_at": "2026-08-01 07:12:02",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/23868",
+    "loaded_at": "2026-08-01 12:42:02"
   },
   {
     "company": "ZS",
@@ -497,25 +511,11 @@
     "qualifications": "What you\u2019ll bring: B.Com with a strong record of academic success (60% minimum) required, MBA desirable; 2-3.5 years of relevant work experience, IT Industry experience preferred; Experience with SAP Finance modules, knowledge of accounts payable function; Effective oral and written communication skills; Motivation, personal initiative and strong team/interpersonal skills; Strong analytic skills and problem-solving ability; Proven attention to detail and high level of accuracy; Excellent time management skills. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-07-31T06:32:00+0000Updated at :2026-07-31T07:12:48+0000",
-    "posted_at": "2026-07-31 12:30:40",
+    "posted_at": "2026-08-01 07:12:02",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62858",
-    "loaded_at": "2026-07-31 18:00:40"
-  },
-  {
-    "company": "ZS",
-    "role": "UX Manager - ZAIDYN Platform",
-    "description": "description",
-    "responsibilities": "UX Manager - ZAIDYN Platform About ZS ZS is a management consulting and technology firm focused on transforming global healthcare and beyond through data, science, technology, and human ingenuity. We partner with leading organizations to solve complex business challenges, accelerate innovation, and create measurable impact through advanced analytics, artificial intelligence, and digital transformation. About the Role ZS seeks a User Experience (UX) Design Manager to join our ZAIDYN UX team in our Pune office. The ZAIDYN UX team is a diverse, collaborative and talented group with offices in India and the United States. The UX team within this group owns the user-centered strategy, research and design in support of the ZAIDYN platform of commercial, clinical, and medical products. The ideal candidate is a strong UX/UI designer with experience leading and working in cross-functional digital product teams. The UX Manager is a player-coach leader accountable for the end-to-end user experience of a ZAIDYN product area while building and developing a high-performing design team. The role blends hands-on design leadership, strategic ownership, and people management in equal measure. We are looking for someone who has 10+ years experience as a UX Designer with at least 3 years in UX Design leadership/management. A bachelor\u2019s degree in a relevant field is required. ZAIDYN is a complex, enterprise-grade, data-dense B2B platform. You will set the bar for design quality through direct involvement, grow the designers around you, and connect product-level UX work to platform-wide standards. Modern UX leadership means designing for interconnected systems spanning users, agents, data, and workflows, applying AI fluently in day-to-day design work, and tying design decisions to measurable adoption, retention, and growth. What You'll Do Own the experience. Drive end-to-end UX outcomes for your product area, including usability, adoption, quality, and feasibility, with an explicit success metric and baseline for every initiative. Lead hands-on. Contribute directly to strategy, problem framing, complex workflows, and data-dense UI, stepping in personally on ambiguous, high-risk, or agentic design challenges. Develop the team. Hire, coach, and grow UX designers and Leads; maintain development plans, run performance cycles, and foster an accountable, high-performing critique culture. Enable delivery. Set team operating rhythms, ensure resourcing and prioritization, remove roadblocks, and improve productivity and delivery predictability. Influence cross-functionally. Keep Product, Engineering, Data, and Customer Success aligned on scope and tradeoffs; turn disagreement into documented decisions and advocate for UX with clear, evidence-based rationale. Align to the platform. Connect your area's work to broader ZAIDYN efforts, collaborate with peer UX Managers on shared standards, and uphold design-system governance and accessibility as non-negotiable. Contribute to cross-platform UX initiatives. Including our AI Pattern library and design system, UX metric collection, UX/UI process improvements, and other approaches to grow our team\u2019s impact and delivery of successful product experiences. What You'll Bring People leadership. Proven experience managing and developing UX designers, including hiring, coaching, and performance management. Enterprise craft. Demonstrated success delivering UX for complex, enterprise-grade products, operating at both strategic and execution levels on ambiguous, cross-functional initiatives. Complex domains. Experience in domains such as finance, banking, insurance, or healthcare, including data-heavy workflows and logic-based systems (formulas, rules, algorithms). AI-driven design. Active, advanced use of AI design tools in daily work, with the ability to show how AI accelerates workflows and improves quality, speed, or decision-making, beyond basic concept or prototype generation. Agentic experiences. Experience designing interfaces for systems that act on users' behalf, making intent, autonomy, transparency, and control clear, safe, and trustworthy. Demonstrated UX/UI skills. Candidate will have a strong portfolio showcasing impactful, best-practice based UX and UI design. What Success Looks Like Measurable improvements in product experience, usability, and adoption (e.g., CSAT, SUS, design-system adherence, accessibility). A strong, engaged UX team with clear growth, accountability, and healthy retention. Effective operation as both a strategic leader and a hands-on contributor. Strong alignment across product teams, with design decisions consistently grounded in evidence and tied to business and customer outcomes",
-    "qualifications": ".",
-    "location": "Pune",
-    "posting_date": "2026-07-30T11:00:00+0000Updated at :2026-07-30T11:07:49+0000",
-    "posted_at": "2026-07-31 12:30:40",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/62582",
-    "loaded_at": "2026-07-31 18:00:40"
+    "loaded_at": "2026-08-01 12:42:02"
   },
   {
     "company": "ZS",
@@ -525,25 +525,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or master's degree required in Chemical Engineering, Mechanical Engineering, Material Engineering, Computer Science, Chemistry, Biotechnology or similar degree 1+ years of relevant post-collegiate job experience. A PhD may substitute in lieu of work experience. Hands-on experience with at least one of the functions in CMC development such as Process Chemistry, Process Engineering, Formulation, and Analytical Chemistry Understanding of the different data and information systems such as ELN, LIMS, ERP systems, and LCM or PLM systems Experience contributing to the implementation of LIMS, ELN, or GLP-compliant digital systems, with focus on improving CMC data integrity, regulatory readiness, and lab-to-business process alignment Willingness to develop expertise in system configuration, validation, and compliance aspects of pharmaceutical digital lab solutions. Knowledge of key concepts including unit operations, processes, quality by design (QbD), tech transfer, process validation, quality attributes, and regulatory milestones across pharma development Understanding of the CMC related regulatory submission requirements Experience with at least one tech transfer, explore to analytics, AI and/or technology implementation in CMC preferred Strong ability to identify data anomalies, design data validation rules, and perform data cleanup to ensure high-quality data. Project management and task planning experience, ensuring smooth execution of deliverables and timelines. Strong communication and interpersonal skills to collaborate with both technical and non-technical teams. Experience with automation testing High motivation, good work ethic, maturity and personal initiative. Self-discipline for planning and organizing tasks Aptitude for, and enjoyment of, working in teams Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Gurugram",
     "posting_date": "2026-07-30T09:44:00+0000Updated at :2026-07-30T11:07:49+0000",
-    "posted_at": "2026-07-31 12:30:40",
+    "posted_at": "2026-08-01 07:12:02",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61875",
-    "loaded_at": "2026-07-31 18:00:40"
-  },
-  {
-    "company": "ZS",
-    "role": "Executive Recruiter (Leadership Hiring)",
-    "description": "description",
-    "responsibilities": "Executive Recruiter (Leadership Hiring Specialist) What You'll Do Own a portfolio of executive searches end to end \u2013 from intake and calibration through sourcing, candidate engagement, interview management, offer close, and post-search follow-up. This is a hands-on individual contributor role, not a coordination-only or strategy-only role Lead complex, business-critical searches at the partner/principal and senior-leadership level across consulting, technology, analytics, life sciences, and practice-specific roles. You will have real ownership and direct access to senior stakeholders \u2013 this is not a \u201cpost and pray\u201d shop Run sharp intake and calibration discussions. Clarify the business problem the hire will solve, distinguish must-have leadership capabilities from trainable or nice-to-have skills, align on level and scope, and help hiring teams separate domain expertise from leadership capability Build targeted search strategies for each role. Convert intake notes into talent maps, competitor targets, title/keyword adjacencies, Boolean and X-ray strings, outreach angles, calibration slates, and clear timeline commitments Source with purpose. Go beyond LinkedIn InMails by using Boolean and X-ray techniques, competitor and org mapping, referral networks, executive and alumni communities, events, talent intelligence, and direct market engagement Engage passive senior and executive talent with credible, tailored messaging. Adapt ZS\u2019s story for leaders by connecting the role to problem complexity, client impact, growth, and leadership challenge Be a trusted advisor to hiring managers and senior leadership. Provide consultative talent acquisition guidance, ensure alignment to key company goals and initiatives, challenge assumptions on candidate profiles, and drive accountability on both the recruiting and business sides Manage requisition execution with discipline. Keep the ATS clean, track candidate movement, maintain clear next steps, manage interview logistics and evaluations across offices and time zones, and be ready to speak to pipeline health at any point Use data to drive decisions. Track funnel metrics, source effectiveness, response rates, qualified conversion, interview pass-through, offer acceptance, and candidate drop-off \u2013 then translate the data into recommendations that shape search strategy Collect and report activity and results to key stakeholders and peers. Build clear, consistent reporting that tells the story behind the numbers and keeps senior leaders informed on progress, risk, and market reality Problem-solve in real time. When a search stalls, diagnose why \u2013 profile, level, location, compensation, candidate messaging, interview latency, feedback quality, or stakeholder alignment \u2013 and bring practical options to move the search forward Collaborate across a high-performing TA team. Share talent maps, search strings, outreach examples, market intel, and lessons learned to help the team build repeatable approaches for hard-to-fill executive roles Contribute to team effectiveness while remaining delivery oriented. This may include mentoring junior recruiters, leading a sourcing experiment, improving a workflow, or creating reusable executive-recruiting tools \u2013 without stepping away from core requisition ownership What You'll Bring BS/BA degree with a strong record of academic achievement required; advanced degree preferred 10+ years of progressive full-lifecycle recruiting experience, ideally in professional services, consulting, or other markets that demand senior and executive-level hiring. Proven experience recruiting at the partner/principal or senior-leadership level is strongly preferred A proven ability to carry and deliver against a heavy requisition load while maintaining quality, responsiveness, candidate experience, and stakeholder confidence Executive recruiting fluency. You know how to learn a role quickly, ask the right questions, and read complex job descriptions \u2013 translating them into searchable keywords, identifying title and skill adjacencies, and distinguishing true requirements from nice-to-have preferences Sourcing as a craft, not a checkbox. You have a toolkit that may include Boolean, X-ray, executive and niche communities, competitor and org intelligence, referrals, conference/event mapping, and personalized outreach \u2013 and you know when to use what Candidate engagement strength in competitive senior talent markets. You can craft messaging that feels specific, credible, and relevant rather than generic recruiter outreach Stakeholder fluency. You provide value-added, consultative service to senior leadership; you are comfortable pushing back on unrealistic profiles, coaching interviewers on process expectations, and adjusting your communication style for different audiences without lowering standards Data and analytics orientation. You can interpret funnel metrics, explain where a search is breaking down, and recommend actions based on evidence and market context. You bring strong reporting discipline \u2013 collecting, structuring, and communicating activity and results to stakeholders and peers Business curiosity. You want to understand why a role exists, how it fits the business, what problem the hire will solve, and what \u201cgreat\u201d actually looks like beyond the job description A problem-solving mindset. You do not just flag issues; you come with options. When a search is not working, you are already thinking about what to test next Operational discipline. You track your work, keep your ATS accurate, manage follow-ups, and can walk anyone through your pipeline without scrambling Communication range. You can move from a quick Teams nudge to a polished leadership update while keeping the message clear, practical, and client-first Comfort with ambiguity. Executive and specialty roles do not always come with a clear playbook. You are energized, not frustrated, by searches that require you to figure things out as you go Collaborative team mindset. You are willing to share market intelligence, help peers think through hard searches, and contribute to repeatable recruiting practices. Strong project management, organizational skills, and attention to detail round out the profile AI Fluency. You are leveraging AI in TA processes by proactively engaging with and assessing AI's ability to improve individual and team productivit",
-    "qualifications": "y",
-    "location": "Pune",
-    "posting_date": "2026-07-28T10:49:00+0000Updated at :2026-07-28T12:51:36+0000",
-    "posted_at": "2026-07-31 12:30:40",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/62809",
-    "loaded_at": "2026-07-31 18:00:40"
+    "loaded_at": "2026-08-01 12:42:02"
   },
   {
     "company": "ZS",
@@ -553,25 +539,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-28T09:02:00+0000Updated at :2026-07-28T10:51:30+0000",
-    "posted_at": "2026-07-31 12:30:40",
+    "posted_at": "2026-08-01 07:12:02",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62636",
-    "loaded_at": "2026-07-31 18:00:40"
-  },
-  {
-    "company": "ZS",
-    "role": "Business Technology Solutions Manager - Salesforce Health Cloud",
-    "description": "description",
-    "responsibilities": "We are looking for experienced leaders with strong Patient Support Services (PSS) and Salesforce CRM/PRM implementation expertise to lead large, complex patient services transformation programs. This role is accountable for end\u2011to\u2011end delivery, solution development, team leadership (including contractors and techno\u2011functional specialists), and growth of new client programs. The Manager sits at the intersection of strategy, solution architecture, delivery execution, and business development, working closely with senior client stakeholders, ZS leadership, and multi\u2011disciplinary delivery teams. The ideal candidate brings hands\u2011on implementation experience, a proven ability to build and lead diverse delivery teams, and demonstrated success in selling and scaling new programs across global life sciences clients. What You\u2019ll Do Program Leadership & Delivery Ownership Own end\u2011to\u2011end delivery of large\u2011scale Patient CRM / PRM implementations on Salesforce Health Cloud and Life Sciences Cloud, from discovery through go\u2011live and hypercare. Lead multiple workstreams across enrollment, case management, reimbursement, patient engagement, nurse educator workflows, and AI\u2011enabled capabilities. Establish delivery governance including scope, roadmap, release planning, risk management, quality assurance, and executive reporting. Ensure solutions are scalable, compliant, and reusable across brands, markets, and therapeutic areas. Solution Development & Architecture Leadership Lead solution development by shaping end\u2011to\u2011end functional and technical designs in partnership with solution architects and engineering leads. Drive key design decisions across Health Cloud data models, service processes, integrations, security, and extensibility patterns. Ensure alignment between business objectives, Salesforce platform capabilities, and long\u2011term client technology strategy. Champion an OOTB\u2011first, accelerator\u2011driven approach to improve speed\u2011to\u2011value and consistency across programs. Team Leadership & Resource Management Build, lead, and mentor diverse delivery teams, including ZS consultants, offshore/onshore resources, contractors, and specialized techno\u2011functional roles. Own staffing strategy, onboarding, performance management, and capability development across programs. Foster strong collaboration across business analysts, architects, developers, QA, data/integration specialists, and change management teams. Stakeholder Management & Client Advisory Serve as the senior client advisor, engaging with executive stakeholders across business, IT, operations, and compliance. Lead executive\u2011level workshops to define future\u2011state operating models, KPIs, governance structures, and transformation roadmaps. Advise clients on best practices in patient services, reimbursement models, digital adherence, specialty and rare disease programs. Manage escalations, align expectations, and ensure sustained client satisfaction and value realization. Selling & Program Expansion Identify, shape, and sell new programs within existing and new client accounts. Lead or significantly contribute to pursuits, RFPs, and proposals, including solutioning, scope definition, estimates, resourcing models, and delivery approach. Partner with ZS leadership to grow long\u2011term client relationships and expand PSS technology footprint. Contribute to development of reusable assets, accelerators, and thought leadership to support go\u2011to\u2011market efforts. Data, Integration & Insights Leadership Provide oversight on integration strategy across HUB vendors, specialty pharmacies, EMR partners, and broader patient ecosystems. Guide data and reporting strategy for therapy initiation, adherence, operational performance, and patient outcomes. Ensure analytics and insights are embedded into solution design to support decision\u2011making and continuous improvement. What You\u2019ll Bring 10\u201314 years of experience in technology consulting, with significant hands\u2011on Salesforce implementation experience. Proven track record leading end\u2011to\u2011end CRM/PRM implementations, preferably on Salesforce Health Cloud or Life Sciences Cloud. Strong background in life science/pharma essential. Experience and exposure to pharma patient services is preferable. This includes HUB operations, reimbursement, specialty therapies, oncology, or rare disease programs. Demonstrated experience managing large, diverse teams, including contractors and specialized techno\u2011functional roles. Proven ability to sell, scope, and grow new programs with senior client stakeholders. Excellent leadership, communication, and executive\u2011level presentation skills. Preferred Qualifications Salesforce certifications: Health Cloud Consultant, Life Sciences Cloud, or Architecture certifications. Experience working with large global pharma clients across multi\u2011brand and multi\u2011market programs. Exposure to AI\u2011driven, agentic, or automation\u2011led workflows in patient services or CRM ecosystems",
-    "qualifications": ".",
-    "location": "Bengaluru",
-    "posting_date": "2026-07-22T10:30:00+0000Updated at :2026-07-22T12:06:17+0000",
-    "posted_at": "2026-07-31 12:30:40",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/31437",
-    "loaded_at": "2026-07-31 18:00:40"
+    "loaded_at": "2026-08-01 12:42:02"
   },
   {
     "company": "ZS",
@@ -581,11 +553,11 @@
     "qualifications": "What you\u2019ll bring: Exp 2-5 years Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-07-17T05:40:00+0000Updated at :2026-07-21T09:56:36+0000",
-    "posted_at": "2026-07-31 12:30:40",
+    "posted_at": "2026-08-01 07:12:02",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62237",
-    "loaded_at": "2026-07-31 18:00:40"
+    "loaded_at": "2026-08-01 12:42:02"
   },
   {
     "company": "ZS",
@@ -595,11 +567,11 @@
     "qualifications": ".",
     "location": "Pune",
     "posting_date": "2026-07-15T09:14:00+0000Updated at :2026-07-15T11:24:30+0000",
-    "posted_at": "2026-07-31 12:30:40",
+    "posted_at": "2026-08-01 07:12:02",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/31397",
-    "loaded_at": "2026-07-31 18:00:40"
+    "loaded_at": "2026-08-01 12:42:02"
   },
   {
     "company": "ZS",
@@ -609,24 +581,52 @@
     "qualifications": "h",
     "location": "Gurugram",
     "posting_date": "2026-07-15T07:46:00+0000Updated at :2026-07-15T09:20:41+0000",
-    "posted_at": "2026-07-31 12:30:40",
+    "posted_at": "2026-08-01 07:12:02",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/33799",
-    "loaded_at": "2026-07-31 18:00:40"
+    "loaded_at": "2026-08-01 12:42:02"
   },
   {
     "company": "ZS",
-    "role": "Senior Talent Sourcer",
+    "role": "Senior Cloud Administrator",
     "description": "description",
-    "responsibilities": "Senior Talent Sourcer \u2013 Global Hiring About Talent Sourcing & Intelligence (TSI) The Talent Sourcing & Intelligence (TSI) team is a strategic global function that partners closely with Talent Acquisition and business leaders to identify, engage, and attract exceptional talent across consulting, technology, analytics, AI, life sciences, and corporate functions. Beyond sourcing, TSI drives market intelligence, talent mapping, competitor research, workforce insights, and leverages AI-powered recruiting technologies to enable smarter hiring decisions. As trusted advisors, we help shape talent strategies that support ZS\u2019s global growth. Role Overview We are looking for a passionate, curious, and technology-savvy Senior Talent Sourcer to join our Global Talent Sourcing & Intelligence team. In this role, you will partner with recruiters and hiring managers to develop innovative sourcing strategies, build diverse talent pipelines, generate market intelligence, and leverage GenAI and AI-enabled recruiting tools to identify and engage world-class talent globally. If you enjoy solving complex hiring challenges, uncovering hidden talent, and using data and technology to influence hiring decisions, we\u2019d love to hear from you. Key Responsibilities Partner with Recruiters and Hiring Managers to develop innovative sourcing strategies for global hiring across multiple business functions and geographies. Build and maintain high-quality talent pipelines through proactive sourcing, networking, referrals, social platforms, professional communities, and industry events. Utilize advanced sourcing techniques including Boolean search, X-Ray search, market mapping, and competitive intelligence. Leverage AI and GenAI-powered recruiting tools to accelerate candidate discovery, personalize outreach, automate research, and improve sourcing productivity. Create talent maps, organizational charts, competitor analyses, succession maps, and market intelligence reports to support strategic hiring decisions. Conduct industry research including talent availability, hiring trends, compensation benchmarking, competitor movement, and emerging skill landscapes. Partner with recruiters to define target talent personas and build long-term pipelines for critical and niche skill areas. Develop compelling candidate engagement strategies and employer branding initiatives to attract passive talent. Maintain accurate sourcing activity, talent insights, and pipeline data within the Applicant Tracking System (ATS) and CRM. Present sourcing insights and market intelligence to recruiters, hiring managers, and senior stakeholders. Support strategic hiring initiatives including new capability builds, leadership hiring, geographic expansion, and workforce planning projects. Champion continuous improvement by adopting emerging sourcing technologies, AI innovations, automation, and best practices. Qualifications Bachelor\u2019s degree with a strong academic record. 4\u20136 years of experience in global talent sourcing, executive search research, talent intelligence, recruitment research, or corporate recruiting, with exposure to hiring across multiple geographies. Strong expertise in internet research, Boolean search, X-Ray search, LinkedIn Recruiter, and other sourcing platforms. Experience creating talent maps, competitor intelligence reports, and market research. Exposure to AI/GenAI recruiting platforms (e.g., LinkedIn AI, Copilot, ChatGPT, Gemini, sourcing automation tools, talent intelligence platforms, CRM automation) is highly desirable. Strong analytical and research capabilities with the ability to translate market insights into actionable hiring recommendations. Excellent stakeholder management and communication skills, with confidence engaging senior professionals globally. Ability to manage multiple searches simultaneously while maintaining exceptional attention to detail. Proficiency in Microsoft Office (Excel, PowerPoint, Word) and recruitment systems (ATS/CRM). Curiosity, innovation mindset, and enthusiasm for leveraging technology to transform recruiting",
-    "qualifications": ".",
+    "responsibilities": "Senior Cloud Administrator We seek an experienced, professional Sr. Cloud Administrator to join our Pune, India office. This role is responsible for deploying and administering a cloud-based computing platform within ZS. What You\u2019ll Do: As an Sr. Cloud Administrator in the Enterprise you will - Manage end-to-end Salesforce deployments across Dev, QA, UAT, Pre-Prod, and Production environments. Design and maintain CI/CD pipelines using SFDX CLI with Jenkins, Azure DevOps, and GitHub Actions. Work with Salesforce deployment tools such as Copado and Gearset. Manage release planning, deployment execution, release notes, approvals, and post-release validation. Define and support branching strategies including feature, release, hotfix, and main branches. Implement quality gates such as validation deployments, Apex test execution, code coverage checks, and static code analysis. Support rollback planning, deployment recovery, and production issue resolution. Manage back sync activities to ensure production changes are aligned with lower environments and source branches. Support Salesforce backup and recovery processes before major releases. Plan and execute sandbox refreshes and post-refresh activities. Support sandbox seeding and test data preparation for QA and UAT. Ensure data masking and data privacy controls are applied in lower environments. Maintain metadata consistency across Salesforce environments. Support multi-country Salesforce implementations with country-specific configurations and release dependencies. Ensure security and compliance considerations are followed during deployments. Maintain DevOps documentation, release checklists, rollback plans, and environment governance standards. Required Skills 3\u20136 years of Salesforce experience with strong focus on DevOps and Release Management. Hands-on experience with SFDX CLI and Metadata-based Salesforce deployments. Experience with Jenkins, Azure DevOps, and GitHub Actions. Experience with Copado and/or Gearset. Strong understanding of Git version control and branching strategy. Good knowledge of Salesforce Admin concepts including profiles, permission sets, roles, sharing rules, objects, fields, flows, and validation rules. Experience managing Salesforce releases across multiple environments. Experience with rollback, back sync, backup, sandbox refresh, sandbox seeding, and data masking. Understanding of Salesforce security model and deployment governance. Experience with Sales Cloud, Service Cloud, and Experience Cloud. Experience working on multi-country Salesforce implementations. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
     "location": "Pune",
-    "posting_date": "2026-07-13T12:40:00+0000Updated at :2026-07-13T13:10:38+0000",
-    "posted_at": "2026-07-31 12:30:40",
+    "posting_date": "2026-07-13T09:21:00+0000Updated at :2026-07-13T11:10:32+0000",
+    "posted_at": "2026-08-01 07:12:02",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/62134",
-    "loaded_at": "2026-07-31 18:00:40"
+    "apply_link": "https://jobs.zs.com/all/jobs/62121",
+    "loaded_at": "2026-08-01 12:42:02"
+  },
+  {
+    "company": "ZS",
+    "role": "Business Technology Solutions Associate Consultant- Anaplan",
+    "description": "description",
+    "responsibilities": "What you\u2019ll do: Collaborate with ZS internal teams and client teams to shape and implement high quality technology solutions that address critical business problems Develop a deep understanding of the business problems and effectively translate them into technical designs Lead modules and workstreams within projects while participating in hands on implementation Work with technical architects to validate the technical design and implementation approach Apply appropriate development methodologies and best practices to ensure exceptional client and project team experience Support the project lead in project delivery, including project planning, people management, staffing, and risk mitigation Manage a diverse team with various skill sets while providing mentorship and coaching to junior members Lead task planning and distribution among team members for timely completion of projects with high-quality results Guide the project deliverables such as business case development, solution vision and design, user requirements, prototypes, technical architecture, test cases, deployment plans and operations strategy ",
+    "qualifications": "What you\u2019ll bring: Undertake primary ownership in driving self and team effort across all phases of a project lifecycle Translate business requirements into technical designs and drive team efforts to design, build, and manage Anaplan-based Sales Performance Management (SPM) solutions that solve complex business problems Lead requirements gathering workshops and collaborate with business stakeholders to understand planning, sales operations, incentive compensation, territory, and quota management requirements Design and implement scalable Anaplan solutions supporting Territory Planning, Quota Planning, Incentive Compensation Management, Sales Forecasting, Workforce Planning, and Sales Planning processes Own solution architecture, including model design, dimensional design, security framework, integration architecture, deployment strategy, and governance processes Apply appropriate development methodologies (Agile, Waterfall, Hybrid) and implementation best practices to ensure successful and timely completion of projects Partner with Project Leads and Program Leads in delivering projects and assist with project management responsibilities including project planning, staffing, risk mitigation, and stakeholder communication Lead and mentor a team of 3\u20135 Anaplan developers/model builders, providing technical guidance, design reviews, implementation oversight, and quality assurance Collaborate with global teams and stakeholders to ensure seamless communication, delivery execution, and knowledge sharing Lead task planning and task distribution across team members and ensure timely completion of deliverables with high quality standards Lead project deliverables including solution vision and design, business requirements, user stories, model architecture, integration design, testing strategy, deployment planning, and operational readiness Manage direct and indirect client communications and act as a trusted advisor during solution design and implementation activities Design and implement integrations between Anaplan and enterprise systems such as Salesforce, SAP, Snowflake, Databricks, Azure, AWS, and other enterprise platforms Drive testing activities across SIT, UAT, deployment, and hypercare phases, ensuring alignment between business requirements and delivered functionality Review and optimize Anaplan models for scalability, maintainability, performance, and governance compliance Support business development activities including solution demonstrations, effort estimation, proposal development, staffing strategy, and capability-building initiatives Exhibit continuous improvement and innovation by adopting new technologies, implementation methodologies, and planning frameworks while helping team members do the same Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Qualification & Experience Bachelor\u2019s/Master\u2019s degree with specialization in Computer Science, MIS, IT, Engineering, Business Analytics, Operations Research, or other related disciplines 4\u20136 years of relevant consulting-industry experience working on medium to large-scale technology solution delivery engagements Master Anaplanner certification is mandatory At least 3 years of hands-on experience implementing Anaplan solutions across Sales Performance Management (SPM), Territory Planning, Quota Planning, Incentive Compensation, Sales Forecasting, Workforce Planning, or related planning use cases Experience leading requirements gathering workshops and translating business requirements into scalable solution designs Strong understanding of solution architecture, model design patterns, integration architecture, security design, and enterprise planning frameworks Demonstrated experience leading teams of 3\u20135 developers/model builders across multiple workstreams and managing delivery quality, timelines, and stakeholder expectations Experience designing and implementing enterprise-scale Anaplan models, including model architecture, dimensional design, ALM, security, and performance optimization Experience building and managing Data Hub architectures and enterprise planning ecosystems Experience integrating Anaplan with Salesforce, SAP, Snowflake, Databricks, Azure, AWS, or similar enterprise platforms Strong understanding of sales planning processes, territory design methodologies, quota allocation processes, incentive compensation management, and forecasting best practices Experience leading implementation, SIT, UAT, deployment, training, and client enablement activities Experience creating solution blueprints, technical specifications, test strategies, deployment plans, and operational support models Prior consulting experience working directly with client stakeholders and business leadership teams Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
+    "location": "Pune",
+    "posting_date": "2026-07-07T05:51:00+0000Updated at :2026-07-07T06:30:38+0000",
+    "posted_at": "2026-08-01 07:12:02",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/62034",
+    "loaded_at": "2026-08-01 12:42:02"
+  },
+  {
+    "company": "ZS",
+    "role": "Business Technology Solutions Associate- Anaplan",
+    "description": "description",
+    "responsibilities": "Business Technology ZS\u2019s Technology group focuses on scalable strategies, assets and accelerators that deliver to our clients enterprise-wide transformation via cutting-edge technology. We leverage digital and technology solutions to optimize business processes, enhance decision-making, and drive innovation. Our services include, but are not limited to, Digital and Technology advisory, Product and Platform development and Data, Analytics and AI implementation. What you\u2019ll do: Undertake primary ownership in driving self-effort across all phases of a project lifecycle Translate business requirements into technical specifications and support the design, build, and maintenance of Anaplan-based planning solutions Apply appropriate development methodologies (e.g.: Agile, Waterfall) and best practices to ensure successful and timely project delivery Collaborate with Project Leads, Solution Architects, and team members to support project execution, testing, deployment, and operational activities Work closely with global delivery teams and stakeholders to ensure seamless communication and execution of assigned tasks Configure and develop Anaplan models, modules, lists, hierarchies, dashboards, UX pages, workflows, and business rules Support development of Territory Planning, Quota Planning, Incentive Compensation, Sales Planning, Forecasting, and Workforce Planning solutions Create and maintain project deliverables such as user stories, design documents, test cases, deployment documentation, training materials, and operational support documents Participate in SIT, UAT, deployment, and post-production support activities Support client meetings, requirement discussions, solution walkthroughs, and status reporting activities Exhibit continuous learning and innovation while building expertise across Anaplan platform capabilities and planning processes Understand client requirements and develop scalable Anaplan solutions based on approved designs and implementation standards Demonstrate strong analytical and problem-solving skills while supporting solution development and testing activities Additional Skills: Strong understanding of Anaplan platform capabilities including Model Building, UX, Data Hub, CloudWorks, ALM, and model optimization techniques Good understanding of Sales Performance Management (SPM), Territory Planning, Quota Planning, Incentive Compensation Management, and Sales Planning processes Excellent verbal and written communication skills with appropriate and logical structuring of thought process during discussions and presentations Strong analytical and problem-solving skills with attention to detail and quality Ability to work independently and collaboratively within a global team environment Ability to distill complex business requirements into scalable technical solutions Strong stakeholder engagement skills and ability to communicate effectively with both business and technical teams Willingness to travel to other global offices as needed to work with clients or other internal project teams What You'll Bring Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
+    "location": "Pune",
+    "posting_date": "2026-07-07T05:50:00+0000Updated at :2026-07-07T06:30:38+0000",
+    "posted_at": "2026-08-01 07:12:02",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/62030",
+    "loaded_at": "2026-08-01 12:42:02"
   }
 ]
