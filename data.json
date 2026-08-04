@@ -85,6 +85,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Software Engineer III",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-08-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757296",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Sr Manager of Software Engineering",
     "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams ",
     "responsibilities": null,
@@ -123,6 +137,48 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762000",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile teams.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-08-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762149",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Lead Software Engineer - AI",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-08-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763922",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III - ( Java , Python)",
+    "description": "Job Description\n\nWe have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n\nAs a Software Engineer III at JPMorganChase within the Employee Platforms Team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm\u2019s business objectives. ",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-08-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764928",
     "loaded_at": null
   },
   {
@@ -169,6 +225,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Software Engineer II - Java, UI, Spark, Kafka",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-08-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772449",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer III - Java / Python with Drools",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -179,6 +249,20 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773275",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer III\u2013 UI React Developer",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-08-04",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774367",
     "loaded_at": null
   },
   {
@@ -406,88 +490,32 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Data Domain Architect - Associate",
-    "description": "Enhance finance operations by improving business processes, data flows, and strengthening operational controls.\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-31",
-    "posted_at": null,
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773757",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Cloud Administrator",
+    "description": "description",
+    "responsibilities": "Cloud Administrator / AWS We seek a professional IT administrator to join our Pune, India office. This role is responsible for deploying and administering a cloud-based computing platform within ZS. What you'll do: Cloud Administratorin the Enterprise will\u2026 Manage day-to-day operations of AWS infrastructure across multiple accounts and environments (Prod, Stage, Dev). Handle incident management, troubleshooting, and root cause analysis for AWS services such as EC2, S3, RDS, Lambda, EMR, CloudWatch, and IAM. Ensure high availability, reliability, and performance of cloud-based applications. Monitor system health, utilization, and cost metrics using AWS-native tools (CloudWatch, Cost Explorer, etc.). Perform regular operational activities including access management, resource optimization, patching coordination, and service requests. Collaborate with Engineering, Security, and Data teams to enable secure and scalable cloud architectures. Support infrastructure provisioning and management using Terraform modules and templates. Assist in maintaining consistency between desired and actual cloud states (drift detection and remediation) Contribute to automation of repetitive operational tasks to improve efficiency and reduce manual effort. Work with CI/CD pipelines to enable infrastructure deployment and updates What you'll bring: Bachelor's Degree in CS, IT or EE with record of high academic achievement. 1-3 years of experience in AWS and on-premise infrastructure security administration. Experience on participating MLPS and understanding of related controls is a plus. Possess strong verbal, written and team presentation communication skills. Ability to work within a global (US and India) team environment and contribute to the overall timely delivery of multiple projects. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
+    "qualifications": "h",
+    "location": "Pune",
+    "posting_date": "2026-08-04T07:33:00+0000Updated at :2026-08-04T07:57:20+0000",
+    "posted_at": "2026-08-04 10:16:50",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/63312",
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
-    "company": "JPMC",
-    "role": "MIS Operations Analyst",
-    "description": "Enhance finance operations by improving business processes, data flows, and strengthening operational controls.\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-31",
-    "posted_at": null,
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775725",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Vice President - Investment Solutions -  Funds Product Development",
-    "description": "Are you keen in transforming and overseeing governance frameworks and due diligence frameworks?",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-07-31",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738305",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "VP - Product Manager - Tech Product Management",
-    "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "India",
-    "posting_date": "2026-07-31",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768845",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Product Manager Technical",
-    "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-07-31",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774733",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Software Engineer III - Java, Springboot, Cloud",
-    "description": "Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top-notch technology product",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-07-31",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737237",
-    "loaded_at": null
+    "company": "ZS",
+    "role": "Senior Engineer - Gen AI",
+    "description": "description",
+    "responsibilities": "What You\u2019ll Do Collaborate with client facing teams to understand solution context and contribute in technical requirement gathering and analysis Design and implement technical features leveraging best practices for technology stack being used Work with technical architects on the team to validate design and implementation approach Write production-ready code that is easily testable, understood by other developers and accounts for edge cases and errors Ensure highest quality of deliverables by following architecture/design guidelines, coding best practices, periodic design/code reviews Write unit tests as well as higher level tests to handle expected edge cases and errors gracefully, as well as happy paths Uses bug tracking, code review, version control and other tools to organize and deliver work Participate in scrum calls and agile ceremonies, and effectively communicate work progress, issues and dependencies Consistently contribute in researching & evaluating latest technologies through rapid learning, conducting proof-of-concepts and creating prototype solutions What You\u2019ll Bring 2+ years of relevant hands-on experience CS foundation is must Strong command over distributed computing framework like Spark (preferred) or others. Strong analytical / problems solving Ability to quickly learn and become hands on new technology and be innovative in creating solutions Strong in at least one of the Programming languages - Python or Java, Scala, etc. and Programming basics - Data Structures Hands on experience in building modules for data management solutions such as data pipeline, orchestration, ingestion patterns (batch, real time) Experience in designing and implementation of solution on distributed computing and cloud services platform (but not limited to) - AWS, Azure, GCP Good understanding of RDBMS, with some exp on ETL is preferred Additional Skills: Understanding of DevOps, CI / CD, data security, experience in designing on cloud platform AWS Solutions Architect certification with understanding of broader AWS stack Knowledge of data modeling and data warehouse concepts Willingness to travel to other global offices as needed to work with client or other internal project team",
+    "qualifications": "s",
+    "location": "Pune",
+    "posting_date": "2026-08-04T07:26:00+0000Updated at :2026-08-04T07:57:20+0000",
+    "posted_at": "2026-08-04 10:16:50",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/22012",
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
     "company": "ZS",
@@ -496,12 +524,12 @@
     "responsibilities": "ZS\u2019s Corporate Enterprise Functions operate the firm\u2019s core internal functions. Our global teams comprise team-oriented, pragmatic and results-driven people who thrive in a challenging work environment. Our people come from diverse backgrounds but share a passion for quality customer service and dedication\u2014whether our customer is a client or another ZS employee. \u202f Associate\u202fCounsel Our\u202flegal\u202f\u202fteam\u202freviews\u202f\u202fcontracts,\u202fadvises\u202fthe\u202ffirm\u202fon\u202fmatters\u202fof\u202flegal\u202fconsequence,\u202f\u202fand\u202fproactively\u202f\u202fassesses\u202f\u202fand\u202fmanages\u202f\u202fthe\u202ffirm\u2019s\u202frisk\u202f\u202fexposure.\u202f\u202fThe\u202flegal\u202fteam\u202fis responsible\u202ffor\u202f\u202fstaying\u202fabreast\u202f\u202fof\u202f\u202flegal\u202f\u202fdevelopments\u202f\u202fimpacting\u202fthe\u202ffirm\u202fon\u202fa\u202fglobal\u202fbasis\u202fand\u202fthen\u202fadvising\u202f\u202fthe\u202ffirm\u202fbased\u202fon\u202fthe\u202fchanging\u202flegal\u202flandscape. What You\u2019ll Do\u202f\u202f Support global contracting process, which includes tasks such as: Reviewing, revising and negotiating client agreements such as confidentiality agreements, master services agreements, software licensing agreements, data access agreements, data processing agreements etc.; Drafting and managing ZS form contracts; Responding to legal queries for client Request for Proposals (RFP/RFIs) Helping to manage the overall contracting processes; Assist in providing legal support to business functions and across various client practice areas; Liaising with external and internal stakeholders What You\u2019ll Bring\u202f\u202f LLB degree with strong academic background required 1-3 years of relevant work experience, International legal experience and foreign language competencies preferred Superior oral and written communication skills Motivation, personal initiative and strong team/interpersonal skills Strong analytic skills and problem solving ability Proven attention to detail and high level of accuracy Excellent time management skills Flexibility to facilitate meeting with internal and external contacts globally Basic knowledge and prior experience with contract management tools Proficiency in leveraging proprietary AI tools to streamline workflows and drive productivity Additionally, service provider/vendor contract transactional experience is particularly valuable. ZS is a global consulting firm; fluency in English is required. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
     "qualifications": "h",
     "location": "Pune",
-    "posting_date": "2026-08-04T07:17:00+0000Updated at :2026-08-04T07:18:07+0000",
-    "posted_at": "2026-08-04 07:20:43",
+    "posting_date": "2026-08-04T07:17:00+0000Updated at :2026-08-04T07:57:20+0000",
+    "posted_at": "2026-08-04 10:16:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/63311",
-    "loaded_at": "2026-08-04 12:50:43"
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
     "company": "ZS",
@@ -510,12 +538,12 @@
     "responsibilities": "",
     "qualifications": "What you\u2019ll bring: Bachelor's degree required; MBA or equivalent advanced degree a plus 12\u201315+ years of product management/delivery experience, including demonstrated experience managing other product managers or product owners Strong track record of driving SaaS/platform roadmap execution end-to-end \u2014 sprint planning, release management, cross-team dependency resolution \u2014 in a multi-pod, multi-region delivery environment Working knowledge of Agile/Scrum delivery frameworks and associated tooling (e.g., Jira, Confluence) Life sciences, healthcare, or other regulated-industry domain exposure preferred, but strong delivery discipline in any enterprise SaaS context will be considered Comfort managing ambiguity and shifting priorities across multiple concurrent delivery streams Demonstrated ability to operate as the execution counterpart to strategy leadership based in a different region/time zone, with strong async and cross-time-zone communication habits Strong listening, written, and verbal communication skills \u2014 able to synthesize input across stakeholders, write a one-line description, a one-pager, and present a concept live with a clear narrative Hands-on experience with AI/LLM-powered products, including agentic workflows, prompt and tool orchestration, evaluation and monitoring, and safety guardrails Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
-    "posting_date": "2026-08-04T06:00:00+0000Updated at :2026-08-04T06:01:06+0000",
-    "posted_at": "2026-08-04 07:20:43",
+    "posting_date": "2026-08-04T06:00:00+0000Updated at :2026-08-04T07:57:20+0000",
+    "posted_at": "2026-08-04 10:16:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62847",
-    "loaded_at": "2026-08-04 12:50:43"
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
     "company": "ZS",
@@ -525,11 +553,11 @@
     "qualifications": ".",
     "location": "Gurugram",
     "posting_date": "2026-08-03T09:29:00+0000Updated at :2026-08-03T09:46:41+0000",
-    "posted_at": "2026-08-04 07:20:43",
+    "posted_at": "2026-08-04 10:16:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61878",
-    "loaded_at": "2026-08-04 12:50:43"
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
     "company": "ZS",
@@ -539,11 +567,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-08-03T08:54:00+0000Updated at :2026-08-03T09:46:41+0000",
-    "posted_at": "2026-08-04 07:20:43",
+    "posted_at": "2026-08-04 10:16:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/63244",
-    "loaded_at": "2026-08-04 12:50:43"
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
     "company": "ZS",
@@ -553,11 +581,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Engineering, Computer Science, or related field; MBA preferred. 18+ years of professional experience spanning consulting and core industry roles, with a strong blend of strategic advisory, digital transformation leadership, and hands\u2011on operational exposure in manufacturing environments. Significant tenure in the consulting industry, driving large\u2011scale transformation programs for global clients, including roadmap definition, operating model design, capability building, and delivery oversight for digital supply chain and manufacturing, IT\u2011OT integration, control towers, and Industry 4.0/5.0 initiatives. Prior foundational experience in the core manufacturing industry, providing deep understanding of real\u2011world plant operations, production processes, supply chain dynamics, and technology adoption challenges within complex industrial setups. Deep expertise in Digital Supply Chain, Industry 4.0/5.0, IoT/IIoT, cloud platforms, Supply Chain Control Towers, AI/ML, automation, and IT\u2011OT integration, along with hands\u2011on experience implementing digital manufacturing solutions (MES, QMS, LIMS, PIMS, SCADA, historians, edge computing, etc.). Strong knowledge of supply chain and manufacturing processes across multiple sectors (e.g., Automotive, Life Sciences, Oil & Gas, FMCG), combining core industry exposure with consulting\u2011led transformation experience. Proven ability to lead cross\u2011functional and multi\u2011geography teams, manage P&L or portfolio-level financials, and deliver complex, multi\u2011tower digital programs in advisory and delivery roles. Certifications such as PMP, Scrum Master, SIRI Assessor, or equivalent are a plus. How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
     "posting_date": "2026-07-31T13:30:00+0000Updated at :2026-07-31T15:13:05+0000",
-    "posted_at": "2026-08-04 07:20:43",
+    "posted_at": "2026-08-04 10:16:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23868",
-    "loaded_at": "2026-08-04 12:50:43"
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
     "company": "ZS",
@@ -567,11 +595,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's or master's degree required in Chemical Engineering, Mechanical Engineering, Material Engineering, Computer Science, Chemistry, Biotechnology or similar degree 1+ years of relevant post-collegiate job experience. A PhD may substitute in lieu of work experience. Hands-on experience with at least one of the functions in CMC development such as Process Chemistry, Process Engineering, Formulation, and Analytical Chemistry Understanding of the different data and information systems such as ELN, LIMS, ERP systems, and LCM or PLM systems Experience contributing to the implementation of LIMS, ELN, or GLP-compliant digital systems, with focus on improving CMC data integrity, regulatory readiness, and lab-to-business process alignment Willingness to develop expertise in system configuration, validation, and compliance aspects of pharmaceutical digital lab solutions. Knowledge of key concepts including unit operations, processes, quality by design (QbD), tech transfer, process validation, quality attributes, and regulatory milestones across pharma development Understanding of the CMC related regulatory submission requirements Experience with at least one tech transfer, explore to analytics, AI and/or technology implementation in CMC preferred Strong ability to identify data anomalies, design data validation rules, and perform data cleanup to ensure high-quality data. Project management and task planning experience, ensuring smooth execution of deliverables and timelines. Strong communication and interpersonal skills to collaborate with both technical and non-technical teams. Experience with automation testing High motivation, good work ethic, maturity and personal initiative. Self-discipline for planning and organizing tasks Aptitude for, and enjoyment of, working in teams Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
     "location": "Gurugram",
     "posting_date": "2026-07-30T09:44:00+0000Updated at :2026-07-30T11:07:49+0000",
-    "posted_at": "2026-08-04 07:20:43",
+    "posted_at": "2026-08-04 10:16:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61875",
-    "loaded_at": "2026-08-04 12:50:43"
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
     "company": "ZS",
@@ -581,11 +609,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-07-28T09:02:00+0000Updated at :2026-07-28T10:51:30+0000",
-    "posted_at": "2026-08-04 07:20:43",
+    "posted_at": "2026-08-04 10:16:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62636",
-    "loaded_at": "2026-08-04 12:50:43"
+    "loaded_at": "2026-08-04 15:46:50"
   },
   {
     "company": "ZS",
@@ -595,38 +623,10 @@
     "qualifications": "What you\u2019ll bring: Exp 2-5 years Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-07-17T05:40:00+0000Updated at :2026-07-21T09:56:36+0000",
-    "posted_at": "2026-08-04 07:20:43",
+    "posted_at": "2026-08-04 10:16:50",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62237",
-    "loaded_at": "2026-08-04 12:50:43"
-  },
-  {
-    "company": "ZS",
-    "role": "Senior Salesforce Cloud Administrator",
-    "description": "description",
-    "responsibilities": "What You\u2019ll Do\u202f\u202f Manage end-to-end Salesforce deployments across development, QA, staging, and production environments in Agile/Scrum settings. Implement and maintain CI/CD pipelines using tools like Jenkins, Bitbucket, and Git and TeamCity. Utilize Salesforce DX (SFDX) CLI for source-driven development and metadata deployments. Manage version control, branching strategies, and release cycles. Handle sandbox provisioning, data seeding, and environment refreshes. Define and implement DevOps processes and automation for improved deployment efficiency and quality. Collaborate with developers, admins, testers, and release managers to ensure deployment readiness. Maintain and manage backup strategies and rollback plans for Salesforce metadata and data. Provide technical expertise in resolving deployment-related issues, and work with stakeholders to drive root cause analysis. Ensure compliance with Salesforce security and governance standards. Troubleshooting the application from Salesforce Admin. What You\u2019ll Bring\u202f\u202f 3 to 6 years of hands-on experience with Salesforce Administration & DevOps, including release management, CI/CD, and environment management. Strong understanding of SFDX CLI and source/metadata formats. Working Experience with CI/CD tools like Copado, Jenkins, Bitbucket, Git. Strong understanding of branching and deployment strategies (feature branching, Git Flow, etc.). Understanding of DevSecOps \u2013 Static Application Security Testing (SonarQube or similar tool) Salesforce Sandbox Management, including seeding and refresh strategy. Salesforce Security model understanding profiles, permission sets, OWD, role hierarchy, and sharing settings. com Certification (Administrator, Platform App Builder or Platform Developer I minimum). Experience with declarative tools development: Flows, Reports & Dashboards. Understanding of Apex, Visualforce, LWC, and JavaScript within the Salesforce platform. Excellent communication and collaboration skills with cross-functional teams. Strong troubleshooting and analytical skills Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Good-to-Have Skills: Min 1 year Health Cloud Experience Experience with Salesforce backup solutions (OwnBackup, Spanning, etc.). Scripting languages like PowerShell, Python, or Bash for automation. Experience in monitoring and alerting tools for Salesforce environments. Platform Developer II or Architect certifications. Experience with third-party Salesforce DevOps tools. Knowledge of Salesforce limits and best practices to optimize performance on a scale. Experience working with external systems via APIs and Salesforce integrations. Exposure to Agile/Scrum ceremonies and tools (JIRA, Confluence)",
-    "qualifications": ".",
-    "location": "Pune",
-    "posting_date": "2026-07-15T09:14:00+0000Updated at :2026-07-15T11:24:30+0000",
-    "posted_at": "2026-08-04 07:20:43",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/31397",
-    "loaded_at": "2026-08-04 12:50:43"
-  },
-  {
-    "company": "ZS",
-    "role": "Decision Analytics Consultant - Value & Access (Market Access)",
-    "description": "description",
-    "responsibilities": "Insights & Analytics ZS's Insights & Analytics group partners with clients to design and deliver solutions to help them tackle a broad range of business challenges. Our teams work on multiple projects simultaneously, leveraging advanced data analytics and problem-solving techniques. Our recommendations and solutions are based on rigorous research and analysis underpinned by deep expertise and thought leadership.\u202f\u202f\u202f What You\u2019ll Do Design and execute market access projects, including payer landscape assessments, formulary access analyses, deep dives into access barriers, contracting scenario modeling, and contract operations etc. Analyze and interpret quantitative/ qualitative research data to provide clear, actionable insights. Collaborate with internal leadership and client teams to define project objectives, deliverables, and timelines. Present analytical findings and recommendations through compelling slide decks and/or excel workbooks to effectively communicate insights and support stakeholder decision\u2011making. Manage overall project, stakeholder and clients, day-to-days tasks and lead a team of Associates and Associate Consultants. Act as a Market Access subject matter expert, guiding and onboarding Associates and Associate Consultants. Work closely with cross-functional teams across geographies on a day-to-day basis and on multiple projects simultaneously. What You\u2019ll Bring A bachelor\u2019s or master\u2019s degree in engineering (any discipline) with strong academic performance, particularly in analytics and quantitative coursework 5 \u2013 7 years of relevant job experience. An MBA/PhD may substitute in lieu of work experience Good to have a deep understanding of the U.S. healthcare system, including payer mix (commercial, Medicaid, Medicare) and market access levers (rebates, contracting) Hands\u2011on experience with claims and formulary databases Strong analytical mindset with meticulous attention to detail Advanced skills in MS Excel, SQL, MS PowerPoint for report creation, familiarity with Power BI, Tableau and Python/R is a plus Structured communication skills, with the ability to present complex information in a clear and concise manner to clients Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Gurugram",
-    "posting_date": "2026-07-15T07:46:00+0000Updated at :2026-07-15T09:20:41+0000",
-    "posted_at": "2026-08-04 07:20:43",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/33799",
-    "loaded_at": "2026-08-04 12:50:43"
+    "loaded_at": "2026-08-04 15:46:50"
   }
 ]
