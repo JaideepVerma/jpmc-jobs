@@ -71,6 +71,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Senior Lead Software Engineer - Java Full Stack",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-08-10",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739708",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Software Engineer III,Python/AWS, AWS,CI/CD, Kubernetes",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
     "responsibilities": null,
@@ -141,6 +155,20 @@
   },
   {
     "company": "JPMC",
+    "role": "Senior Lead Software Engineer ( Python, Java Backend Engineering)",
+    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-08-10",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764929",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
     "role": "Lead Software Engineer - Java Full Stack",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team.",
     "responsibilities": null,
@@ -207,6 +235,34 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775695",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Software Engineer II",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-08-10",
+    "posted_at": null,
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776737",
+    "loaded_at": null
+  },
+  {
+    "company": "JPMC",
+    "role": "Data Owner Senior Associate",
+    "description": "Lead data strategy and governance to promote meaningful business outcomes within our dynamic team.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-08-07",
+    "posted_at": null,
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750390",
     "loaded_at": null
   },
   {
@@ -434,74 +490,18 @@
     "loaded_at": null
   },
   {
-    "company": "JPMC",
-    "role": "Product Director - Card Account Management",
-    "description": "Lead product strategy and delivery, guiding teams to build compliant, high quality solutions that elevate customer experience and value",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-08-06",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777165",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Alternatives Product owner - Associate",
-    "description": "Drive GAIS fund controller & tax platform roadmap\u2014simplify ecosystems, scale operations, and improve client delivery.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-08-06",
-    "posted_at": null,
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777622",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Senior Manager of Software Engineering - Data Engineer",
-    "description": "Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-08-06",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758222",
-    "loaded_at": null
-  },
-  {
-    "company": "JPMC",
-    "role": "Lead Site Reliability Engineer",
-    "description": "Lead and conduct resiliency design reviews, break up complex problems, and act as a technical lead for large sized products",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-08-06",
-    "posted_at": null,
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760033",
-    "loaded_at": null
-  },
-  {
     "company": "ZS",
     "role": "Business Technology Solutions Associate Consultant (Knowledge Graph)",
     "description": "description",
     "responsibilities": "Supply Chain & Manufacturing Team at ZS The Supply Chain & Manufacturing team at ZS is dedicated to optimizing and transforming supply chain operations for our clients across various industries. Out team offers a comprehensive range of services from stragegy and advanced analytics to planning and technology, aimed at optimizing resource deployment while maintaining high customer service levels. We are committed to driving innvotation and efficiency through cutting-edge solutions that address the complex challenges of supply chain and manufacturing operations. Business Technology Associate Consultant We are seeking a dedicated and detail-oriented Business Technology Associate Consultant with 3+ years of experience in data management and analysis. The successful candidate will leverage their expertise in Knowledge Graph, Neo4j or AWS Neptune or Anzo knowledge graph Database, Graph development, and cloud technologies such as AWS and Snowflake/Databricks to enhance our data quality and support Master Data Management (MDM) initiatives. You will be part of our Supply Chain and Manufacturing team, working closely with cross-functional teams and clients to ensure data integrity and deliver actionable insights. What you\u2019ll do: We are looking for experienced Knowledge Graph developers who have the following set of technical skillsets and experience. Undertake complete ownership in accomplishing activities and assigned responsibilities across all phases of project lifecycle to solve business problems across one or more client engagements. Apply appropriate development methodologies (e.g.: agile, waterfall) and best practices (e.g.: mid-development client reviews, embedded QA procedures, unit testing) to ensure successful and timely completion of assignments. Collaborate with other team members to leverage expertise and ensure seamless transitions; Exhibit flexibility in undertaking new and challenging problems and demonstrate excellent task management. Assist in creating project outputs such as business case development, solution vision and design, user requirements, prototypes, and technical architecture (if needed), test cases, and operations management. Bring transparency in driving assigned tasks to completion and report accurate status. Bring Consulting mindset in problem solving, innovation by leveraging technical and business knowledge/ expertise and collaborate across other teams. Assist senior team members, delivery leads in project management responsibilities. Build complex solutions using Programing languages, ETL service platform, etc. ",
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s or master\u2019s degree in computer science, Engineering, or a related field. 4+ years of professional experience in Knowledge Graph development in Neo4j or AWS Neptune or Anzo knowledge graph Database. 3+ years of experience in RDF ontologies, Data modelling & ontology development. Strong expertise in python, pyspark, SQL. Strong ability to identify data anomalies, design data validation rules, and perform data cleanup to ensure high-quality data. Project management and task planning experience, ensuring smooth execution of deliverables and timelines. Strong communication and interpersonal skills to collaborate with both technical and non-technical teams. Experience with automation testing. Performance Optimization: Knowledge of techniques to optimize knowledge graph operations like data inserts. Data Modeling: Proficiency in designing effective data models within Knowledge Graph, including relationships between tables and optimizing data for reporting. Motivation and willingness to learn new tools and technologies as per the team\u2019s requirements. Fluency in English. Client-first mentality. Intense work ethic. Collaborative spirit and problem-solving approach. Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Experience in pharma or life sciences data: Familiarity with pharmaceutical datasets, including product, patient, or healthcare provider data, is a plus. Experience in manufacturing data is a plus Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams How you\u2019ll grow: Cross-functional skills development & custom learning pathways. Milestone training programs aligned to career progression opportunities. Internal mobility paths that empower growth via s-curves, individual contribution and role expansions. Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Noida",
-    "posting_date": "2026-08-10T05:49:00+0000Updated at :2026-08-10T09:30:06+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posting_date": "2026-08-10T05:49:00+0000Updated at :2026-08-10T10:32:36+0000",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24172",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -511,11 +511,11 @@
     "qualifications": "What you\u2019ll bring: 10+ years of software engineering experience, including 3+ years in a technical leadership or engineering management role Strong backend engineering experience in Python (FastAPI, Flask, or similar frameworks) Hands-on experience building, integrating, and scaling GenAI / LLM-based systems, including prompt pipelines, model APIs, and agentic or workflow-based AI solutions Experience building and operating AI-enabled or data-intensive systems in production Proven ability to lead engineers while remaining technically credible Experience owning architecture and delivery across multiple services Comfortable operating in ambiguity and making pragmatic technical and delivery decisions Nice to Have Experience with cloud platforms (AWS, Azure, or GCP) Exposure to consulting or client-facing environments Background in platform, shared services, or accelerator-based engineering What Success Looks Like in This Role Engineering teams operate independently with clear ownership GenAI systems are scalable, reliable, and reusable Delivery is predictable and high quality Technical decisions balance speed with long-term sustainability Engineers grow in capability, confidence, and impact",
     "location": "Bengaluru",
     "posting_date": "2026-08-07T15:30:00+0000Updated at :2026-08-07T16:17:26+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24311",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -525,11 +525,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-08-07T08:57:00+0000Updated at :2026-08-07T10:13:01+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/63345",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -539,11 +539,11 @@
     "qualifications": "What you\u2019ll bring: ZS welcomes candidates with degrees in Computer Science, Information Technology, or a related discipline 1+ years working as Splunk Developer/Admin. Excellent debugging and troubleshooting skills. Strong analytical, problem-solving, initiative and drive to contribute while being flexible and responsible in a dynamic environment Experience building automation using scripting languages like Bash/PowerShell/Python Splunk/APM tools certifications such as Splunk Power User/Splunk Admin. Knowledge of AWS concepts and working with Splunk AWS addon. Hands-on experience with APM tools like Datadog. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-08-05T06:24:00+0000Updated at :2026-08-05T08:02:36+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/63331",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -553,11 +553,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-08-04T07:33:00+0000Updated at :2026-08-04T07:57:20+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/63312",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -567,11 +567,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-08-04T07:17:00+0000Updated at :2026-08-04T07:57:20+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/63311",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -581,11 +581,11 @@
     "qualifications": "What you\u2019ll bring: Bachelor's degree required; MBA or equivalent advanced degree a plus 12\u201315+ years of product management/delivery experience, including demonstrated experience managing other product managers or product owners Strong track record of driving SaaS/platform roadmap execution end-to-end \u2014 sprint planning, release management, cross-team dependency resolution \u2014 in a multi-pod, multi-region delivery environment Working knowledge of Agile/Scrum delivery frameworks and associated tooling (e.g., Jira, Confluence) Life sciences, healthcare, or other regulated-industry domain exposure preferred, but strong delivery discipline in any enterprise SaaS context will be considered Comfort managing ambiguity and shifting priorities across multiple concurrent delivery streams Demonstrated ability to operate as the execution counterpart to strategy leadership based in a different region/time zone, with strong async and cross-time-zone communication habits Strong listening, written, and verbal communication skills \u2014 able to synthesize input across stakeholders, write a one-line description, a one-pager, and present a concept live with a clear narrative Hands-on experience with AI/LLM-powered products, including agentic workflows, prompt and tool orchestration, evaluation and monitoring, and safety guardrails Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
     "location": "Pune",
     "posting_date": "2026-08-04T06:00:00+0000Updated at :2026-08-04T07:57:20+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62847",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -595,11 +595,11 @@
     "qualifications": ".",
     "location": "Gurugram",
     "posting_date": "2026-08-03T09:29:00+0000Updated at :2026-08-05T08:02:36+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/61878",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -609,11 +609,11 @@
     "qualifications": "h",
     "location": "Pune",
     "posting_date": "2026-08-03T08:54:00+0000Updated at :2026-08-03T09:46:41+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/63244",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   },
   {
     "company": "ZS",
@@ -623,10 +623,10 @@
     "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Engineering, Computer Science, or related field; MBA preferred. 18+ years of professional experience spanning consulting and core industry roles, with a strong blend of strategic advisory, digital transformation leadership, and hands\u2011on operational exposure in manufacturing environments. Significant tenure in the consulting industry, driving large\u2011scale transformation programs for global clients, including roadmap definition, operating model design, capability building, and delivery oversight for digital supply chain and manufacturing, IT\u2011OT integration, control towers, and Industry 4.0/5.0 initiatives. Prior foundational experience in the core manufacturing industry, providing deep understanding of real\u2011world plant operations, production processes, supply chain dynamics, and technology adoption challenges within complex industrial setups. Deep expertise in Digital Supply Chain, Industry 4.0/5.0, IoT/IIoT, cloud platforms, Supply Chain Control Towers, AI/ML, automation, and IT\u2011OT integration, along with hands\u2011on experience implementing digital manufacturing solutions (MES, QMS, LIMS, PIMS, SCADA, historians, edge computing, etc.). Strong knowledge of supply chain and manufacturing processes across multiple sectors (e.g., Automotive, Life Sciences, Oil & Gas, FMCG), combining core industry exposure with consulting\u2011led transformation experience. Proven ability to lead cross\u2011functional and multi\u2011geography teams, manage P&L or portfolio-level financials, and deliver complex, multi\u2011tower digital programs in advisory and delivery roles. Certifications such as PMP, Scrum Master, SIRI Assessor, or equivalent are a plus. How you\u2019ll grow: Cross-functional skills development & custom learning pathways Milestone training programs aligned to career progression opportunities Internal mobility paths that empower growth via s-curves, individual contribution and role expansions Hybrid working model: ZS is committed to a Flexible and Connected way of working. ZSers are onsite at clients or ZS offices three days a week. Combined flexibility to work remotely two days a week is also available. The magic of ZS culture and innovation thrives in both planned and spontaneous face-to-face connections.",
     "location": "Pune",
     "posting_date": "2026-07-31T13:30:00+0000Updated at :2026-07-31T15:13:05+0000",
-    "posted_at": "2026-08-10 10:00:46",
+    "posted_at": "2026-08-10 11:32:25",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/23868",
-    "loaded_at": "2026-08-10 15:30:46"
+    "loaded_at": "2026-08-10 17:02:25"
   }
 ]
